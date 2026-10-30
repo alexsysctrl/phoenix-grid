@@ -1,0 +1,444 @@
+{
+  "source_url": "https://s22.q4cdn.com/464697698/files/doc_financials/2025/ar/PNW_2025_Annual_Report_.pdf",
+  "source_file": "source-pnw-2025-annual-report.pdf",
+  "fetched": "2026-10-28",
+  "pages": 237,
+  "how_to_read_the_rows": "a row is the filing's own table line. The numeric columns after the year are reproduced exactly as extracted; the extracted text does not make the column headers unambiguous, so they are recorded rather than interpreted.",
+  "claims": {
+    "ten_year_plan": {
+      "quoted": "APS projects it will develop 263 miles of new transmission lines over the next 10 years",
+      "page": 66,
+      "sentence": "In APS\u2019s 2026 Ten-Year Transmission Plan, APS projects it will develop 263 miles of new transmission lines over the next 10 years.",
+      "context": "% Kyrene \u2014 Knox System 50.0 % Expansion. Each year, APS prepares and files with the ACC a Ten-Year Transmission Plan. In APS\u2019s 2026 Ten-Year Transmission Plan, APS projects it will develop 263 miles of new transmission lines over the next 10 years. Additionally, APS plans to upgrade 725 miles of existing transmission lines over the same horizon. The 2026 Ten-Year Plan includes critical transmission projects that represent significant upgrades "
+    },
+    "ten_year_upgrade": {
+      "quoted": "APS plans to upgrade 725 miles of existing transmission lines over the same horizon",
+      "page": 66,
+      "sentence": "Additionally, APS plans to upgrade 725 miles of existing transmission lines over the same horizon.",
+      "context": "smission Plan. In APS\u2019s 2026 Ten-Year Transmission Plan, APS projects it will develop 263 miles of new transmission lines over the next 10 years. Additionally, APS plans to upgrade 725 miles of existing transmission lines over the same horizon. The 2026 Ten-Year Plan includes critical transmission projects that represent significant upgrades to our transmission system. These upgrade projects, along with other projects included in the 2026 "
+    },
+    "transmission_extent": {
+      "quoted": "approximately 5,939 pole miles of overhead lines and approximately 86 miles of underground lines",
+      "page": 65,
+      "sentence": "As of January 22, 2026, APS\u2019s transmission facilities consist of approximately 5,939 pole miles of overhead lines and approximately 86 miles of underground lines, 5,792 miles of which are located in Arizona.",
+      "context": "and principal transmission lines. Transmission and Distribution Facilities Current Facilities. As of January 22, 2026, APS\u2019s transmission facilities consist of approximately 5,939 pole miles of overhead lines and approximately 86 miles of underground lines, 5,792 miles of which are located in Arizona. APS\u2019s distribution facilities consist of approximately 11,321 miles of overhead lines and approximately 24,425 miles of underground primary cable (21,301"
+    },
+    "substations": {
+      "quoted": "APS also owns and maintains 477 substations",
+      "page": 65,
+      "sentence": "APS also owns and maintains 477 substations, including both transmission and distribution yards.",
+      "context": "of overhead lines and approximately 24,425 miles of underground primary cable (21,301 when excluding abandoned conductor), all of which are located in Arizona. APS also owns and maintains 477 substations, including both transmission and distribution yards. APS shares ownership of some of its transmission facilities with other companies. Table of Contents 50 The following table shows APS\u2019s jointly-own"
+    },
+    "sales_growth": {
+      "quoted": "Overall sales are expected to increase 5 to 7% per year through 2030",
+      "page": 3,
+      "sentence": "Overall sales are expected to increase 5 to 7% per year through 2030.",
+      "context": "rge in advanced manufacturing and data center sectors \u2014 Taiwan Semiconductor Manufacturing Company, Microsoft, Amkor, SMC and others \u2014 continued to accelerate. Overall sales are expected to increase 5 to 7% per year through 2030. To meet this demand reliably and affordably, APS deployed more than 1,600 megawatts (MW) of new generation and battery storage in 2025 alone and advanced a comprehensive build-out of transmission in"
+    },
+    "peak_demand_2025": {
+      "quoted": "Peak demand in 2025 rose more than 5% over the prior year",
+      "page": 4,
+      "sentence": "Peak demand in 2025 rose more than 5% over the prior year, despite record-setting temperatures in 2024.",
+      "context": "inary conditions. Arizona experienced its third-hottest summer on record, and APS customers set three all-time peak demand records \u2014 each higher than the last. Peak demand in 2025 rose more than 5% over the prior year, despite record-setting temperatures in 2024. Even under high demand, our system performed exceptionally well. \u2022 Palo Verde Generating Station achieved a 91% annual capacity factor and 100% summertim"
+    },
+    "capital_2025": {
+      "quoted": "We invested $2.4 billion in new capital in support of reliability and growth",
+      "page": 6,
+      "sentence": "\u2022 We invested $2.4 billion in new capital in support of reliability and growth, including the continued expansion of our transmission investment strategy.",
+      "context": "rove generator interconnection processes \u2014 a critical step as Arizona continues to attract new generation and storage resources, and data center development. \u2022 We invested $2.4 billion in new capital in support of reliability and growth, including the continued expansion of our transmission investment strategy. \u2022 We reduced operation and maintenance expense per megawatt-hour by 3.3%, consistent with our commitment to customer afford"
+    },
+    "new_capacity_2025": {
+      "quoted": "deployed more than 1,600 megawatts (MW) of new generation",
+      "page": 3,
+      "sentence": "To meet this demand reliably and affordably, APS deployed more than 1,600 megawatts (MW) of new generation and battery storage in 2025 alone and advanced a comprehensive build-out of transmission infrastructure.",
+      "context": "MC and others \u2014 continued to accelerate. Overall sales are expected to increase 5 to 7% per year through 2030. To meet this demand reliably and affordably, APS deployed more than 1,600 megawatts (MW) of new generation and battery storage in 2025 alone and advanced a comprehensive build-out of transmission infrastructure. We also announced plans to add up to 2,000 MW of flexible natural gas generation to our portfo"
+    },
+    "tier1_shortage": {
+      "quoted": "Arizona\u2019s supply of Colorado River water will remain subject to a Tier 1 shortage",
+      "page": 40,
+      "sentence": "Bureau of Reclamation, as of January 1, 2026, Arizona\u2019s supply of Colorado River water will remain subject to a Tier 1 shortage.",
+      "context": "utcome of EPA\u2019s evaluation of this pending renewal application. Water Supply Based on a declaration from the U.S. Bureau of Reclamation, as of January 1, 2026, Arizona\u2019s supply of Colorado River water will remain subject to a Tier 1 shortage. This is the fourth year since 2022 that a Tier 1 shortage has been declared. The most severe shortage to have been declared was a Tier 2a shortage in 2023. A Tier 1 shortage reduces Arizona\u2019s share "
+    },
+    "heat_on_grid": {
+      "quoted": "reduce the generation capacity of thermal-power plants and decrease the efficiency of the transmission grid",
+      "page": 50,
+      "sentence": "Extreme heat events and rising temperatures are projected to reduce the generation capacity of thermal-power plants and decrease the efficiency of the transmission grid.",
+      "context": " exacerbate prolonged drought conditions leading to the declining availability of water resources. Extreme heat events and rising temperatures are projected to reduce the generation capacity of thermal-power plants and decrease the efficiency of the transmission grid. These operational risks related to rising temperatures and extreme heat events could affect APS\u2019s financial condition, results of operations, or cash flows. Table of Contents 35 Higher temperatures "
+    },
+    "housing_risk": {
+      "quoted": "the Arizona housing market",
+      "page": 51,
+      "sentence": "Actual sales growth, excluding weather-related variations, may differ from our projections as a result of numerous factors, such as macroeconomic conditions, current and future economic, regulatory, business, and other conditions, such as the Arizona housing market, customer growth, usage patterns and energy conservation, slower ramp-up of and/or fewer large data centers and manufacturing facilities, slower than expected commercial and industrial expansions, impacts of energy efficiency programs and growth in DG, responses to retail price changes, changes in regulatory standards, and impacts of new and existing laws and regulations, including environmental laws and regulations.",
+      "context": "projections as a result of numerous factors, such as macroeconomic conditions, current and future economic, regulatory, business, and other conditions, such as the Arizona housing market, customer growth, usage patterns and energy conservation, slower ramp-up of and/or fewer large data centers and manufacturing facilities, slower than expected commercial and industrial expansions, im"
+    },
+    "named_customers": {
+      "quoted": "Taiwan Semiconductor Manufacturing Company, Microsoft, Amkor, SMC and others",
+      "page": 3,
+      "sentence": "Residential additions remained robust, commercial and industrial sales expanded meaningfully, and the state\u2019s surge in advanced manufacturing and data center sectors \u2014 Taiwan Semiconductor Manufacturing Company, Microsoft, Amkor, SMC and others \u2014 continued to accelerate.",
+      "context": "ial additions remained robust, commercial and industrial sales expanded meaningfully, and the state\u2019s surge in advanced manufacturing and data center sectors \u2014 Taiwan Semiconductor Manufacturing Company, Microsoft, Amkor, SMC and others \u2014 continued to accelerate. Overall sales are expected to increase 5 to 7% per year through 2030. To meet this demand reliably and affordably, APS deployed more than 1,600 megawatts (MW) of new genera"
+    }
+  },
+  "tables": {
+    "jointly_owned_systems": {
+      "start_marker": "Percent Owned (Weighted-",
+      "end_marker": "Expansion.",
+      "text": "Percent Owned (Weighted- Average) Arizona Nuclear Power Project 500kV System 33.1 % Navajo Southern System 25.1 % Palo Verde \u2014 Yuma 500kV System 16.1 % Four Corners Switchyards 56.9 % Phoenix \u2014 Mead System 17.5 % Palo Verde \u2014 Rudd 500kV System 50.0 % Morgan \u2014 Pinnacle Peak System 63.2 % Round Valley System 50.0 % Palo Verde \u2014 Morgan System 87.5 % Hassayampa \u2014 North Gila System 80.0 % Cholla 500kV Switchyard 85.7 % Saguaro 500kV Switchyard 60.0 % Kyrene \u2014 Knox System 50.0 %"
+    }
+  },
+  "west_valley_rows": [
+    {
+      "name": "Desert Star",
+      "location": "Buckeye",
+      "year": 2015,
+      "page": 26,
+      "status_by_year": "in operation",
+      "raw_row": "Desert Star Buckeye, AZ 2015 10",
+      "numeric_columns_after_year": [
+        10
+      ]
+    },
+    {
+      "name": "Desert Star",
+      "location": "Buckeye",
+      "year": 2022,
+      "page": 27,
+      "status_by_year": "in operation",
+      "raw_row": "Desert Star Buckeye, AZ 2022 10",
+      "numeric_columns_after_year": [
+        10
+      ]
+    },
+    {
+      "name": "Catclaw",
+      "location": "Buckeye",
+      "year": 2026,
+      "page": 29,
+      "status_by_year": "planned or under development",
+      "raw_row": "Catclaw Buckeye, AZ 2026 20 225",
+      "numeric_columns_after_year": [
+        20,
+        225
+      ]
+    },
+    {
+      "name": "NW Regional Landfill",
+      "location": "Surprise",
+      "year": 2012,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "NW Regional Landfill Surprise, AZ 2012 20 3",
+      "numeric_columns_after_year": [
+        20,
+        3
+      ]
+    },
+    {
+      "name": "El Sol",
+      "location": "Phoenix",
+      "year": 2024,
+      "page": 30,
+      "status_by_year": "in operation",
+      "raw_row": "El Sol Phoenix, AZ 2024 20 50",
+      "numeric_columns_after_year": [
+        20,
+        50
+      ]
+    },
+    {
+      "name": "Scatterwash 1",
+      "location": "Phoenix",
+      "year": 2025,
+      "page": 30,
+      "status_by_year": "in operation",
+      "raw_row": "Scatterwash 1 Phoenix, AZ 2025 20 170",
+      "numeric_columns_after_year": [
+        20,
+        170
+      ]
+    },
+    {
+      "name": "Pluto BESS",
+      "location": "Goodyear",
+      "year": 2025,
+      "page": 30,
+      "status_by_year": "in operation",
+      "raw_row": "Pluto BESS Goodyear, AZ 2025 20 75",
+      "numeric_columns_after_year": [
+        20,
+        75
+      ]
+    },
+    {
+      "name": "Scatterwash 2",
+      "location": "Phoenix",
+      "year": 2025,
+      "page": 30,
+      "status_by_year": "in operation",
+      "raw_row": "Scatterwash 2 Phoenix, AZ 2025 20 85",
+      "numeric_columns_after_year": [
+        20,
+        85
+      ]
+    },
+    {
+      "name": "Justice",
+      "location": "Buckeye",
+      "year": 2026,
+      "page": 30,
+      "status_by_year": "planned or under development",
+      "raw_row": "Justice Buckeye, AZ 2026 20 150",
+      "numeric_columns_after_year": [
+        20,
+        150
+      ]
+    },
+    {
+      "name": "White Tank",
+      "location": "Avondale",
+      "year": 2027,
+      "page": 30,
+      "status_by_year": "planned or under development",
+      "raw_row": "White Tank Avondale, AZ 2027 20 100",
+      "numeric_columns_after_year": [
+        20,
+        100
+      ]
+    }
+  ],
+  "other_arizona_rows": [
+    {
+      "name": "Paloma",
+      "location": "Gila Bend",
+      "year": 2011,
+      "page": 26,
+      "status_by_year": "in operation",
+      "raw_row": "Paloma Gila Bend, AZ 2011 17",
+      "numeric_columns_after_year": [
+        17
+      ]
+    },
+    {
+      "name": "Cotton Center",
+      "location": "Gila Bend",
+      "year": 2011,
+      "page": 26,
+      "status_by_year": "in operation",
+      "raw_row": "Cotton Center Gila Bend, AZ 2011 17",
+      "numeric_columns_after_year": [
+        17
+      ]
+    },
+    {
+      "name": "Gila Bend",
+      "location": "Gila Bend",
+      "year": 2014,
+      "page": 26,
+      "status_by_year": "in operation",
+      "raw_row": "Gila Bend Gila Bend, AZ 2014 36",
+      "numeric_columns_after_year": [
+        36
+      ]
+    },
+    {
+      "name": "Paloma",
+      "location": "Gila Bend",
+      "year": 2023,
+      "page": 27,
+      "status_by_year": "in operation",
+      "raw_row": "Paloma Gila Bend, AZ 2023 17",
+      "numeric_columns_after_year": [
+        17
+      ]
+    },
+    {
+      "name": "Cotton Center",
+      "location": "Gila Bend",
+      "year": 2023,
+      "page": 27,
+      "status_by_year": "in operation",
+      "raw_row": "Cotton Center Gila Bend, AZ 2023 17",
+      "numeric_columns_after_year": [
+        17
+      ]
+    },
+    {
+      "name": "Gila Bend",
+      "location": "Gila Bend",
+      "year": 2023,
+      "page": 27,
+      "status_by_year": "in operation",
+      "raw_row": "Gila Bend Gila Bend, AZ 2023 32",
+      "numeric_columns_after_year": [
+        32
+      ]
+    },
+    {
+      "name": "Solana",
+      "location": "Gila Bend",
+      "year": 2013,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "Solana Gila Bend, AZ 2013 30 250",
+      "numeric_columns_after_year": [
+        30,
+        250
+      ]
+    },
+    {
+      "name": "Saddle Mountain",
+      "location": "Tonopah",
+      "year": 2012,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "Saddle Mountain Tonopah, AZ 2012 30 15",
+      "numeric_columns_after_year": [
+        30,
+        15
+      ]
+    },
+    {
+      "name": "Badger",
+      "location": "Tonopah",
+      "year": 2013,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "Badger Tonopah, AZ 2013 30 15",
+      "numeric_columns_after_year": [
+        30,
+        15
+      ]
+    },
+    {
+      "name": "Gillespie",
+      "location": "Maricopa County",
+      "year": 2013,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "Gillespie Maricopa County, AZ 2013 30 15",
+      "numeric_columns_after_year": [
+        30,
+        15
+      ]
+    },
+    {
+      "name": "Mesquite Solar 5",
+      "location": "Tonopah",
+      "year": 2023,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "Mesquite Solar 5 Tonopah, AZ 2023 20 60",
+      "numeric_columns_after_year": [
+        20,
+        60
+      ]
+    },
+    {
+      "name": "Harquahala Sun 2",
+      "location": "Tonopah",
+      "year": 2025,
+      "page": 29,
+      "status_by_year": "in operation",
+      "raw_row": "Harquahala Sun 2 Tonopah, AZ 2025 20 300",
+      "numeric_columns_after_year": [
+        20,
+        300
+      ]
+    },
+    {
+      "name": "Papago Solar",
+      "location": "Maricopa County",
+      "year": 2026,
+      "page": 29,
+      "status_by_year": "planned or under development",
+      "raw_row": "Papago Solar Maricopa County, AZ 2026 20 150",
+      "numeric_columns_after_year": [
+        20,
+        150
+      ]
+    },
+    {
+      "name": "Maricopa Energy Center Phase 1",
+      "location": "Maricopa County",
+      "year": 2026,
+      "page": 29,
+      "status_by_year": "planned or under development",
+      "raw_row": "Maricopa Energy Center Phase 1 Maricopa County, AZ 2026 20 183",
+      "numeric_columns_after_year": [
+        20,
+        183
+      ]
+    },
+    {
+      "name": "Maricopa Energy Center Phase 2",
+      "location": "Maricopa County",
+      "year": 2027,
+      "page": 29,
+      "status_by_year": "planned or under development",
+      "raw_row": "Maricopa Energy Center Phase 2 Maricopa County, AZ 2027 20 367",
+      "numeric_columns_after_year": [
+        20,
+        367
+      ]
+    },
+    {
+      "name": "Under Development BESS PPAs Mesquite 5",
+      "location": "Tonopah",
+      "year": 2023,
+      "page": 30,
+      "status_by_year": "in operation",
+      "raw_row": "Under Development BESS PPAs Mesquite 5 Tonopah, AZ 2023 20 60",
+      "numeric_columns_after_year": [
+        20,
+        60
+      ]
+    },
+    {
+      "name": "Papago",
+      "location": "Tonopah",
+      "year": 2025,
+      "page": 30,
+      "status_by_year": "in operation",
+      "raw_row": "Papago Tonopah, AZ 2025 20 300",
+      "numeric_columns_after_year": [
+        20,
+        300
+      ]
+    },
+    {
+      "name": "Maricopa Energy Center Phase 2",
+      "location": "Maricopa County",
+      "year": 2026,
+      "page": 30,
+      "status_by_year": "planned or under development",
+      "raw_row": "Maricopa Energy Center Phase 2 Maricopa County, AZ 2026 20 367",
+      "numeric_columns_after_year": [
+        20,
+        367
+      ]
+    },
+    {
+      "name": "Harquahala Flats",
+      "location": "Tonopah",
+      "year": 2027,
+      "page": 30,
+      "status_by_year": "planned or under development",
+      "raw_row": "Harquahala Flats Tonopah, AZ 2027 20 225",
+      "numeric_columns_after_year": [
+        20,
+        225
+      ]
+    },
+    {
+      "name": "Harquahala Flats 2",
+      "location": "Tonopah",
+      "year": 2027,
+      "page": 30,
+      "status_by_year": "planned or under development",
+      "raw_row": "Harquahala Flats 2 Tonopah, AZ 2027 20 225",
+      "numeric_columns_after_year": [
+        20,
+        225
+      ]
+    }
+  ]
+}

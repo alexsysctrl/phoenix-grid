@@ -1,0 +1,1996 @@
+=== PAGE 1 ===
+I
+IHHHHHHHHHHHII//fllil!!!Illllllfllifllllllfllflif0000209388
+BEFORE THE ARIZONA CORP ORATION vv.---_
+Atizmnl Corporation Commission
+2023
+DUCKETED
+JUN 2 8
+l
+2 COMMISSIONERS
+3
+4
+5 DOCKBTHU n =
+JIM O'CONNOR - CHAIRMAN
+LEA MARQUEZ PETERSON
+ANNA TOVAR
+KEVIN THOMPSON
+NICK MYERS _NG
+79020
+DOCKET no. L-00000B-21-0393-00197
+CASE no. 197
+DECISION NO.
+ORDER
+IN THE MATTER OF THE APPLICATION OF
+SALT RIVER PROJECT AGRICULTURAL
+IMPROVEMENT AND POWER DISTRICT, IN
+CONFORMANCE WITH THE
+REQUIREMENTS OF ARIZONA REVISED
+STATUTES, SECTIONS 40-360, ET SEO., FOR
+A CERTIFICATE OF ENVIRONMENTAL
+COMPATIBILITY AUTHORIZING THE
+EXPANSION OF THE COOLIDGE
+GENERATING STATION, A NATURAL GAS-
+FIRED, SIMPLE-CYCLE POWER PLANT
+NEAR COOLIDGE, ARIZONA, THAT WAS
+BUILT BETWEEN 2009 AND 2011 AND
+PURCHASED BY SRP IN 2019 TO HELP
+SUPPORT GROWING DEMAND FOR POWER
+IN THE REGION.
+(Rescinds Decision No. 78545 and
+approves Amended CEC 197 Pursuant to
+A.R.S. § 40-252)
+Open Meeting
+June 21, 2023
+Phoenix, Arizona
+BY THE COMMISSION:
+FINDING OF FACTS
+Background
+6
+7
+8
+9
+10
+ll
+12
+13
+14
+15
+1 6
+17
+18
+The Arizona Corporation Commission ("Commission") pursuant to A.R.S. § 40-252 rescinds
+19 Decision No. 78545 (April 28, 2002) and in compliance with A.R.S. § 40-360.06 and in balancing the
+20 broad public interest and the need for adequate, economical, and reliable supply of electric power
+21 with the desire to minimize the effect thereof on the environment and ecology of the state, finds that
+22 the Amended Certificate of Environmental Compatibility ("Amended CEC") is hereby approved.
+23
+24
+25
+l. On December 13, 2021, Salt River Project Agricultural Improvement and Power
+26 District ("SRP") filed an Application for a CEC to expand its Coolidge Generating Station, a natural
+27 gas-fired simple-cycle power plant located in Coolidge, Arizona ("Coolidge Expansion Project",
+28
+lS:\.lane\Linesiling\Coolidge2 I 03930rder docx
+
+
+=== PAGE 2 ===
+1I
+Docket No. L-0000013-21 -0393-00197
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 2.
+11
+12
+113
+"CEP" or "Project").' The CEP consisted of 16 General Electric 1.M6000 PC SPRINT NxGen
+individual simple-cycle combustion turbine generator units, each producing up to 51.25 megawatts
+(MWs), for a total of 820 MWs, and associated interconnection facilities including new 500 kV
+transmission lines and a new 500 kV switchyard, which SRP may later convert to a 500/230 kV
+substation. The new generation units were to be located immediately adjacent to and south of the
+existing units at the Coolidge Generating Station. The Project is tp be located entirely on land owned
+by SRP. SRP stated that the CEP will allow SRP to meet near-term capacity needs in its service
+territory which is among the fastest growing regions in the nation while providing needed capacity
+and reliability to facilitate the integration of additional renewable I€SOLlIC€S.2
+The Coolidge Generating Station, and the CEP are located in Coolidge, but the closest
+community to the plant is the unincorporated community of Randolph. Randolph is a historic Black
+community, currently with approximately 150 residents, established in the 1920s.
+3. Sierra Club, Western Resource Advocates ("WRA"), residents of Randolph
+14 ("Randolph Interveners"), and the Commission's Utilities Division ("Staff') intervened in this
+15 matter.
+16 4.
+17
+18
+l
+1
+19
+20
+21 5.
+22
+23
+24
+25
+26
+On December 16, 2021, the Chairman of the Power Plant and Transmission Line
+Siting Committee ("Committee") set a hearing on the Application for CEC to commence on January
+18, 2022, in Casa Grande, Arizona. Following a Motion for Continuance filed by Sierra Club on
+December 20, 2021, which motion was joined by WRA and Randolph interveners, the hearing was
+continued to commence on February 7, 2022.
+On January 12, 2022, Staff filed a letter in response to a request from the Committee
+Chairman for comments on whether the Project will improve the reliability and/or safety of the
+operation of the grid. In its response, Staff concluded that it was unable to fully comment on whether
+the Project could improve the reliability and safety of the grid or delivery of power in Arizona, but
+Staff agreed that the CEP would allow SRP to have the ability to fast-ramp generation and can
+provide system reliability in nearly all conditions.
+27
+28 ' CEC Application SRP Exhibit ("Ex") l in the Committee Hearing.
+ZSRPEx l,ExAat3.
+790202 DECISION no.
+
+
+=== PAGE 3 ===
+Docket No. L-00000B-2 l -0393-00 l 97
+l 6.
+3 7.
+4
+5
+6!
+7
+8
+9
+10
+ll
+12
+13
+1 4
+1 5
+1 6
+1 7
+18
+1 9
+20
+1
+21 1
+1
+l
+l2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+The hearing before the Committee convened as scheduled on February 7, 2022, and
+2 continued through February 16, 2022.
+At the hearing before the Committee, SRP presented the testimony of 10 witnesses.
+John Coggins, SRP's Associate General Manager and Chief Power System Executive, testified about
+the importance of reliability, SRP's generation portfolio, the significance of near-term growth in
+SRP's service territory, and transformational changes facing the electric industry. Grant Smedley,
+SRP's Director of Resource Planning, Acquisition and Development, testified about the need for the
+CEP, resource planning considerations and how the plant would complement SRP's battery storage
+resources. Bill McClellan, SRP's CEP Project Manager, testified about the project's descriptions and
+the benefits of using existing infrastructure, Angie Bond-Simpson, SRP's Director of Integrated
+System Planning and Support, testified about planning for reliability, how SRP evaluates resource
+options, and the alternative resource analyses that SRP conducted. Christina Hallows, SRP's manager
+of Public Involvement, and Anne Rickard, SRP's Director of Community Partnership, testified about
+public notice and outreach. Devin Petry, Senior Project Manager with SWCA Environmental
+Consultants ("SWCA"), testified about environmental studies conducted by SWCA in support of the
+CEP. Kristin Watt, SRP's Manager of Air Quality, testified about the air permit application and the
+ambient air quality modeling assessment and existing air quality in the CEP area. Kendra Pollio,
+Principal with KP Environmental, testified about her involvement in the initial siting of the Coolidge
+Generating Stations and her assessment of the CEP's effects on the Randolph community. Robert
+Olson, SRP's Director of Supply and Trading of Fuel, testified about fuel supplies during specific
+times of constraint.
+8. Sierra Club offered the testimony of three witnesses. Rob Gramlich, president of Grid
+Strategies, LLC, testified concerning the technical and cost aspects of the CEP including the project's
+proposed objective, the technical practicality of achieving that objective and methods available for
+achieving that objective. Sandy Bahr, director of Sierra Club's Grand Canyon Chapter, testified about
+the environmental impacts of the CEP, including impacts relative to water, air quality and public
+health. Cara Bottorf£ a senior electric sector analyst for Sierra Club, testified about the estimated
+health impacts of changes to emissions from the CEP as modeled by the Environmental Protection
+7 9 0 2 03 DECISION no.
+
+
+=== PAGE 4 ===
+Docket No. L-00000B-21 -0393-00 197
+2
+3
+4
+5
+6
+7
+I
+8
+l
+l
+l
+l9
+1
+1110
+l l
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+l Agency's Co-Benefits Risk Assessment ("COBRA") tool.
+9. WRA presented the testimony of Alexander Routhier, WRA's Senior Clean Energy
+Policy Analyst, who testified about the public health impact of greenhouse gases and the effects of
+failing to reduce greenhouse gas emissions.
+10. Randolph Interveners offered the testimony of eight witnesses. Ron Jordan and
+Melvin Moore, long-term residents of Randolph, testified about the history of Randolph and the
+impact of the existing plant on families, health, and property values, and the community's objection
+to the CEP. Dag fey Signorelli, environmental justice chair of the Social Justice and Engineering
+Initiative and a former employee of Pinal County Air Quality Control, testified about air quality in
+Pinal County and the impacts of exposure to particulate matter. Mark Stapp, a real estate economist,
+development expert, and professor of real estate at Arizona State University, testified about studies
+that identified negative externalities resulting from proximity to power plants and about the historical
+and planned development in the Pinal County/Randolph area and the long-term impact on property
+values. Timothy Collins, professor of geography and environmental and sustainability studies at the
+University of Utah, testified about environmental justice and patterns of inequities for Black
+Americans due to exposure to pollution and disproportionate exposure to various air pollutants
+relevant to the CEP. Sara Grineski, professor of sociology and environmental studies at the
+University of Utah, testified about the disproportionate health conditions suffered by Black
+Americans due to environmental causes such as exposure to natural gas fired power plants and about
+the predicted air pollution emissions within the CEC application and their corresponding health
+implications, Adrienne Hollis, principal of Hollis Environmental Consulting Services, LLC, testified
+about the nature of enviromnental contamination exposure and the importance of maintaining the
+history of African American communities and other communities of color. Stephanie Malin, associate
+professor of sociology at Colorado State University, testified about community impacts of fossil fuel
+production, particularly on neural communities.
+l l. Andrew Smith, an engineering supervisor for Staff, testified about the requirement for
+an updated power flow analysis and system impact study and that Staff did not evaluate alternatives
+to the CEP when it evaluated impacts on the grid and the reliability of the Project.
+4 DECISION no. 79020
+
+
+=== PAGE 5 ===
+Docket No. L-00000B-2 l -0393-00197
+12.
+l
+l
+2
+3
+l
+l
+At the conclusion of the hearing, the Committee voted 7 to 2 to approve the CEC,
+subject to certain conditions.
+13. On February 23, 2022, the Paul Katz, Chairman of the Committee filed a Notice of
+4 Filing Certificate of Environmental Compatibility.
+5 14. On February 24, 2022, the Commission's Legal Division filed Staff's Notice of Filing
+6 Sample Forms of Order for Case No. 197.
+7 15. Also on February 24, 2022, SRP filed a Request for Consideration at Special Open
+8 Meeting, requesting that the Commission consider the CEC on March 25, 2022.
+9 16. On February 25, 2022, Randolph Interveners filed an Opposition to Request for
+10 Consideration at Special Open Meeting on March 25, 2022, requesting that the matter be heard at the
+l 1 Co mmissio n's Regu lar Open Meeting schedu led o n April 1 2 -1 3 , 2 0 2 2 , to  give Rando lph Interveners
+12 sufficient time to consider the impact of the conditions in the CEC.
+13 17. On the same date, pursuant to A.R.S. § 40-360.07(A), Randolph Interveners filed a
+14 Request for Review of the Line-Siting Committee Decision by the Corporation Commission.
+15 18. On February 28, 2022, by Procedural Order, the parties were ordered to file briefs by
+16 March 14, 2022, public comment was set for March 15, 2022, during the Commission's regularly
+17 scheduled Open Meeting, and oral argument was set for March 16, 2022, during the second day of
+18 the Commission's March Open Meeting.
+19 19. On March 10, 2022, Sierra Club filed a Request for Review o f Arizo na Po wer Plant
+2 0 and Line Siting Committee Decision pursuant to A.R.S. §40-360.07(B).
+21 2 0 . On March 14, 2022, SRP, Randolph Interveners, Sierra Club, and WRA filed briefs.
+2 2 2 1 . On March 15, 2022, during the Commission's Open Meeting, telephonic public
+2 3 co mment was received.
+2 4 2 2 . On March 16, 2022, during the Commission's Open Meeting, Randolph Interveners,
+2 5 Sierra Club, WRA, Staff, and SRP appeared through counsel before the Commission for oral
+2 6 argument on the review pursuant to A.R.S. § 40-360.07(B).
+2 7 2 3 . On March 1 8 , 2 0 2 2 , at the requ est o f Co mmissio ner O'Co nno r, Rando lph Interveners
+2 8 filed a Supplement outlining possible amelioration conditions that could be included in the CEC
+5 DECISION no. 79020
+
+
+=== PAGE 6 ===
+Docket No. L-00000B-21-0393-00197
+3
+I should it be granted.
+2 24. On March 28, 2022, Commissioner O'Connor filed a letter in the docket requesting
+3 that SRP and any other interested parties file responses to the Supplement filed by Randolph
+4 Interveners.
+5 25. On April 4, 2022, the Hearing Division issued Samples of Orders for the review.
+6 26. On April 12, 2022, at an Open Meeting, the Commission voted 4 to l to deny the
+7 CEC, and subsequently issued Decision No. 78545 (April 28, 2022), denying SRP's Application for a
+8 Certificate of Environmental Compatibility. In Decision No. 78545, the Commission found that SRP
+9 will need additional capacity to meet a growing load demand in its service territory in the next several
+10 years and that it needs a flexible resource to maintain reliable service and facilitate the integration of
+l l more renewable T€SOLllC€S.3 The Commission further found that SRP did not issue an All Source
+12 Request for Proposals ("ASRFP") for the CEP, that data from earlier RFPs were not part of the
+13 record, and that the complete copy of an E3 analysis to determine how much solar and storage would
+14 be needed to provide the equivalent reliability of the CEP and a Power Flow and Stability Study
+15 required by A.R.S. § 40-360.02(C)(7) were not provided. The Commission found that without these
+16 studies and the ASRFP the record was not sufficient to determine the economics of the CEP, whether
+17 there are available alternatives that would provide the same capacity, responsiveness, and reliability
+18 for SRP's customers but would be less costly and potentially have fewer adverse impacts on the local
+19 residents or the environment and ecology of the state.4 The Commission also found that the CEP
+20 would negatively affect the total environment of the area and state and have significant negative
+21 impacts on residents of Randolph, and further that the conditions in the CEC as issued by the
+22 Committee did not adequately compensate the citizens of Randolph for the harm caused by the CEP,
+23 and as such, the balance of the need for adequate, economical and reliable power with the effects on
+24 the total environment did not weigh in favor of approving he CEC as issued.
+25 27. On May 12, 2022, Commissioner Olson filed a letter to the docket asking the other
+26 Commissioners to reconsider the denial of the CEC.
+27
+28 4 233 TB". 78545 at 10.
+6 DECISION NO. 79020
+
+
+=== PAGE 7 ===
+»
+Docket No. L-00000B-21 -0393-00197
+l 28. On May 16, 2022, SRP filed a Request for Rehearing and Reconsideration Pursuant to
+l
+3
+2 A.R.S. §§ 40-253 and 40-360.07.
+29. On May 23, 2023, the Randolph Interveners filed a Response to Request for
+I
+I
+5
+4 Rehearing.
+30.
+7
+9 32.
+10
+l l
+12 33.
+Also on May 23, 2022, Sierra Club filed a Response to Commissioner Olson's Letter
+6 and a Response to SRP's Request for Rehearing and Reconsideration and Motion to Strike.
+31. On May 31, 2022, SRP filed a Reply in Support of Request for Rehearing and
+8 Reconsideration and Response to Motion to Strike.
+On July 8, 2022, SRP filed a Notice of Appeal stating that on July 6, 2022, it filed a
+direct appeal and a special action petition regarding Decision No. 78545 with the Maricopa County
+Superior Court (the "Superior Court").
+On July 1 l, 2022, the Randolph Interveners filed a Response to SRP's Notice of
+13 Appeal.
+14 34.
+15
+On the same date, Sierra Club filed a Response to SRP's Notice of Appeal.
+On July 12, 2022, SRP filed a Reply to Intervenor's Responses to its Notice of35.
+16 Appeal.
+17 36. At the Open Meeting on July 12, 2023, the Commissioners voted 3 to 2 not to reopen
+18 Decision No. 78545 pursuant to A.R.S. §40-252.
+19 37. On January 20, 2023, following a two-day bench trial, the Superior Court issued its
+20 Minute Entry Order ("Order") affirming Decision No. 78454. In its Order the Superior Court found
+21 that the Commission's first ground for denying the CEC _ that the record was incomplete, was in
+22 ClTOI.5 However, the Superior Court found that the record had sufficient evidence to support denial of
+23 the CEC.6
+24 38. Cn June 14, 2023, SRP filed an Application to Amend Decision No. 78545 Pursuant
+25 to A.R.S. § 40-252 ("§40-252 Application"). In its § 40-252 Application SRP relates that while the
+26
+27
+28
+s Order at 11-14.
+" Order at 15- 16. The Superior Court found that "the evidence would have supported a balancing of interests in favor of
+issuing a CEC for the Coolidge Power Plant but does not compel that determination as a matter of law. lt was within the
+Commission's range of discretion to find the need for the [Project] less than SRP argued, the environmental impacts of
+the Project greater than SRP argued, and the conditions in the CEC insufficient to mitigate those impacts." Order at 17.
+7 79020DECISION n o .
+
+
+=== PAGE 8 ===
+Docket No. L-00000B-2 l -0393-00197
+l
+l
+2
+i
+3
+4
+appeal was progressing, SRP and the Randolph Interveners continued to engage in discussions. SRP
+states that in addition to working to implement the original commitments contained in the CEC
+adopted by the Committee, SRP and the Randolph Interveners were able to reach agreement as to
+additional commitments to the CEC that address the concerns of the Randolph Intervenors.7 SRP
+5
+6
+7
+8 39.
+9
+10
+attached a proposed Amended CEC that incorporates the settlement agreement reached with the
+Randolph Interveners. The proposed additions and deletions to the CEC are shown in the Amended
+CEC, which is attached hereto as Attachment A.8
+In its §40-252 Application, SRP asserts that given that the Superior Court already
+found that the original record would have supported balancing of interests in favor of issuing a CEC
+for the CEP, the Commission is well within its discretion to now approve the proposed Amended
+l l CEC.
+12 40.
+13
+14
+15
+16
+On June 15, 2023, the Randolph Interveners filed a Response to SRP's Application to
+Amend Decision No. 78545, stating that in consideration of the various terms and conditions of the
+settlement between the Randolph Interveners and SRP, the Randolph Interveners agree to support the
+settlement agreement and SRP's §40-252 Application and agree not to oppose approval of the
+Amended CEC.
+17 41.
+18
+19
+20
+On June 20, 2023, the Sierra Club filed a Response in Opposition to Salt River
+Project's Application to Amend Decision No. 78545. Sierra Club argued that the existing evidentiary
+record does not support the proposed modifications to the original CEC, as the modified Project is a
+substantial change from the original Project, and SPR should be required to file a new application
+21 with the Committee. Sierra Club asserts that without a new hearing, the Commission lacks a
+22 sufficient record to determine SRP's current need for the Project, the incremental impacts of the
+23 revised Project, and the environmental impacts of the revised Project.
+24
+25
+26
+27
+28
+7 The terms of the settlement agreement are documented in a formal written settlement agreement that incorporates and
+references the proposed Amended CEC. The settlement agreement, which the parties have agreed is confidential and
+which they did not file in the docket, incorporates a Term Sheet that includes additional new commitments by SRP to
+fund new facilities and programs requested by the Randolph Parties. At the June 2 l, 2023, Open Meeting SRP agreed to
+provide confidential copies of the settlement agreement and Tem Sheet to the Commissioners.
+8 We note that on June 22, 2023, SRP filed a Notice of Errata and refiled the Amended CEC to include the Project Map
+which was inadvertently omitted in its June 14, 2023 filing. We note further that the Amended CEC need to be further
+amended to delete "and Autumn Johnson" on page 2, line 15. This change has been made to Attachment A hereto.
+8 79020DECISION no.
+
+
+=== PAGE 9 ===
+Docket No. L-00000B-2 l -0393-00 197
+1 42. The Commission considered the §40-252 Application at its June 21, 2023, Open
+2 Meeting and voted to grant the §40-252 Application and after notice and opportunity to be heard,
+3 voted 4 to 1 to rescind Decision No. 78545, grant the Amended CEC and direct the Hearing Division
+Or i inal Commitments
+I
+a .
+I
+i
+4 to prepare this Conforming Order.
+5
+6 43. Among the Commitments in the original CEC was the creation of a Community
+7 Working Group that would be used to facilitate community input and implementation of the Original
+8 Commitments contained in the original CEC. The Original Commitments were as follows:
+Scholarship program up to $100,000 per year (totaling $2 million over 20
+years) for residents of Randolph and their descendants.
+b .
+c.
+Job training program up to $100,000 per year (totaling $2 million over 20
+years) for residents of Randolph and their descendants.
+Fund the preparation of a nomination for the National Register of Historic
+Places for a total cost of up to $270,000.
+d .
+i
+l
+e.
+f.
+li
+l
+l
+9
+10
+l l
+12
+1 3
+14
+15 Hire a grant writing firm to provide support for access to federal and state
+16 grants. The firm will provide training and prepare grant applications in an
+17 amount up to $100,000.
+18 Visual screening and community landscaping (estimated $1 .l million).
+19 Road paving to reduce dust (PMl0) emissions in the area to offset emissions
+20 from the expansion (estimated $6 million).
+21 44. In its §40-252 Application, SRP states that these commitments are being addressed
+22 through the Community Working Group despite the Commission's denial of CEC 197.
+ilNew C ommitments l
+l
+l
+23
+24 45. The New Commitments agreed to by SRP and the Randolph Interveners are expressly
+25 conditioned upon the Commission's approval of the proposed Amended CEC and the commencement
+26 of construction of the Expansion Project. SRP has agreed to the following:
+27 a . Scholarship Program. SRP will increase the scholarship program from $100,000
+28 to $200,000 per year (totaling $4 million over 20 years) for residents of Randolph
+9 DECISION no. 79020
+
+
+=== PAGE 10 ===
+Docket No. L-00000B-2 l -0393-00197
+I l
+2
+3
+4
+b.5
+6
+7
+8
+9
+l
+c .
+l
+l
+W\
+W
+1
+10
+l l
+12
+13
+14
+d.
+e.
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+and their descendants. SRP will continue to provide scholarship funding to the
+established tilnd administered through Pinal County United Way. SRP is willing
+to name the scholarship program after Melvin Moore to the extent the community
+would so desire.
+Community Center Construction Costs. SRP will fund up to $2 million for the
+construction of a Randolph Community Center. The construction will be
+administered by a mutually acceptable third party that is skilled in such projects,
+such as the Salvation Army, to oversee the design and construction of the
+community center, subject to the agreement with the administering agency. SRP
+has no objection to the Randolph United Council's co-management and
+ownership of the center and will work with the Council and the center operator as
+to how and when community ownership can be accomplished.
+Land Acquisition. SRP will reach out to Pinal County and discuss the land
+previously leased to the University of Arizona and will fund up to $50,000 for the
+purchase of the land to then be owned by the community.
+Community Center Operations. SRP will pay $200,000 per year for 20 years
+totaling $4 million to a Community Center Fund for (i) operations and
+maintenance at the community center, (ii) a K-12 mentoring program, and (iii)
+three vehicles for the community's use. These funds would be co-managed by the
+Randolph United Council and a mutually acceptable third party, such as the
+Salvation Army, subject to the agreement of the two parties, to ensure they are
+used for the benefit of the community. The funds provided to the third party will
+be restricted to only support the Randolph Community Center activities.
+Block Wall Funding Allocated to Other Uses. SRP previously offered as a New
+Commitment to pay $1.2 million for a block wall. Pursuant to the Randolph
+Parties' request, however the funds will now be used as follows:
+i. SRP will pay $600,000 to a mutually acceptable third party to advance
+funding to Preacher Jordan's Camp for educational and recreational
+10 DECISION no. 79020
+
+
+=== PAGE 11 ===
+Docket No. L-00000B-21 -0393-00197
+activities for families in Randolph; and
+ii. SRP will pay $600,000 to increase the funding for the Community Center
+f.
+g.
+h.
+i.
+j. l
+l
+l
+ll
+l
+k. 4
+l
+l
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+l l
+12
+13
+1 4
+1 5
+1 6
+1 7
+18
+1 9
+2 0
+21
+2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+construction.
+Design and Construction of Community Markers. SRP will fund up to
+$100,000 for design and construction of landscaping and historical markers for
+the community.
+Home Rehabilitation Program. SRP will fund a home rehabilitation program
+for residences in Randolph up to a total of $1.5 million, based on 60 homes
+with a cap of $25,000 per home. The program will be managed and
+administered by a mutually acceptable reputable third party like Habitat for
+Humanity.
+Permitting Fees. SRP will provide up to $100,000 to be administered by the
+same third party administering the Home Rehabilitation Program to cover the
+cost of any necessary permitting fees for the home rehabilitation program
+Community Development Plan. To enable the Randolph community to assess
+future needs and steps to address those needs, SRP will fund a "Rapid
+Assessment Response and Evaluation" ("RARE Assessment") in the sum of
+$50,000 and will also fund the implementation of the plan proposed by the
+RARE assessment (totaling $500,000). The RARE Plan will be developed by
+the community with the support of Dr. Vasquez from Northern Arizona
+University and the community will decide how to use the funds.
+In-Home Air Monitors. SRP will provide a fund to be administered by the
+same third party administering the Home Rehabilitation Program for the
+reimbursement of the in-home air monitors for up to 60 homes in the Randolph
+community, with a cap of$1,000 per home.
+Additional Road Paving. SRP will pay up to $500,000 for additional paving in
+the community of Randolph as identified in the parties' settlement agreement
+Tern Sheet. l
+l l DECISION no. 79020
+l
+
+
+=== PAGE 12 ===
+Docket No. L-00000B-21-0393-00197
+i
+l
+l 1.
+l
+m.
+4 6 .
+Unspent Funds. SRP agrees that any unspent funds from the funding
+commitments outlined above may be reallocated on an annual basis to support
+activities identified in the RARE Plan or other program established by the
+parties' agreement for the benefit of the community if they are not used for their
+original purpose.
+Attor neys' Fees. As part of the resolution, SRP agrees to reimburse the
+attorneys' fees in the sum of $171,000 incurred by Dianne Post as set forth in
+the application for such fees filed in the Superior Court. Understanding that
+there will be additional hours and expenses incurred past the $l 7l,000, SRP
+agrees to further reimburse attorneys' fees from the date of filing of the
+application until approval by the Commission of the Amended CEC, up to an
+additional $50,000 provided the fees are charged at the same rate and supported
+by billing records.
+SRP reports that in total, its financial commitments to the community are as follows:
+CEC C ommitments
+a . Reduction In Number of Units. SRP will reduce the number of new generation
+units in the CEP from 16 to 12 units.
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+1 4
+1 5
+16 Original Commitments $11,470,000
+17 New Commitments $ l2,281 ,000
+18 Total Commitments $23,751 ,000
+1 9
+20 47. In addition to the New Commitments agreed to under the settlement, the parties have
+21 agreed to certain new terms and condition that they propose be incorporated into an Amended CEC.
+22 SRP states that these CEC Commitments are based on the original record and modify and expand on
+23 the conditions contained in the originally proposed CEC to further address the concerns of the
+24 Randolph community and mitigate the impacts of the CEP. The new CEC Commitments are as
+25 follows:
+2 6
+2 7
+2 8
+12 DECISION no. 79020
+
+
+=== PAGE 13 ===
+Docket No. L-00000B-2 l -0393-00 197
+l b.
+2
+3
+No New Natural Gas Units at the Coolidge Generating Station. SRP will not
+seek to add any additional natural gas generation units at the Coolidge
+Generating Station beyond the 12 new units provided to under the Amended
+4
+5 c.
+CEC.
+Adjust Location of New Units on the Coolidge Generating Station site. SRP
+6
+7
+8
+9 d.
+10
+will adjust the location of the 12 new units to the east of the existing units,
+which will result in the new units being constructed approximately 400 feet
+further away from the community and screened by the existing units.
+Operational Limit. SRP agrees to an annual capacity factor limit of 30 % when
+averaged across the 12 new units authorized under the Amended CEC.
+l l Balancin the Public Interest
+12 48.
+13
+14
+15 49.
+16 1
+17
+1W
+18
+1
+1
+19
+20
+21
+22
+23
+24
+SRP continues to need additional capacity to meet a growing load demand in its
+service territory in the next several years. According to SRP, it needs a flexible resource to maintain
+reliable service in its service area and facilitate the integration of more renewable resources.
+The Commission finds that with the new terms and conditions discussed herein,
+balancing in the broad public interest the need for adequate, economical and reliable electric power
+with the desire to minimize the effect thereof on the environment and ecology of the state favors
+granting the Amended CEC. The new conditions in the Amended CEC (1) reduce the number of new
+generation units from 16 to 12; (2) while still on the same overall site, shift the new units 400 feet
+further away from the Randolph community behind the existing units and (3) restrict operations to a
+30% capacity factor averaged across the new units. Further SRP commits to not add any other natural
+gas generation at the Coolidge Generating Station beyond the 12 units authorized in the Amended
+CEC. In addition, SRP has separately agreed to fund a variety of new programs and facilities to
+benefit the Randolph Community
+25 Conclusions of Law
+26 1. The Commission has jurisdiction over the Salt River Project's Application for a
+27 Certificate of Environmental Compatibility pursuant to A.R.S. 40-360 et al.
+28 2. A.R.S. §40-252 authorizes the Commission to rescind, alter, or amend an Order or
+13 79020DECISION no.
+
+
+=== PAGE 14 ===
+Docket No. L-00000B-21-0393-00197
+|
+I
+3 .
+1
+i
+1
+5 .
+l Decision.
+2 SRP's request to rescind Decision No. 78545 and adopt the Amended CEC attached
+3 hereto as Attachment A is in the public interest.
+4 4. The evidence in the entire record and the conditions placed upon the CEC as set forth
+5 in the Amended CEC attached hereto are sufficient to weigh the balancing of the public interest in
+6 favor of granting the Amended CEC in this matter when all the factors set forth in A.R.S. § 40-
+7 360.06 are considered along with the need for an adequate, economical, and reliable supply of
+8 electric power.
+9 The Amended CEC as proposed by SRP is in the public interest and should approved
+10 by the Commission.
+ll
+12 .
+13 .
+14 . .
+15
+16
+17 .
+18 . .
+19 . .
+2 0 . .
+2 1 . .
+22 .
+23 .
+2 4 .
+25 . .
+26
+27
+28
+1 4 DECISION NO. 79020
+
+
+=== PAGE 15 ===
+Docket No. L-00000B-21 -0393-00197
+Order
+IT IS THEREFORE ORDERED that Decision No. 78545 is rescinded pursuant to A.R.S. §
+l
+2
+3 40-252.
+4 IT IS FURTHER ORDERED that the CEC filed by the Chairman of Power Plant and
+5 Transmission Line Siting Committee on February 23, 2023, is hereby approved with the
+6 modifications as set forth in Attachment A hereto.
+IT IS FURTHER ORDERED that this Decision shall become effective immediately.
+BY ORDER OF THE ARIZONA CORPORATION COMMISSION.
+1
+I;/ee...
+L AIRM AN O'CONNOR
+éw{4~
+COMMISSIONER M A QUEZ PETERSON
+DISSENT
+COMMI IONER THOMPSON COMMISSI NERMYERS
+\
+WHEREOF, I, DOUGLAS
+of the Arizona Corporation Commission,4
+Q-..@
+4 4
+l
+Q
+9
+IN WITNESS R. CLARK,
+Executive Director
+have hereunto set my hand and caused the official seal of the
+Commisson to be affixed at the Capitol, in the City of Phoenix,
+this L a * day of To m e ,, 2023.
+..1
+I
+H i.
+§c ,
+< 4
+.L ':;....;','§9»,
+M V" / ' *
+11 ` g
+* ..~~. :
+' Q 1 l . I . ' , '
+* i ~, _ -`*- . - - _ _ _O . \ . .
+I l 0 ' » I A ? H . \ , l ' s
+9  0 ° ° l o  1 o 0 " 1 *
+I11?  1 / .
+DOUG AS R. CLARK
+EXECUTIVE DIRECTOR
+Jow/L,
+7
+8
+9
+10
+l l
+12
+13 COMMISSIONER TOVAR
+14
+15
+16
+17
+18
+19
+20
+21 DISSENT
+22
+DISSENT
+JLR/(gb)
+I
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+1 5 DECISION no. 79020
+
+
+=== PAGE 16 ===
+i
+SALT RIVER PROJECT AGRICULTURAL
+IMPROVEMENT AND POWER DISTRICT
+DOCKET NO.: L-00000B-21-0393-00197
+l SERVICE LIST FOR:
+2
+3
+4
+Louisa Eberly
+Sierra Club
+210] Webster St., Ste 1300
+Oakland, CA 94612
+Alex Routhier, ph.D.9
+Western Resource Advocates
+1429 North First Street, Suite 100
+Phoenix, AZ 85084
+Alex.roulhci1(¢Lwcstcmrcsourcesorv
+5
+6
+7
+8
+9
+Dianne Post
+1826 E. Willetta Street
+Phoenix, AZ 85006
+Attorney for Randolph Residents
+postdlpost@aol.com
+Consented to Service b Email
+Mathew Derstine
+SNELL & WILMER
+One East Washington St.
+Suite 2700
+Phoenix, AZ 85004
+Attorneys for Salt River Project
+10
+11
+12
+13
+1
+14
+Albeit Acken
+JENNINGS, STROUSS & SALMON, P.L.C.
+One East Washington Street
+Suite 1900
+Phoenix, AZ 85004
+zlackcnQl isslawcom
+Karilee Ramaley
+SALT RIVER PROJECT AGRICULTURAL
+IMPROVEMENT & POWER DISTRICT
+P.O. Box 52025, PAB381
+Phoenix, AZ 85072-2025
+Karilee.Ramalev@sqonet.com
+Consented to Service b Email
+i
+i
+i
+15 Consented to Serv ice b Email
+16 Adam Stafford
+Chairman, Arizona Power Plant and
+Transmission Line Siting Committee
+15 South l 5th Avenue
+Phoenix, AZ 85007
+17
+18
+i
+l
+l
+lll
+lll
+19 /
+Court Rich
+ROSE LAW GROUP PC
+7144 E Stetson Drive Suite 300
+Scottsdale, AZ 8525 l
+Attorney for Sierra Club
+CRich uRosel awGroup.com
+l
+Consented to Serv ice b Email20
+21
+22
+Robin Mitchell, Director
+Legal Division
+ARIZONA CORPORATION COMMISSION
+1200 West Washington Street
+Phoenix, AZ 85007
+LeQalI)iv(azazcc.uov
+utildb/servicebvemailQiz1zcc.Qov
+Consented to Serv ice b Email
+23
+24
+25
+26
+27
+28
+" Counsel for WRA has filed a Motion to Withdraw as
+counsel for WRA and indicated that WRA has been
+notified and can be reached though Dr. Routhier. The
+motion did not indicate if Dr. Routhier is eligible and
+authorized to represent WRA pursuant to Arizona
+Supreme Court Rule 3 I. Dr. Routhier is being included
+on the service list as a courtesy until the Commission
+receives documentation that Dr. Routhier qualifies to
+represent WRA before the Commission under Rule
+3 l . l .
+16 DECISION no. 79020
+
+
+=== PAGE 17 ===
+Docket No.
+L00000B~2 I -0393-00 I97
+Attachment A
+BEFORE THE ARIZONA POWER PLANT
+AND TRANSMISSION LINE SITING COMMITTEE
+Docket No. L-00000B-2 l -0393-00197
+Case No. 197
+I AM ENDED
+CERTIFICATE OF
+ENVIRONMENTAL
+COMPATIBILITY
+IN THE MATTER OF THE
+APPLICATION OF SALT RIVER
+PROJECT AGRICULTURAL
+IMPROVEMENT AND POWER
+DISTRICT, IN CONFORMANCE WITH
+THE REQUIREMENTS OF ARIZONA
+REVISED STATUTES, SECTIONS 40-
+360, 61. se 9 FOR A CERTIFICATE OF
+ENVIRON(iVlENTAL COMPATIBILITY
+AUTI-IORIZING THE EXPANSION OF
+THE COOLIDGE GENERATING
+STATION, ALL WITHIN THE CITY OF
+COOLIDGE, PINAL COUNTY,
+ARIZONA.
+A. INTRODUCTION.
+Pursuant to notice given as provided by law, the Arizona Power Plant and
+Transmission Line Siting Committee (Committee) held a public hearing on February 7,
+2022 through 16, 2022 in Casa Grande, Arizona, in conformance with the requirements of
+Arizona Revised Statutes (A.R.S.) §§40-360, et seq., tor the purpose of receiving evidence
+and deliberating on the application (Application) of Salt River Project Agricultural
+Improvement and Power District (Applicant or SRP) for a Certificate of Environmental
+Compatibility (Certificate) in the above-captioned case.
+The following members and designees of members of the Committee were present
+at one or more of the hearing days for the evidentiary presentations, public comment.
+and/or the deliberations:
+Paul A. Katz Chairman, Designee for Arizona Attorney General
+Mark Brnovich
+Zachary Bra rum Designee of the Chairman, Arizona Corporation
+Commission (Commission)
+Leonard C. Drano Arizona Department ofDesignee for Director,
+Environmental Quality
+1I
+Decision No. 79020
+
+
+=== PAGE 18 ===
+Docket No.
+L00000B-2 I -0393-00 I9
+I
+John R. Riggins Designee for Director, Arizona Department of Water
+Resources
+Mary Han way Appointed Member, representing incorporated cities
+and towns
+Rick Grinnell
+i
+James Palmer
+l
+Margaret "Toby" Little
+Karl Gentles
+Appointed Member, representing counties
+Appointed Member, representing agricultural interests
+Appointed Member, representing the general public
+Appointed Member, representing the general public
+Applicant, its successors and assigns, this Certificate for construction of the Coolidge
+B. PROJECT OVERVIEW.
+l
+2
+3
+4
+5
+6
+7
+8
+9
+10 The Applicant was represented by Bert Acken of Jennings, Strouss & Salmon, PLC,
+1  1 and by Karilee Ramaley of SRP. The following parties were granted intervention pursuant
+12 to A.R.S. § 40-360.052 Staff of the Arizona Corporation Commission, represented by
+1 3 Stephen Emedi and Kathryn Ust, Sierra Club represented by Court Rich and Eric Hill,
+14 Western Resource Advocates represented by Adam Stafford and Randolph
+j 15 Parties€8ommun=}ty represented by Dianne Post andAutumrr<lehnsen.
+16 At the conclusion of the hearing, the Committee, after considering the (i)
+17 Application, (ii) evidence, testimony and exhibits presented by Applicant and interveners,
+1 8 and (iii) comments of the public, and being advised of the legal requirements of A.R.S. §§
+19 40-360 through 40-360. 13, upon motion duly made and seconded, voted 7 to 2 to grant the
+20
+21 Expansion Project as described below.
+22
+23 The Coolidge Expansion Project (CEP or Project) will be located in the City of
+24 Coolidge, Pinal County, and consists of twelve ( l2>s4x+eet++l6> General Electric LM6000
+25 PC SPRINT NxGen individual simple-cycle combustion turbine generator units: each
+26 predueing ip-to-5-E25-megawatts-(ll~44#s)Tfor a total nameplate capacity o f approximately
+2 Decision No. 79020
+
+
+=== PAGE 19 ===
+Docket No.
+L00000B-2 I-0393-00 I 97
+I
+1
+CONDI TI ONS
+1 820 megawatts ( MWs), and associated interconnection facilities including new 500 kV
+2 transmission lines and a new 500 kV switchyard, which SRP may later convert to a 500/230
+3 kV substation. The new generation units will be located immediately adjacent to and
+4 glslso8t-l=1 of the existing units at Coolidge Generating Station. Twelve ( l2lSixteen-(-l-6)
+5 stacks, approximately 85 feet tall, will be located adjacent to each combustion turbine
+6 generator unit. The Project will be located entirely on land owned by SRP. A general
+7 location map of the Project showing the general placement of the combustion turbine
+8 generator units and the interconnection facilities is set forth in Exhibit A. Because this
+9 Project is totally contained on SRP-owned land, SRP does not require a right-of-way to
+10 access the site.
+l l
+12 This Certificate is granted upon the following conditions:
+13 l . This authorization to construct the Project shall expire five (5) years from the
+14 date this Certificate is approved by the Arizona Corporation Commission, with or without
+15 modification. Construction of the Project shall be complete, such that the Project is in-
+16 service within this five-year timeframe. However, prior to the expiration of the time period,
+17 the Applicant may request that the Commission extend the time limitation.
+18 2. In the event that the Project requires an extension of the term(s) of this
+19 Certificate prior to completion of construction, the Applicant shall file such time extension
+20 request at least one hundred and eighty (180) days prior to the expiration of the Certificate.
+21 The Applicant shall use reasonable means to promptly notify the Board of Supervisors of
+22 Pinal County, the City of Coolidge and all other cities and towns within a five (5) mile
+23 radius of the Project, and all landowners and residents within a five (5) mile radius of the
+24 Project, all persons who made public comment at this proceeding who provided a mailing
+25 or email address, and all parties to this proceeding. The notification provided will include
+26 the request and the date, time, and place of the hearing or open meetings during which the
+l
+3 Decision No. 79020
+l
+i
+l
+l
+l
+ll
+l
+l
+
+
+=== PAGE 20 ===
+Docket No.
+L00000B~21-0393~00 I 97
+1 Commission will consider the request for extension. Notification shall be no more than
+2 three (3) business days after the Applicant is made aware of the hearing date or the open
+3 meeting date.
+4 3. The Applicant agrees that it will not seek to add anv additional natural gas
+5 generation units at the Coolidge Generating Station beyond the 12 new units authorized
+6 under this Certificate.
+7 4. The Applicant agrees to an annual capacity factor limit of 30% when
+8 averaged across the 12 units permitted under this Certificate.
+9 3< During the development, construction, operation, maintenance and
+10 reclamation of the Project, the Applicant shall comply with all existing applicable air and
+11 water pollution control standards and regulations, and with all existing applicable statutes,
+1 2 ordinances, master plans and regulations of any governmental entity having jurisdiction
+1 3 including, but not limited to, the United States of America, the State of Arizona, Pinal
+14 County, the City of Coolidge, and their agencies and subdivisions, including but not limited
+1 5 to the following:
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+a. All applicable land use regulations,
+b. All applicable zoning stipulations and conditions including but not
+limited to, landscaping and dust control requirements,
+c. All applicable water use, discharge and/or disposal requirements of the
+Arizona Department of Water Resources and the Arizona Department of
+Environmental Quality,
+d. All applicable noise control standards and light control standards, and
+e. AlI applicable regulations governing storage and handling of hazardous
+chemicals and petroleum products.
+4<Q_The Applicant shall obtain all approvals and permits necessary to construct,
+operate and maintain the Project required by any governmental entity having jurisdiction
+Decision No. 79020
+-4-
+
+
+=== PAGE 21 ===
+Docket No.
+L00000B-21-0393-00 I 97
+I
+2
+I
+3
+4
+5
+6
+7
+I1
+including, but not limited to, the United States of America, the State of Arizona, Pinal
+County, the City of Coolidge, and their agencies and subdivisions.
+§¢L_The Applicant shall comply with the Arizona Game and Fish Department
+(AGFD) guidelines for handling protected animal species, should any be encountered
+during construction and operation of the Project, and shall consult with AGFD or U.S. Fish
+and Wildlife Service, as appropriate, on other issues concerning wildlife.
+€»§__The Applicant shall design the Project's interconnection facilities to
+8 incorporate reasonable measures to minimize electrocution of and impacts to avian species
+9 in accordance with the Applicant's avian protection program. Such measures will be
+10 accomplished through incorporation of Avian Power Line Interaction Committee
+l l guidelines set forth in the current versions ofSuggested Praeticesfor Avian Protection on
+12 Power Lines and Reducing Avian Collisions with Power Lines manuals.
+1 3 9 2 The Applicant shall consult the State Historic Preservation Office (SHPO)
+14 with respect to cultural resources. If any archaeological, paleontological, or historical site
+1 5 or a significant cultural object is discovered on state, county or municipal land during the
+16 construction or operation of the Project, the Applicant or its representative in charge shall
+17 promptly report the discovery to the Director of the Arizona State Museum (ASM), and in
+1 8 consultation with the Director, shall immediately take all reasonable steps to secure and
+19 maintain the preservation of the discovery as required by A.R.S. §41-844.
+20 & The Applicant agrees to establish a Community Worldng Group (CWG)
+21 made up of the following members: up to 5 residents of the Randolph community, l
+22 member designated by the Pinal County Supervisors, l member designated by the City of
+23 Coolidge, 2 members selected by SRP, l member designated by the Sierra Club, if
+24 requested by the Randolph community, and l member designated by Western Resource
+25 Advocates, if requested by the Randolph community. The Applicant shall act as advisor to
+26 the CWG. CWG meetings shall be noticed to and be open to the general public. The initial
+Decision No. 79020
+5
+
+
+=== PAGE 22 ===
+Docket No.
+L00000B-2 I -0393-00I 97
+.
+8
+l
+l
+l
+W
+.
+l
+4
+•
+.
+.
+.
+.
+.
+1 meeting shall take place on an evening or weekend in/or near the Community of Randolph.
+2 Applicant shall retain an independent facilitator, acceptable to the CWG, to conduct
+3 the CWG meetings. It shall be the role of the facilitator to assist in conducting an orderly
+4 and productive process. The facilitator may, if necessary, employ dispute resolution
+5 mechanisms. The Scope of the CWG will include but shall not be limited to:
+6 Implementing a landscaping plan to:
+7 O visually screen the Project and mitigate noise
+O provide landscaping in Randolph public areas
+9 Reducing impacts of plant lighting within limits required for plant and
+10 employee safety
+11 Providing a grant writer to help the Randolph community seek federal
+12 and state support to address community needs
+13 Implementing job training and sldlls development for the residents of
+14 Randolph
+15 % Subject to approval of Pinal County and the City of Coolidge as applicable,
+16 the Applicant shall pave the following roads:
+17 Roads within the Randolph community
+18 Randolph Road between Arizona Boulevard and Vail Road
+19 Kleck Road between Arizona Boulevard and Vail Road
+20 Vail Road between Randolph Road and Kleck Road
+21 44L The Applicant shall establish an annual scholarship program for Randolph
+22 residents with qualifications and timelines established by the Community Working Group.
+23 -l-l= The Applicant shall support efforts to establish Arizona and National
+24 Historic Designations for Randolph.
+25 -l% 1n consultation with the Community Worldng Group, the Applicant shall
+26 facilitate discussions with Pinal County, the city of Coolidge, and other appropriate
+6 - Decision No. 79020
+
+
+=== PAGE 23 ===
+Docket No.
+L00000B-2 I -0393-00 I 97
+l
+2
+3
+4
+5I
+l6
+7
+8I W
+3
+1
+1
+authorities regarding infrastructure improvements for the Randolph community.
+Applicant shall operate the Project so that during normal operations the Project shall
+comply with OSHA worker safety noise standards. Applicant agrees that it shall use
+reasonable efforts to minimize nighttime construction noise.
+l§ 4. Applicant will discontinue use of groundwater at the existing facility upon
+operation of the new facility and thereafter will use only stored surface water for power
+plant purposes.
+IQS. Applicant agrees to comply with all applicable federal, state and local
+9 regulations relative to storage and transportation of chemicals used at the plant.
+10 116. Applicant agrees to maintain on file with the city of Coolidge and Randolph
+11 United Council safety and emergency plans relative to emergency conditions that may arise
+12 at the plant site. On at least an annual basis Applicant shall review and update, if necessary,
+13 the emergency plans. Copies of these plans will be made available to the public and on
+14 Applicant's web site subject to the extent plans are not confidential. Additionally,
+l
+15 Applicant will cooperate with the City of Coolidge and the CWG to develop an emergency
+16 notification plan and to provide information to community residents relative to potential
+17 emergency situations arising from the plant or related facilities. Applicant agrees to work
+18 with the local area police and fire departments to jointly develop on-site and off-site
+19 evacuation plans, as may be reasonably appropriate. This cooperative work and plan shall
+20 be completed prior to operation of the plant expansion.
+21 l§ ¥ . Applicant shall install continuous emission monitoring equipment on the new
+22 units and will make available on its website emissions data from both the existing and new
+23 units according to EPA standards. Applicant shall provide information to the public on its
+24 website in order to assist the public in interpreting the data and provide viable information
+25 in a reasonable time frame.
+26
+Decision No. 79020
+7
+
+
+=== PAGE 24 ===
+Docket No.
+L00000B-2 I -0393-00 I9
+l l Qs.I
+2
+3
+4
+N
+8
+i
+l
+i
+WW
+l
+l
+lW
+The Applicant shall comply with the notice and salvage requirements of the
+Arizona Native Plant Law (A.R.S §§ 3-901 et seq.) and shall, to the extent feasible,
+minimize the destruction of native plants during the construction and operation of the
+Project.
+5 i'). The Applicant shall make every reasonable effort to promptly investigate,
+6 identify and correct on a case-specific basis, all complaints of interference with radio or
+7 television signals from operation of the Project addressed in this Certificate and where such
+interference is caused by the Project take reasonable measures to mitigate such
+9 interference. The Applicant shall maintain written records for a period of five (5) years of
+10 all complaints of radio or television interference attributable to operations, together with
+1  1 the corrective action taken in response to each complaint. All complaints shall be recorded
+12 to include notation on the corrective action taken. Complaints not leading to a specific
+1 3 action or for which there was no resolution shall be noted and explained. Upon request, the
+14 written records shall be provided to the Staff of the Commission. The Applicant shall
+1 5 respond to complaints and implement appropriate mitigation measures. In addition, the
+16 Project shall be evaluated on a regular basis so that damaged insulators or other line
+17 materials that could cause interference are repaired or replaced in a timely manner.
+1 18 2_lQ. If human remains and/or funerary objects are encountered during the course
+19 of any ground-disturbing activities related to the construction or maintenance of the
+20 Project, the Applicant shall cease work on the affected area of the Project and notify the
+21 Director of the ASM as required by A.R.S. § 41-865 for private land, or as required by
+22 A.R.S. § 41-844 for state, county, or municipal lands.
+l 23 22_-l. Within one hundred twenty (120) days of the Commission's decision
+24 approving this Certificate, the Applicant shall post signs in or near public rights-of-way, to
+25 the extent authorized by law, reasonably adjacent to the Project giving notice of the Project.
+26 Such Signage shall be no smaller than a roadway sign. The signs shall advise:
+Decision No. 79020
+8
+
+
+=== PAGE 25 ===
+Docket No.
+L00000B-2 l -0393-00 I 97
+I
+2
+3
+4
+5
+232.I
+n
+l
+W
+l\
+W
+a. Future site of the Project,
+b. A phone number and website for public information regarding the
+Project, and
+c. Refer the Public to the Docket https://edocket.azcc.gov/search/docket-
+search/item-detail/26]70.
+6 Such signs shall be inspected at least once annually and, if necessary, be repaired,
+7 or replaced, and removed at the completion of construction.
+8 The Applicant shall make every reasonable effort to communicate the decision
+9 either approving or disapproving the Certificate in digital media.
+10 Upon the approval of this Certificate by the Committee, the Applicant shall
+II provide the City of Coolidge and all other cities and towns within five (5) miles of the
+12 Project, the Board of Supervisors for Pinal County, Randolph United Council. and krlown
+13 builders and developers who are building upon or developing land within one (1) mile of
+14 the Project with a written description, including the approximate height and width
+15 measurements of all structure types, of the Project. The written description shall identify
+16 the location of the Project and contain a pictorial depiction of the facilities being
+17 constructed. The Applicant shall also encourage the developers and builders to include this
+18 information in their disclosure statements. Upon approval of this Certificate by the
+19 Commission, the Applicant may commence construction of the Project.
+20 233. The Applicant shall use non-specular conductor and non-reflective surfaces
+21 for the transmission line structures on the Project.
+l 22 2§4. The Applicant shall be responsible for arranging that all field personnel
+23 involved in the Project receive training as to proper ingress, egress, and on-site working
+24 protocol for environmentally sensitive areas and activities. Contractors employing such
+25 field personnel shall maintain records documenting that the personnel have received such
+26 training.
+l
+lDecision No. 79020
+9
+
+
+=== PAGE 26 ===
+Docket No.
+L00000B-2 l -0393-00 I 97
+I
+1
+I
+I
+1 2Q§. The Applicant shall follow the most current Western Electricity Coordinating
+2 Council (WECC) and North American Electric Reliability Corporation (NERC) planning
+3 standards, as approved by the Federal Energy Regulatory Commission (FERC), National
+4 Electrical Safety Code (NESC) standards, and Federal Aviation Administration (FAA)
+5 regulations.
+6 216. Th e Ap p lican t sh all p articip ate in  go o d  faith  in  state an d  regio n al
+7 transmission study forums to coordinate transmission expansion plans related to the Project
+8 and to resolve transmission constraints in a timely manner.
+9 288. When Project facilities are located parallel to and within one hundred (100)
+10 feet of any existing natural gas or hazardous pipeline, the Applicant shall:
+ll a. Ensure grounding and cathodic protection studies are performed to show
+12 that the Project's location parallel to and within one hundred ( 100) feet of
+13 such pipeline results in no material adverse impacts to the pipeline or to
+14 public safety when both the pipeline and the Project are in operation. The
+15 Applicant shall take appropriate steps to ensure that any material adverse
+16 impacts are mitigated. The Applicant shall provide to Staff of the
+17 Commission and counsel for Randolph Parties, and file with Docket
+18 Control, a copy of the studies performed and additional mitigation, if any,
+19 that was implemented as part ofits annual compliance-certification letter,
+20 a nd
+21 b. Ensure that studies are performed simulating an outage of the Project that
+22 may be caused by the collocation of the Project parallel to and within one
+23 hundred (100) feet of the existing natural gas or hazardous liquid pipeline.
+24 The studies should either: (a) show that such simulated outage does not
+25 result in customer outages, or (b) include operating plans to minimize any
+26 resulting customer outages. The Applicant shall provide a copy of the
+Decision No. 790201 0
+
+
+=== PAGE 27 ===
+Docket No.
+L00000B-2 1-0393-00 I97
+l
+r 2
+3
+4
+Io counsel for the Randolph United Counsel. _Attached to each certification letter shall be
+I
+successor,I
+study results to Staff of the Commission and counsel for Randolph
+Panties. and file them with Docket Control as part of the Applicant's
+annual compliance certification letter.
+228. The Applicant shall submit a compliance certification letter annually,
+5 identifying progress made with respect to each condition contained in this Certificate,
+6 including which conditions have been met. The letter shall be submitted to Commission's
+7 Docket Control commencing on .lune I 2024ll.4areh-l6;é.1Q23 and a copy shall be provided
+8
+9 documentation explaining how compliance with each condition was achieved. Copies of
+10 each letter, along with the corresponding documentation, shall be submitted to the Arizona
+I 1 Attorney General's Office. With respect to the Project, the requirement for the compliance
+12 letter shall expire on the date the Project is placed into operation. Notification of such filing
+13 with Docket Control shall be made to the Board of Supervisors for Pinal County, city of
+14 Coolidge, all parties to this Docket, and all parties who made a limited appearance in this
+15 Docket.
+16 M. The Applicant shall provide a copy of this Certificate to the Board of
+17 Supervisors for Pinal County,-and the City of Coolidge and the Randolph United Council.
+18 3_lQ. Any transfer or assignment of this Certificate shall require the assignee or
+19 successor to assume, in writing, all responsibilities of the Applicant listed in this Certificate
+20 and its conditions as required by A.R.S. § 40-360.08(A) and R14-3-2l3(F) of the Arizona
+21 Administrative Code.
+22 321. In the event the Applicant, its assignee, or seeks to modify the
+23 Certificate terms at the Commission, it shall provide copies of such request to the Board of
+24 Supervisors for Pinal County, the City of Coolidge, all parties to this Docket, and all parties
+25 who made a limited appearance in this Docket.
+26
+ll Decision No. 79020
+
+
+=== PAGE 28 ===
+Docket No.
+L00000B-2 I -0393-00 I 97
+I
+I
+338.I
+1 3§2. The Certificate Conditions shall be binding on the Applicant, its successors,
+2 assignee(s) and transferees and any affiliates, agents, or lessees of the Applicant who have
+3 a contractual relationship with the Applicant concerning the construction, operation,
+4 maintenance or reclamation of the Project. The Applicant shall provide in any agreement(s)
+5 or lease(s) pertaining to the Project that the contracting parties and/or lessee(s) shall be
+6 responsible for compliance with the Conditions set forth herein, and the Applicant's
+7 responsibilities with respect to compliance with such Conditions shall not cease or be
+8 abated by reason of the fact that the Applicant is not in control of or responsible for
+9 operation and maintenance of the Project facilities.
+10 During the proceeding, neighbors to the plant site raised significant concerns
+11 about the impact of the plant expansion on residential property values. In performing each
+12 of the conditions in this Order_. Applicant, in conjunction where applicable with the
+13 Community Working Group, Pinal County, City of Coolidge and the Randolph United
+14 Council community, shall consider and attempt to maximize the positive effect of its
+15 activities on the values of the homes in the surrounding neighborhoods.
+16 F I NDI NGS OF  F ACT AND CONCL USI ONS OF LAW
+This Certificate incorporates the following Findings of Fact and Conclusions of1 7
+18 Law:
+i
+l
+l
+W
+i
+y
+19 1. The Project aids the state and the southwest region of the United States in
+20 meeting the need for an adequate, economical, and reliable supply of electric power.
+21 2. The Project aids the state, preserving a safe and reliable electrical power
+22 system.
+23 3. During the course of the hearing, the Committee considered evidence on the
+24 environmental compatibility on the Project as required by A.R.S. § 40-360 et seq.
+25 4. The Project and the @ conditions placed on the Project in this Certificate
+26 effectively minimize the impact of the Project on the environment and ecology of the state.
+l
+llll
+l
+lI
+l
+l
+l
+1 2 Decision No. 79020
+
+
+=== PAGE 29 ===
+Docket No.
+L00000B-2 I _0393-00 I 97
+I
+!I
+THE ARIZONA POWER PLANT AND
+TRANSMISSION LINE SITING
+COMMITTEE
+By
+Paul A. Katz, Chairman
+1 5. The ggi conditions placed on the Project in this Certificate resolve matters
+2 concerning balancing the need for the Project with its impact on the environment and
+3 ecology of the state arising during the course of the proceedings, and, as such, serve as
+4 findings and conclusions on such matters.
+5 6. The Project is in the public interest because the Project's contribution to
+6 meeting the need for an adequate, economical and reliable supply of electric power
+7 outweighs the minimized impact of the Project on the environment and ecology of the state.
+8 DATED th is day of , 2022.
+9
+10
+ll
+1 2
+1 3
+1 4
+1 5
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+Decision No. 790201 3
+
+
+=== PAGE 30 ===
+Docket No.
+L00000B~21-0393-00 I9
+l CERTIFICATE OF MAILING
+2 Pursuant to A.A.C. RI4-3-204, the ORIGINAL of the foregoing and 25 copies were
+filed this - day of , 2022 with:
+3
+Utilities Division - Docket Control
+4 Arizona Corporation Commission
+1200 West Washier ton Street
+5 Phoenix, AZ 85087
+i
+i
+i
+i
+i
+1
+l
+l
+ll
+6 COPIES of the abovemailed this _ day of , 2022:
+7
+8
+9
+Robin Mitchell, General Counsel
+Arizona Corporation Commission
+1200 West Washington Street
+Phoenix, AZ 85007
+rmitchell@azcc.gov
+Counsel for Legal Division Staff
+10
+l l
+ll
+l
+l
+W
+l
+Elijah Abinah, Director
+Utllities Division
+Arizona Co oration Commission
+12 1200 West as fin ton Street
+Phoenix, AZ 85087
+13
+Marta T. Hetzer
+14 Coash & Coash, Inc.
+1802 North 7th Street
+15 Phoenix, AZ 85006
+mh@coashandcoash.com
+16 Court Reporter 1117
+18
+I 19
+Albert H. Acken
+Jennings Strouss & Salmon, P.L.C.
+One East Washington Street, Suite 1900
+Phoenix, AZ 85004
+Attorney for Salt River Project
+20
+l
+l
+l
+l
+9
+Karilee S. Ramaley
+Senior Principal Attorney
+Salt River Proect
+P.O. Box 52059 PAB381
+Phoenix, AZ 85072-2025
+Attorney for Salt River Project
+21
+22
+23
+24
+25
+l
+1
+l
+l
+26
+I
+i
+Court S. Rich
+Eric A. Hill
+Rose Law Group pc
+7144 East Stetson Drive, Suite 300
+Scottsdale, AZ 8525 l
+Attorneys for Sierra Club
+l
+Decision No. 7902014-
+
+
+=== PAGE 31 ===
+I
+II Docket No.
+L00000B-2 I -0393-00 I97
+I
+85004
+Western Resource Advocates
+1429 North First Street, Suite 100
+Phoenix, AZ
+A44o+ney»-fbr-Western-Reseua48e A\d=»=eea4es
+I
+I
+I
+Dianne Post
+Aulu 44ohnseH
+1826 East Willetta Street
+Phoenix, AZ 85006
+Attorneys for Randolph Residents
+I
+I
+I
+l
+2
+3
+I 4
+5
+I 6
+I 7
+8
+B y
+9
+10
+11
+12
+1 3
+14
+1 5
+16
+17
+1 8
+19
+20
+21
+22
+2 3
+24
+2 5
+26
+_15_ Decision No. 79020
+
+
+=== PAGE 32 ===
+9
+l
+l
+Docket No.
+L00000B-21-0393-00 I97
+l
+l
+i
+l
+Exhibit A
+Decision No. 79020
+
+
+=== PAGE 33 ===
+Docket No.
+L00000B-21-0393~00 I97
+ii. s9 9
+e t:go
+' 9
+$83!
+I
+£ 2 3
+455
+z
+Qn
+=v-
+=3"'8Wumet.
+§u
+8
+§
+3 9 ;
+,fossil§ .
+l
+l
+L
+i
+I v~...
+r i f.  , f
+A
+Q'
+4. l~
+. up
+. . . ..
+I
+LM
+.K*.T.4 .4
+r
+la
+1 : ~ .
+of'I
+. x
+. .
+. . 4
+nl
+.v
+I
+\ . s.
+I " y.. {  .
+.
+..¢.S
+" . a i .* 4* ' ! |¢¢|{ 8YA . /48f f ; .
+f ,/
+___ .
+q. e 4 < 4- - us . .
+4
+v 1 ° n : A
+s
+I F ` a_r
+.of
+r -
+I
+u p 4"". a v,
+3r
+I
+-=l "1
+' Q 3
+9
+\
+I *'
+AL _
+I
+|
+. 8
+3 |
+1 '
+lJ
+.
+, |
+! ! xE1 9Q
+I._ . . . 1
+. -. .f l¢¢. " "  '.r
+. . I
+- u \2
+;-
+- I
+, 14
+# 4
+JI1r
+og 'Z
+:
+I
+*-8
+H W
+(
+818°-`
+H  R u "
+6 §':i'
+- W
+81JU  u \
+. I
+Iair
+I
+;|\
+r
+F
+é
+|
+4lrI ".1
+E
+_6,8444
+I F 1 - 1v
+a
+i*
+: I
+. M
+'n
+¢1>=3T =
+Zn-II I .
+= I
+,/-
+4
+0Q 1._, I. . 1
+8 .
+V
+' s a
+I3 1
+lv l I
+I
+I
+A
+\I
+;l=l .
+-4
+l
+v ..,. ,
+1
+l .
+cV I
+l
+..
+z
+9
+J' i i I
+P I1
+4
+JN
+r f
+I
+3
+8
+fI <...-
+. <
+;§i=
+;= 2
+.../ JQ
+I.
+4 *
+al 8
+i.|.
+. l
+I *I
+I,I 82
+om-
+E a
+£\ _ .
+. _
+; i;
+l I;J
+I:
+4IV
+\\*`
+I
+'no .,... - . - . .4. p = ~ : -
+a v  - 4 L < i * ' t . = ~ ¢- - -¢ 4
+| . ~ - =t')3¢mv
+.  " 3  9 » " * lv
+- ` .
+. . * . 4
+Q ..-am. _ 1 ..H i ~ 4
+1  v?
+e
+-
+" . :» »74..;. .
+" v
+IQ Is
+.
+:
+; * " .
+" n I 4
+" ; . . .
+`  " .J.» .-
+Q ...Sal I3 ¢ .
+»-.r
+."'-an .I 1I upv iv
+1 1
+a
+V M=l."Ti
+, . x . *..
+}.
+.
+\
+9e-\_
+a
+§ "(
+'.
+. if 4 .
+¢£o » ' r 9I. 3 99. 1lslb;x L4 ,w
+e * "
+t'
+*..
+.. A  '  ..." ¢ »
+1
+894
+Jr $8 :
+883 '
+. 1 .
+. z \
+_ _ _  ' 4 : 1  , ~ = - : 8
+° - ~
+" u =
+= . . , a ~ .1 " _- ac
+- i - . » v 1» - -i *»¢:~¢ L6.
+Ei s
+. Qs.8 K- I 1..._. __ __
+_9#!\9'5£`»
+r w
+|
+45:9 1
+4434 ._
+eg#-
+,ar .¢
+.94 *...., .
+e G
+I
+:
+~3;¢
+* o f  ' ~ ~ : -
+. 9* ,
+8 8 '" s
+, . . .
+-an-.-3
+2 %4
+ma -vA
+.
+' ~I
+z L n uJ.. . _7_¢~_-E_s
+5
+i.
+5
+x .
+1.
+-» .  _'FI T
+I
+4
+o
+No
+o~
+l  0 4 ,
+1 49;
+\.... 6z
+l
+II
+r
+n o - .
+"'£2=¢
+4
+*-1
+9
+.» ..| \
+" 1 - A; . . , . , ,,,
+1 0 9
+u
+. _ . , l '. Lg . . - *- 'H ..
+R . ..
+I 6 .
+V iJ~
+' . . .
+--':..* ..1 .i. - .-_._-,-,; I
+co. u p
+o0
+Q

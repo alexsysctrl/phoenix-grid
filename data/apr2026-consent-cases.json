@@ -1,0 +1,80 @@
+{
+  "source_file": "mc-bos-2026-04-08-pz-agenda.txt",
+  "source_sha256": "31b329353e1df5f2937ecb73e1496b1b98e8ab23dbeb3cf8444b3d00becd3694",
+  "agenda": "April 8, 2026 Board of Supervisors' Hearing - Planning and Zoning Agenda (consent agenda)",
+  "agenda_url": "https://www.maricopa.gov/AgendaCenter/ViewFile/Item/10227?fileID=100092",
+  "agenda_retrieved": "2026-10-29T17:49:00-07:00",
+  "agenda_sha256_pdf": "61a2cf5318df684bfc4d618459bfc57e2d6a52506a4b3a167c728be7b7bdc37c",
+  "counts": {
+    "items": 5,
+    "industrial_or_utility": 3,
+    "with_commission_vote": 5,
+    "vote_tally": {
+      "6-0": 3,
+      "5-1": 1,
+      "7-0": 1
+    }
+  },
+  "cases": [
+    {
+      "title": "HEGIC South",
+      "case": "Z250024",
+      "district": "5",
+      "applicant_owner": "Keith Nichter, Kimley-Horn / CV Harquahala LLC Request: Amendment to the IND-2 IUPD zoning district (modification of conditions of Z2023131) Site Location: Generally located south of Lower Buckeye Road and Harquahala Valley Road. Commission Recommendation: On 3/5/26, the Commission voted 6 -0 (motion by Vice",
+      "request": "Amendment to the IND-2 IUPD zoning district (modification of conditions of Z2023131) Site Location: Generally located south of Lower Buckeye Road and Harquahala Valley Road. Commission Recommendation: On 3/5/26, the Commission voted 6 -0 (motion by Vice Chair Hernandez, D5, seconded by Commi",
+      "commission_recommendation": {
+        "date": "3/5/26",
+        "vote": "6 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "330 S 75th Ave – Clean Harbors Industrial",
+      "case": "Z250030",
+      "district": "5",
+      "applicant_owner": "Zach Hill, Kimley-Horn / Clean Harbors Environmental Services, Inc. Request: Zone Change from IND-3 to IND-3 IUPD Site Location: Generally located approx. 600’ north of the NWC of 75th Ave. & Lincoln St. in the Tolleson area Commission Recommendation: On 3/5/26, the Commission voted 6 -0 (motion by Vice Chair H",
+      "request": "Zone Change from IND-3 to IND-3 IUPD Site Location: Generally located approx. 600’ north of the NWC of 75th Ave. & Lincoln St. in the Tolleson area Commission Recommendation: On 3/5/26, the Commission voted 6 -0 (motion by Vice Chair Hernandez, D5, seconded by Commissioner Rochwalik, D3) to",
+      "commission_recommendation": {
+        "date": "3/5/26",
+        "vote": "6 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Hassayampa Ranch",
+      "case": "Z250047",
+      "district": "4",
+      "applicant_owner": "Wendy Riddell, Berry Riddell LLC / Hassayampa Rach 2040 Acres, LLC Request: Zone change from C-O, C-1, C-2, C-S, R-2, R-3, R1-6 & Rural-43 all within a PAD overlay zone to IND-2 IUPD April 8, 2026 Board of Supervisors’ Hearing – P&Z Agenda Page 5 of 11 Site Location: Generally located approx. 1 mile north of the",
+      "request": "Zone change from C-O, C-1, C-2, C-S, R-2, R-3, R1-6 & Rural-43 all within a PAD overlay zone to IND-2 IUPD April 8, 2026 Board of Supervisors’ Hearing – P&Z Agenda Page 5 of 11 Site Location: Generally located approx. 1 mile north of the northwest corner of 339 th Ave. & Indian School Rd. in",
+      "commission_recommendation": {
+        "date": "3/05/26",
+        "vote": "5-1"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "18401 W. Moreland Backyard Rentals SUP",
+      "case": "SU250009",
+      "district": "5",
+      "applicant_owner": "Jessica Sarkissian, Upfront Planning & Entitlements, LLC / Ruben Benavides Request: Special Use Permit (SUP) for an outdoor event venue in the Rural -43 zoning district Site Location: Generally located south of I-10 near the northeast corner of Perryville Rd. and Roosevelt St. at 18401 W. Moreland St. in the Goody",
+      "request": "Special Use Permit (SUP) for an outdoor event venue in the Rural -43 zoning district Site Location: Generally located south of I-10 near the northeast corner of Perryville Rd. and Roosevelt St. at 18401 W. Moreland St. in the Goodyear area Commission Recommendation: On 3/5/26, the Commission",
+      "commission_recommendation": {
+        "date": "3/5/26",
+        "vote": "6 -0"
+      },
+      "converts_to_industrial_or_utility": false
+    },
+    {
+      "title": "Event Space at Gambel Field",
+      "case": "SU250041",
+      "district": "4",
+      "applicant_owner": "Jane Peiffer, JCJ Services / T. Mark Graham Request: Special Use Permit (SUP) for an outdoor event venue Site Location: Generally located 680’ northeast of the NEC of Lower Buckeye Rd. & 331st Ave. in the Tonopah area Commission Recommendation: On 3/05/26, the Commission voted 7-0 (motion by Vice-Chair Hernan",
+      "request": "Special Use Permit (SUP) for an outdoor event venue Site Location: Generally located 680’ northeast of the NEC of Lower Buckeye Rd. & 331st Ave. in the Tonopah area Commission Recommendation: On 3/05/26, the Commission voted 7-0 (motion by Vice-Chair Hernandez, D5, seconded by Commissioner R",
+      "commission_recommendation": {
+        "date": "3/05/26",
+        "vote": "7-0"
+      },
+      "converts_to_industrial_or_utility": false
+    }
+  ]
+}

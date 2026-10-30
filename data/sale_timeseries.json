@@ -1,0 +1,2328 @@
+{
+  "taken": "2026-10-28T16:53:07+00:00",
+  "source": "https://services.arcgis.com/ykpntM6e3tHvzKRJ/arcgis/rest/services/Parcel_Data_View/FeatureServer/0/query",
+  "definition": "SalePrice and SaleDate as the county records them: the last transaction it holds for each parcel. Not a repeat-sales index; a count of recorded transfers per quarter.",
+  "thin_threshold": 25,
+  "zips": [
+    {
+      "zip": "85323",
+      "parcels_read": 15111,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 220,
+          "median_price": 404233,
+          "p25": 381990,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 223,
+          "median_price": 425000,
+          "p25": 386000,
+          "p75": 483495,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 198,
+          "median_price": 444995,
+          "p25": 396999,
+          "p75": 515000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 130,
+          "median_price": 429997,
+          "p25": 385000,
+          "p75": 470000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 210,
+          "median_price": 438528,
+          "p25": 400000,
+          "p75": 475000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 222,
+          "median_price": 429620,
+          "p25": 388990,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 171,
+          "median_price": 412918,
+          "p25": 380000,
+          "p75": 457500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 103,
+          "median_price": 402000,
+          "p25": 360000,
+          "p75": 464300,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 38,
+          "median_price": 374075,
+          "p25": 345000,
+          "p75": 425000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 227,
+          "median_price": 403990,
+          "p25": 380000,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 240,
+          "median_price": 429806,
+          "p25": 392000,
+          "p75": 490000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 213,
+          "median_price": 446999,
+          "p25": 396664,
+          "p75": 520685,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 140,
+          "median_price": 424648,
+          "p25": 377990,
+          "p75": 469995,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 265,
+          "median_price": 454990,
+          "p25": 412500,
+          "p75": 570995,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 233,
+          "median_price": 431439,
+          "p25": 389990,
+          "p75": 465000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 347,
+          "median_price": 523161,
+          "p25": 405610,
+          "p75": 5670000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 222,
+          "median_price": 468215,
+          "p25": 391000,
+          "p75": 5140800,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 58,
+          "median_price": 393745,
+          "p25": 345000,
+          "p75": 491995,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 218,
+          "median_price": 404559,
+          "p25": 383390,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 223,
+          "median_price": 425000,
+          "p25": 386000,
+          "p75": 483495,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 197,
+          "median_price": 445000,
+          "p25": 398000,
+          "p75": 515000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 129,
+          "median_price": 430000,
+          "p25": 385990,
+          "p75": 470000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 209,
+          "median_price": 439000,
+          "p25": 400000,
+          "p75": 475000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 219,
+          "median_price": 429990,
+          "p25": 389990,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 169,
+          "median_price": 413000,
+          "p25": 385000,
+          "p75": 457500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 99,
+          "median_price": 403000,
+          "p25": 365000,
+          "p75": 464300,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 38,
+          "median_price": 374075,
+          "p25": 345000,
+          "p75": 425000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 8721,
+      "transfers_in_recent_window": 1945,
+      "dates_dropped_as_implausible": 0,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": -7.5
+    },
+    {
+      "zip": "85353",
+      "parcels_read": 15646,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 302,
+          "median_price": 399990,
+          "p25": 365000,
+          "p75": 432000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 307,
+          "median_price": 400000,
+          "p25": 378843,
+          "p75": 431000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 293,
+          "median_price": 407990,
+          "p25": 380000,
+          "p75": 445990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 243,
+          "median_price": 399990,
+          "p25": 379990,
+          "p75": 434990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 307,
+          "median_price": 405000,
+          "p25": 387000,
+          "p75": 435090,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 295,
+          "median_price": 418990,
+          "p25": 392000,
+          "p75": 451890,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 240,
+          "median_price": 419990,
+          "p25": 390000,
+          "p75": 469990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 165,
+          "median_price": 410035,
+          "p25": 387990,
+          "p75": 440990,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 61,
+          "median_price": 404000,
+          "p25": 367000,
+          "p75": 439990,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 310,
+          "median_price": 399990,
+          "p25": 365000,
+          "p75": 435000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 311,
+          "median_price": 400014,
+          "p25": 378930,
+          "p75": 433490,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 301,
+          "median_price": 408430,
+          "p25": 380000,
+          "p75": 448490,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 271,
+          "median_price": 400990,
+          "p25": 379990,
+          "p75": 445705,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 316,
+          "median_price": 405495,
+          "p25": 387000,
+          "p75": 437990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 323,
+          "median_price": 420990,
+          "p25": 394000,
+          "p75": 465000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 281,
+          "median_price": 426000,
+          "p25": 394990,
+          "p75": 520000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 201,
+          "median_price": 420000,
+          "p25": 393990,
+          "p75": 478990,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 65,
+          "median_price": 404000,
+          "p25": 365000,
+          "p75": 439990,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 302,
+          "median_price": 399990,
+          "p25": 365000,
+          "p75": 432000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 305,
+          "median_price": 400000,
+          "p25": 378990,
+          "p75": 431000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 293,
+          "median_price": 407990,
+          "p25": 380000,
+          "p75": 445990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 243,
+          "median_price": 399990,
+          "p25": 379990,
+          "p75": 434990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 306,
+          "median_price": 405495,
+          "p25": 387000,
+          "p75": 435090,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 294,
+          "median_price": 418990,
+          "p25": 392963,
+          "p75": 451890,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 239,
+          "median_price": 419990,
+          "p25": 390000,
+          "p75": 469990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 164,
+          "median_price": 410062,
+          "p25": 389000,
+          "p75": 441990,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 61,
+          "median_price": 404000,
+          "p25": 367000,
+          "p75": 439990,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 8893,
+      "transfers_in_recent_window": 2379,
+      "dates_dropped_as_implausible": 1,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": 1.0
+    },
+    {
+      "zip": "85338",
+      "parcels_read": 28300,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 355,
+          "median_price": 459995,
+          "p25": 399000,
+          "p75": 538000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 336,
+          "median_price": 456536,
+          "p25": 402000,
+          "p75": 533000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 287,
+          "median_price": 465000,
+          "p25": 404500,
+          "p75": 540000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 322,
+          "median_price": 474995,
+          "p25": 410000,
+          "p75": 675000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 370,
+          "median_price": 459945,
+          "p25": 407500,
+          "p75": 527632,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 439,
+          "median_price": 458000,
+          "p25": 410000,
+          "p75": 529990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 401,
+          "median_price": 445204,
+          "p25": 405990,
+          "p75": 505000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 283,
+          "median_price": 449000,
+          "p25": 400000,
+          "p75": 523000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 122,
+          "median_price": 440483,
+          "p25": 390858,
+          "p75": 544000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 365,
+          "median_price": 459995,
+          "p25": 398500,
+          "p75": 541898,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 348,
+          "median_price": 457275,
+          "p25": 401803,
+          "p75": 537091,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 464,
+          "median_price": 553747,
+          "p25": 430000,
+          "p75": 8601000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 393,
+          "median_price": 504678,
+          "p25": 417634,
+          "p75": 14232033,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 413,
+          "median_price": 455990,
+          "p25": 400000,
+          "p75": 530000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 584,
+          "median_price": 484995,
+          "p25": 416730,
+          "p75": 634995,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 474,
+          "median_price": 453740,
+          "p25": 408659,
+          "p75": 525000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 408,
+          "median_price": 452640,
+          "p25": 401721,
+          "p75": 530000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 264,
+          "median_price": 512574,
+          "p25": 419000,
+          "p75": 1148424,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 354,
+          "median_price": 459997,
+          "p25": 399900,
+          "p75": 538000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 335,
+          "median_price": 456791,
+          "p25": 402000,
+          "p75": 533000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 287,
+          "median_price": 465000,
+          "p25": 404500,
+          "p75": 540000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 321,
+          "median_price": 475000,
+          "p25": 410000,
+          "p75": 675000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 370,
+          "median_price": 459945,
+          "p25": 407500,
+          "p75": 527632,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 438,
+          "median_price": 458645,
+          "p25": 410000,
+          "p75": 529990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 401,
+          "median_price": 445204,
+          "p25": 405990,
+          "p75": 505000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 280,
+          "median_price": 447558,
+          "p25": 400000,
+          "p75": 523000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 122,
+          "median_price": 440483,
+          "p25": 390858,
+          "p75": 544000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 16664,
+      "transfers_in_recent_window": 3713,
+      "dates_dropped_as_implausible": 2,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": -4.2
+    },
+    {
+      "zip": "85342",
+      "parcels_read": 1128,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 5,
+          "median_price": 460000,
+          "p25": 202000,
+          "p75": 545000,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 14,
+          "median_price": 395000,
+          "p25": 258000,
+          "p75": 521550,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 8,
+          "median_price": 357000,
+          "p25": 210000,
+          "p75": 379900,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 6,
+          "median_price": 551750,
+          "p25": 240000,
+          "p75": 2000000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 5,
+          "median_price": 330000,
+          "p25": 246500,
+          "p75": 360000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 8,
+          "median_price": 635000,
+          "p25": 242274,
+          "p75": 725000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 9,
+          "median_price": 294000,
+          "p25": 215000,
+          "p75": 380500,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 5,
+          "median_price": 350000,
+          "p25": 270000,
+          "p75": 485000,
+          "thin": true
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 1,
+          "median_price": 662520,
+          "p25": 662520,
+          "p75": 662520,
+          "thin": true
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 12,
+          "median_price": 201000,
+          "p25": 150000,
+          "p75": 545000,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 17,
+          "median_price": 395000,
+          "p25": 228500,
+          "p75": 521550,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 11,
+          "median_price": 220000,
+          "p25": 57500,
+          "p75": 375000,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 6,
+          "median_price": 551750,
+          "p25": 240000,
+          "p75": 2000000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 11,
+          "median_price": 280000,
+          "p25": 32000,
+          "p75": 330000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 15,
+          "median_price": 420000,
+          "p25": 239500,
+          "p75": 685000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 13,
+          "median_price": 289900,
+          "p25": 213840,
+          "p75": 380500,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 7,
+          "median_price": 350000,
+          "p25": 35900,
+          "p75": 950000,
+          "thin": true
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 3,
+          "median_price": 140000,
+          "p25": 29000,
+          "p75": 662520,
+          "thin": true
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 4,
+          "median_price": 350000,
+          "p25": 202000,
+          "p75": 545000,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 11,
+          "median_price": 503430,
+          "p25": 258000,
+          "p75": 542900,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 2,
+          "median_price": 497500,
+          "p25": 220000,
+          "p75": 775000,
+          "thin": true
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 6,
+          "median_price": 551750,
+          "p25": 240000,
+          "p75": 2000000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 2,
+          "median_price": 595000,
+          "p25": 290000,
+          "p75": 900000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 7,
+          "median_price": 685000,
+          "p25": 239500,
+          "p75": 725000,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 7,
+          "median_price": 294000,
+          "p25": 213840,
+          "p75": 380500,
+          "thin": true
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 3,
+          "median_price": 285000,
+          "p25": 270000,
+          "p75": 950000,
+          "thin": true
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 1,
+          "median_price": 662520,
+          "p25": 662520,
+          "p75": 662520,
+          "thin": true
+        }
+      ],
+      "transfers_on_record_any_date": 575,
+      "transfers_in_recent_window": 95,
+      "dates_dropped_as_implausible": 1,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 0,
+      "site_built_pct_change_first_to_last_adequate_quarter": null
+    },
+    {
+      "zip": "85043",
+      "parcels_read": 11891,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 252,
+          "median_price": 1135218,
+          "p25": 361823,
+          "p75": 1884692,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 102,
+          "median_price": 385000,
+          "p25": 358000,
+          "p75": 420000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 61,
+          "median_price": 371173,
+          "p25": 345000,
+          "p75": 409900,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 49,
+          "median_price": 370000,
+          "p25": 351000,
+          "p75": 413000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 97,
+          "median_price": 420000,
+          "p25": 365000,
+          "p75": 1918214,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 65,
+          "median_price": 380000,
+          "p25": 355000,
+          "p75": 439000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 64,
+          "median_price": 397450,
+          "p25": 353000,
+          "p75": 440000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 92,
+          "median_price": 370500,
+          "p25": 341500,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 28,
+          "median_price": 370000,
+          "p25": 335000,
+          "p75": 414000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 260,
+          "median_price": 1148789,
+          "p25": 361823,
+          "p75": 1884692,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 110,
+          "median_price": 381590,
+          "p25": 354000,
+          "p75": 420000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 68,
+          "median_price": 370789,
+          "p25": 345000,
+          "p75": 414359,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 55,
+          "median_price": 370000,
+          "p25": 350000,
+          "p75": 425820,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 111,
+          "median_price": 414500,
+          "p25": 352100,
+          "p75": 6700000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 86,
+          "median_price": 397000,
+          "p25": 355000,
+          "p75": 620000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 130,
+          "median_price": 542500,
+          "p25": 385000,
+          "p75": 4248500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 99,
+          "median_price": 370000,
+          "p25": 339900,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 31,
+          "median_price": 370000,
+          "p25": 325000,
+          "p75": 414000,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 252,
+          "median_price": 1135218,
+          "p25": 361823,
+          "p75": 1884692,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 102,
+          "median_price": 385000,
+          "p25": 358000,
+          "p75": 420000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 61,
+          "median_price": 371173,
+          "p25": 345000,
+          "p75": 409900,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 48,
+          "median_price": 370000,
+          "p25": 351000,
+          "p75": 413000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 97,
+          "median_price": 420000,
+          "p25": 365000,
+          "p75": 1918214,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 65,
+          "median_price": 380000,
+          "p25": 355000,
+          "p75": 439000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 62,
+          "median_price": 397450,
+          "p25": 352000,
+          "p75": 437000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 92,
+          "median_price": 370500,
+          "p25": 341500,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 28,
+          "median_price": 370000,
+          "p25": 335000,
+          "p75": 414000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 7045,
+      "transfers_in_recent_window": 950,
+      "dates_dropped_as_implausible": 0,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": -67.4
+    },
+    {
+      "zip": "85041",
+      "parcels_read": 19809,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 242,
+          "median_price": 390000,
+          "p25": 350000,
+          "p75": 444490,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 224,
+          "median_price": 399821,
+          "p25": 357990,
+          "p75": 452030,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 201,
+          "median_price": 384000,
+          "p25": 360000,
+          "p75": 433000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 139,
+          "median_price": 398368,
+          "p25": 372000,
+          "p75": 458990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 200,
+          "median_price": 402518,
+          "p25": 370465,
+          "p75": 454370,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 189,
+          "median_price": 410000,
+          "p25": 374000,
+          "p75": 480000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 149,
+          "median_price": 399000,
+          "p25": 349900,
+          "p75": 445000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 148,
+          "median_price": 392500,
+          "p25": 340000,
+          "p75": 459850,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 76,
+          "median_price": 385500,
+          "p25": 309900,
+          "p75": 487019,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 246,
+          "median_price": 390000,
+          "p25": 350000,
+          "p75": 446990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 230,
+          "median_price": 399326,
+          "p25": 355000,
+          "p75": 452030,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 210,
+          "median_price": 386203,
+          "p25": 357490,
+          "p75": 444990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 151,
+          "median_price": 399900,
+          "p25": 373990,
+          "p75": 470990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 251,
+          "median_price": 420011,
+          "p25": 375490,
+          "p75": 535000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 261,
+          "median_price": 441000,
+          "p25": 385000,
+          "p75": 1600000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 155,
+          "median_price": 399000,
+          "p25": 345000,
+          "p75": 446917,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 152,
+          "median_price": 395356,
+          "p25": 340000,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 77,
+          "median_price": 386000,
+          "p25": 309900,
+          "p75": 487019,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 240,
+          "median_price": 390495,
+          "p25": 350000,
+          "p75": 446990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 223,
+          "median_price": 399653,
+          "p25": 355990,
+          "p75": 451990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 198,
+          "median_price": 386203,
+          "p25": 360041,
+          "p75": 435000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 138,
+          "median_price": 399129,
+          "p25": 372490,
+          "p75": 458990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 195,
+          "median_price": 404990,
+          "p25": 374999,
+          "p75": 454939,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 185,
+          "median_price": 410000,
+          "p25": 375000,
+          "p75": 480000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 144,
+          "median_price": 399995,
+          "p25": 350000,
+          "p75": 446917,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 147,
+          "median_price": 395000,
+          "p25": 340000,
+          "p75": 459850,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 74,
+          "median_price": 387500,
+          "p25": 315000,
+          "p75": 487019,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 10620,
+      "transfers_in_recent_window": 1733,
+      "dates_dropped_as_implausible": 0,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": -0.8
+    },
+    {
+      "zip": "85037",
+      "parcels_read": 15487,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 152,
+          "median_price": 379995,
+          "p25": 334000,
+          "p75": 454990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 168,
+          "median_price": 380942,
+          "p25": 350490,
+          "p75": 446490,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 141,
+          "median_price": 390000,
+          "p25": 357990,
+          "p75": 454990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 84,
+          "median_price": 382000,
+          "p25": 340000,
+          "p75": 452990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 102,
+          "median_price": 370000,
+          "p25": 335000,
+          "p75": 407500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 93,
+          "median_price": 375000,
+          "p25": 333000,
+          "p75": 400000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 110,
+          "median_price": 375000,
+          "p25": 331000,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 76,
+          "median_price": 375000,
+          "p25": 320000,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 59,
+          "median_price": 365000,
+          "p25": 308500,
+          "p75": 390000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 160,
+          "median_price": 375000,
+          "p25": 328000,
+          "p75": 449990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 182,
+          "median_price": 376490,
+          "p25": 343000,
+          "p75": 438990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 152,
+          "median_price": 385945,
+          "p25": 351490,
+          "p75": 454990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 89,
+          "median_price": 376990,
+          "p25": 335000,
+          "p75": 452990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 257,
+          "median_price": 8880000,
+          "p25": 375000,
+          "p75": 8880000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 120,
+          "median_price": 369500,
+          "p25": 325000,
+          "p75": 407000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 159,
+          "median_price": 395900,
+          "p25": 349000,
+          "p75": 6423822,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 80,
+          "median_price": 368650,
+          "p25": 317000,
+          "p75": 409000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 126,
+          "median_price": 4150362,
+          "p25": 360000,
+          "p75": 7670724,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 152,
+          "median_price": 379995,
+          "p25": 334000,
+          "p75": 454990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 168,
+          "median_price": 380942,
+          "p25": 350490,
+          "p75": 446490,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 141,
+          "median_price": 390000,
+          "p25": 357990,
+          "p75": 454990,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 84,
+          "median_price": 382000,
+          "p25": 340000,
+          "p75": 452990,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 102,
+          "median_price": 370000,
+          "p25": 335000,
+          "p75": 407500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 93,
+          "median_price": 375000,
+          "p25": 333000,
+          "p75": 400000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 110,
+          "median_price": 375000,
+          "p25": 331000,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 76,
+          "median_price": 375000,
+          "p25": 320000,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 59,
+          "median_price": 365000,
+          "p25": 308500,
+          "p75": 390000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 8410,
+      "transfers_in_recent_window": 1325,
+      "dates_dropped_as_implausible": 0,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": -3.9
+    },
+    {
+      "zip": "85051",
+      "parcels_read": 12115,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 99,
+          "median_price": 349000,
+          "p25": 319900,
+          "p75": 380000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 77,
+          "median_price": 362700,
+          "p25": 340000,
+          "p75": 399000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 64,
+          "median_price": 372500,
+          "p25": 340000,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 60,
+          "median_price": 372500,
+          "p25": 335500,
+          "p75": 400000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 73,
+          "median_price": 367500,
+          "p25": 335000,
+          "p75": 390000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 108,
+          "median_price": 373450,
+          "p25": 348800,
+          "p75": 405000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 81,
+          "median_price": 360000,
+          "p25": 318000,
+          "p75": 409386,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 80,
+          "median_price": 353000,
+          "p25": 317000,
+          "p75": 388000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 38,
+          "median_price": 355000,
+          "p25": 282752,
+          "p75": 380000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 127,
+          "median_price": 338000,
+          "p25": 275000,
+          "p75": 375000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 102,
+          "median_price": 355500,
+          "p25": 305000,
+          "p75": 399000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 86,
+          "median_price": 360000,
+          "p25": 284000,
+          "p75": 405487,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 81,
+          "median_price": 350000,
+          "p25": 280000,
+          "p75": 395000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 98,
+          "median_price": 351500,
+          "p25": 245000,
+          "p75": 384000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 131,
+          "median_price": 369000,
+          "p25": 328000,
+          "p75": 400000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 100,
+          "median_price": 351000,
+          "p25": 270000,
+          "p75": 400000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 103,
+          "median_price": 335000,
+          "p25": 270000,
+          "p75": 378000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 42,
+          "median_price": 353750,
+          "p25": 275000,
+          "p75": 380000,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 99,
+          "median_price": 349000,
+          "p25": 319900,
+          "p75": 380000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 77,
+          "median_price": 362700,
+          "p25": 340000,
+          "p75": 399000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 64,
+          "median_price": 372500,
+          "p25": 340000,
+          "p75": 410000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 60,
+          "median_price": 372500,
+          "p25": 335500,
+          "p75": 400000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 73,
+          "median_price": 367500,
+          "p25": 335000,
+          "p75": 390000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 108,
+          "median_price": 373450,
+          "p25": 348800,
+          "p75": 405000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 81,
+          "median_price": 360000,
+          "p25": 318000,
+          "p75": 409386,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 80,
+          "median_price": 353000,
+          "p25": 317000,
+          "p75": 388000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 38,
+          "median_price": 355000,
+          "p25": 282752,
+          "p75": 380000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 6220,
+      "transfers_in_recent_window": 870,
+      "dates_dropped_as_implausible": 2,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": 1.7
+    },
+    {
+      "zip": "85374",
+      "parcels_read": 20523,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 194,
+          "median_price": 397000,
+          "p25": 339999,
+          "p75": 445000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 243,
+          "median_price": 395000,
+          "p25": 350000,
+          "p75": 475000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 160,
+          "median_price": 410000,
+          "p25": 360000,
+          "p75": 489691,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 141,
+          "median_price": 400000,
+          "p25": 360000,
+          "p75": 470000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 224,
+          "median_price": 415000,
+          "p25": 360000,
+          "p75": 505000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 221,
+          "median_price": 395000,
+          "p25": 359000,
+          "p75": 467500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 135,
+          "median_price": 400000,
+          "p25": 350000,
+          "p75": 445000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 183,
+          "median_price": 410000,
+          "p25": 355000,
+          "p75": 499900,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 91,
+          "median_price": 395000,
+          "p25": 333806,
+          "p75": 462000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 240,
+          "median_price": 364950,
+          "p25": 280000,
+          "p75": 428000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 276,
+          "median_price": 381000,
+          "p25": 322000,
+          "p75": 450819,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 187,
+          "median_price": 393000,
+          "p25": 340000,
+          "p75": 483000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 166,
+          "median_price": 390000,
+          "p25": 339000,
+          "p75": 460000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 263,
+          "median_price": 398000,
+          "p25": 325000,
+          "p75": 480300,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 250,
+          "median_price": 385000,
+          "p25": 334220,
+          "p75": 450000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 154,
+          "median_price": 388125,
+          "p25": 335000,
+          "p75": 439000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 209,
+          "median_price": 395000,
+          "p25": 330000,
+          "p75": 469000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 115,
+          "median_price": 360000,
+          "p25": 290000,
+          "p75": 429000,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 175,
+          "median_price": 400000,
+          "p25": 350000,
+          "p75": 449500,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 220,
+          "median_price": 400000,
+          "p25": 362000,
+          "p75": 485000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 152,
+          "median_price": 417000,
+          "p25": 367000,
+          "p75": 490000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 133,
+          "median_price": 405000,
+          "p25": 365630,
+          "p75": 480000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 202,
+          "median_price": 426500,
+          "p25": 375000,
+          "p75": 530000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 206,
+          "median_price": 400000,
+          "p25": 365000,
+          "p75": 474900,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 128,
+          "median_price": 409500,
+          "p25": 355000,
+          "p75": 445500,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 173,
+          "median_price": 414830,
+          "p25": 365000,
+          "p75": 500000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 83,
+          "median_price": 400000,
+          "p25": 345000,
+          "p75": 490000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 10583,
+      "transfers_in_recent_window": 1860,
+      "dates_dropped_as_implausible": 0,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": 0.0
+    },
+    {
+      "zip": "85379",
+      "parcels_read": 17533,
+      "residential_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 189,
+          "median_price": 425000,
+          "p25": 381000,
+          "p75": 497000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 184,
+          "median_price": 460000,
+          "p25": 410000,
+          "p75": 540000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 169,
+          "median_price": 449000,
+          "p25": 400000,
+          "p75": 535000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 77,
+          "median_price": 422700,
+          "p25": 380000,
+          "p75": 515000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 142,
+          "median_price": 437000,
+          "p25": 380000,
+          "p75": 512000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 144,
+          "median_price": 450000,
+          "p25": 390000,
+          "p75": 545280,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 160,
+          "median_price": 449945,
+          "p25": 394999,
+          "p75": 510000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 133,
+          "median_price": 455000,
+          "p25": 399900,
+          "p75": 512500,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 61,
+          "median_price": 420000,
+          "p25": 362000,
+          "p75": 525000,
+          "thin": false
+        }
+      ],
+      "all_sale_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 196,
+          "median_price": 422500,
+          "p25": 379000,
+          "p75": 499000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 189,
+          "median_price": 460000,
+          "p25": 410000,
+          "p75": 540000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 177,
+          "median_price": 450000,
+          "p25": 400000,
+          "p75": 550000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 81,
+          "median_price": 423363,
+          "p25": 380000,
+          "p75": 519999,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 146,
+          "median_price": 432000,
+          "p25": 378000,
+          "p75": 512000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 148,
+          "median_price": 450000,
+          "p25": 385000,
+          "p75": 560000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 163,
+          "median_price": 450000,
+          "p25": 394999,
+          "p75": 515000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 135,
+          "median_price": 455000,
+          "p25": 399000,
+          "p75": 513000,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 64,
+          "median_price": 422110,
+          "p25": 362000,
+          "p75": 530000,
+          "thin": false
+        }
+      ],
+      "site_built_quarters": [
+        {
+          "quarter": "2023Q1",
+          "sales": 189,
+          "median_price": 425000,
+          "p25": 381000,
+          "p75": 497000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q2",
+          "sales": 184,
+          "median_price": 460000,
+          "p25": 410000,
+          "p75": 540000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q3",
+          "sales": 169,
+          "median_price": 449000,
+          "p25": 400000,
+          "p75": 535000,
+          "thin": false
+        },
+        {
+          "quarter": "2023Q4",
+          "sales": 77,
+          "median_price": 422700,
+          "p25": 380000,
+          "p75": 515000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q1",
+          "sales": 142,
+          "median_price": 437000,
+          "p25": 380000,
+          "p75": 512000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q2",
+          "sales": 144,
+          "median_price": 450000,
+          "p25": 390000,
+          "p75": 545280,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q3",
+          "sales": 160,
+          "median_price": 449945,
+          "p25": 394999,
+          "p75": 510000,
+          "thin": false
+        },
+        {
+          "quarter": "2024Q4",
+          "sales": 133,
+          "median_price": 455000,
+          "p25": 399900,
+          "p75": 512500,
+          "thin": false
+        },
+        {
+          "quarter": "2025Q1",
+          "sales": 61,
+          "median_price": 420000,
+          "p25": 362000,
+          "p75": 525000,
+          "thin": false
+        }
+      ],
+      "transfers_on_record_any_date": 10135,
+      "transfers_in_recent_window": 1299,
+      "dates_dropped_as_implausible": 1,
+      "window_start": "2023Q1",
+      "adequate_site_built_quarters": 9,
+      "site_built_pct_change_first_to_last_adequate_quarter": -1.2
+    }
+  ]
+}

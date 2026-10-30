@@ -1,0 +1,175 @@
+{
+  "source": {
+    "title": "Salt River Project Agricultural Improvement and Power District \u2014 Joint District Board and Council board packet, meeting of 30 September 2025",
+    "filed": "3 November 2025",
+    "url": "https://www.srpnet.com/v3/assets/bltefc1fc708dcc94e7/bltd7bd181b284cfca4/20251103_DB_packet.pdf",
+    "pages_in_pdf": 167,
+    "kept_as": "source-srp-board-packet-2025-11-03.pdf"
+  },
+  "claims": [
+    {
+      "claim": "SRP's transmission system, as stated to its own board",
+      "quote": "stating that the voltage levels for transmission are 500 kilovolts (kV), 230kV and 69kV",
+      "attributed": "Zack Heim, SRP Senior Director of Power Delivery",
+      "note": "The opening substantive item of the meeting, titled 'SRP Power System Expansion Overview'.",
+      "use": "The scale of the other utility in the region, for comparison against APS's 5,939 pole miles and 477 substations in its 2025 annual report.",
+      "page": 8,
+      "verbatim": "stating that the voltage levels for transmission are 500 kilovolts (kV), 230kV and 69kV",
+      "attributed_verbatim": "Zack Heim, SRP Senior Director of Power Delivery",
+      "attributed_page": 8
+    },
+    {
+      "claim": "SRP network size",
+      "quote": "They explained that SRP's transmission network is 1,492 miles with 287 substations",
+      "attributed": "Zack Heim, SRP Senior Director of Power Delivery",
+      "note": "The minutes continue: 'and presented a map of SRP's extra high voltage buildout by 20-year intervals since 1920'.",
+      "use": "Second utility, second system total. Two buildouts, not one.",
+      "page": 8,
+      "verbatim": "They explained that SRP\u2019s transmission network is 1,492 miles with 287 substations",
+      "attributed_verbatim": "Zack Heim, SRP Senior Director of Power Delivery",
+      "attributed_page": 8
+    },
+    {
+      "claim": "Why SRP is expanding",
+      "quote": "stated that the purpose of the presentation was to provide information regarding an overview of SRP's transmission expansion plans and the Salt River Pumped Storage Project as two key initiatives enabling renewable integration and large-scale load growth",
+      "attributed": "Zack Heim, SRP Senior Director of Power Delivery",
+      "note": "The stated purpose of the presentation, as recorded in the minutes.",
+      "use": "SRP's own reason for the build is large-scale load growth, the same driver APS names in its filing.",
+      "page": 8,
+      "verbatim": "stated that the purpose of the presentation was to provide information regarding an overview of SRP\u2019s transmission expansion plans and the Salt River Pumped Storage Project as two key initiatives enabling renewable integration and large-scale load growth",
+      "attributed_verbatim": "Zack Heim, SRP Senior Director of Power Delivery",
+      "attributed_page": 8
+    },
+    {
+      "claim": "Planning method changed, and the studies behind the budget",
+      "quote": "They provided a summary of five transmission studies and budget pathways",
+      "attributed": "Nate Tate, SRP Director of Transmission Planning, Strategy, and Development",
+      "note": "The minutes also record 'a chart on generation to load ratio for 2015, 2025, and 2035' and 'the shift from a serial planning process to a cluster planning process'.",
+      "use": "The budget pathways are what a capital plan is built from; 'cluster planning' is planning for grouped large loads rather than one interconnection at a time.",
+      "page": 9,
+      "verbatim": "They provided a summary of five transmission studies and budget pathways",
+      "attributed_verbatim": "Nate Tate, SRP Director of Transmission Planning, Strategy, and Development",
+      "attributed_page": 8
+    },
+    {
+      "claim": "New transmission is in the FY26 and FY27 budgets as maps",
+      "quote": "They presented maps of new transmission projects in the Financial Plan 2026 (FP26) and FP27 budgets and potential future load projects",
+      "attributed": "Nate Tate, SRP Director of Transmission Planning, Strategy, and Development",
+      "note": "Tate's item. The maps themselves are images in the handout; the extractable text names the plans and the fiscal years but not the routes.",
+      "use": "Confirms two fiscal years of funded transmission work at SRP. It does not identify which projects touch the West Valley.",
+      "page": 9,
+      "verbatim": "They presented maps of new transmission projects in the Financial Plan 2026 (FP26) and FP27 budgets and potential future load projects",
+      "attributed_verbatim": "Nate Tate, SRP Director of Transmission Planning, Strategy, and Development",
+      "attributed_page": 8
+    },
+    {
+      "claim": "Named studies",
+      "quote": "R. Norlin provided charts showing high voltage transmission growth from the 2035 Transmission Study and the Transitional Load Cluster Study",
+      "attributed": "Ryan Norlin, SRP Director of Strategic System Projects",
+      "note": "",
+      "use": "The 'Transitional Load Cluster Study' is the load-cluster work that a data-centre buildout would show up in.",
+      "page": 9,
+      "verbatim": "R. Norlin provided charts showing high voltage transmission growth from the 2035 Transmission Study and the Transitional Load Cluster Study",
+      "attributed_verbatim": "Ryan Norlin, SRP Director of Strategic System Projects",
+      "attributed_page": 9
+    },
+    {
+      "claim": "How the substations are being built",
+      "quote": "They described hyperscale substation construction and provided a time-lapse video of substation construction",
+      "attributed": "Ryan Norlin, SRP Director of Strategic System Projects",
+      "note": "On project delivery methods.",
+      "use": "'Hyperscale' as a delivery method is what a substation sized for a data-centre campus looks like as a construction programme.",
+      "page": 9,
+      "verbatim": "They described hyperscale substation construction and provided a time-lapse video of substation construction",
+      "attributed_verbatim": "Ryan Norlin, SRP Director of Strategic System Projects",
+      "attributed_page": 9
+    },
+    {
+      "claim": "An underground high-voltage loop is being discussed",
+      "quote": "They discussed a high voltage underground express loop and high voltage transmission line construction, stating that there is an increasing need for new high voltage transmission",
+      "attributed": "Ryan Norlin, SRP Director of Strategic System Projects",
+      "note": "Norlin's item as recorded in the minutes.",
+      "use": "Unspecified route. Worth following in the Corporation Commission dockets, because an underground loop in a built-out metro area is where new right-of-way is hardest.",
+      "page": 9,
+      "verbatim": "They discussed a high voltage underground express loop and high voltage transmission line construction, stating that there is an increasing need for new high voltage transmission",
+      "attributed_verbatim": "Ryan Norlin, SRP Director of Strategic System Projects",
+      "attributed_page": 9
+    },
+    {
+      "claim": "SRP's own statement of how much more capacity it needs",
+      "quote": "SRP will need to more than double, if not triple, resource capacity in the next decade based on sustainability targets and current customer requests",
+      "attributed": "Craig Larson, SRP Senior Director of Power Generation",
+      "note": "Recorded as a key takeaway from SRP's Integrated System Plan.",
+      "use": "The strongest capacity statement in this document, and it is attributed to customer requests, not a forecast in a footnote.",
+      "page": 9,
+      "verbatim": "SRP will need to more than double, if not triple, resource capacity in the next decade based on sustainability targets and current customer requests",
+      "attributed_verbatim": "Craig Larson, SRP Senior Director of Power Generation",
+      "attributed_page": 9
+    },
+    {
+      "claim": "Storage choice, and the cost comparison SRP published to its board",
+      "quote": "life cycle costs for battery energy storage systems (BESS) grow faster than pumped hydro energy storage (PHES) over time",
+      "attributed": "A. Bond-Simpson provided a technology comparison for pumped storage and lithium-ion batteries",
+      "note": "Presented as the results for the first 1,000 MW of 10-hour storage. The minutes continue: 'the second 1,000 MW of PHES has a lower cost per kilowatt (kW) of capacity than the first 1,000 MW'.",
+      "use": "Explains why the region's storage build looks like batteries for the first tranche and a pumped-storage project for the next one.",
+      "page": 10,
+      "verbatim": "life cycle costs for battery energy storage systems (BESS) grow faster than pumped hydro energy storage (PHES) over time",
+      "attributed_verbatim": "A. Bond-Simpson provided a technology comparison for pumped storage and lithium-ion batteries",
+      "attributed_page": 10
+    },
+    {
+      "claim": "Pumped storage was selected in every scenario",
+      "quote": "pumped hydropower energy storage was selected in all 42 cases of the 2023 ISP",
+      "attributed": "Craig Larson, SRP Senior Director of Power Generation",
+      "note": "Larson's summary of the Integrated System Plan takeaways.",
+      "use": "Not conditional on a scenario \u2014 every modelled case chose it.",
+      "page": 9,
+      "verbatim": "pumped hydropower energy storage was selected in all 42 cases of the 2023 ISP",
+      "attributed_verbatim": "Craig Larson, SRP Senior Director of Power Generation",
+      "attributed_page": 9
+    },
+    {
+      "claim": "Salt River Pumped Storage timeline and its water context",
+      "quote": "a preliminary timeline for design, permitting, and construction from 2022 to 2036",
+      "attributed": "Craig Larson, SRP Senior Director of Power Generation",
+      "note": "The same item gives 'a preliminary timeline for design, permitting, and construction from 2022 to 2036' and records that the project's water system 'brings the total Salt River system conservation storage to 2,004,287 acre-feet (AF)'.",
+      "use": "A fifteen-year project window, and the reason a power project in this basin is discussed in acre-feet alongside megawatts.",
+      "page": 10,
+      "verbatim": "a preliminary timeline for design, permitting, and construction from 2022 to 2036",
+      "attributed_verbatim": "Craig Larson, SRP Senior Director of Power Generation",
+      "attributed_page": 9
+    },
+    {
+      "claim": "Water authority in the room",
+      "quote": "Tammi Watson of CAP entered the meeting",
+      "note": "Central Arizona Project is named as attending the joint Board/Council session, and listed among those leaving the closed session on power purchase agreements.",
+      "use": "The power and water decisions at SRP are taken in the same room. That is the clearest evidence in this file that the two constraints are managed together.",
+      "page": 15,
+      "verbatim": "Tammi Watson of CAP entered the meeting"
+    },
+    {
+      "claim": "SRP's own area definition includes Avondale",
+      "quote": "Area 1: Phoenix, Guadalupe, Tempe, Avondale, Maricopa County, GRIC",
+      "note": "A handout slide caption from the 3 November 2025 board packet, attributed to M. Greene. 'GRIC' is the Gila River Indian Community.",
+      "use": "Weak on its own \u2014 a map caption is not a service-territory determination \u2014 but it is SRP's own internal division of the valley, and it puts Avondale inside the area SRP plans for. Which utility serves a given address is decided by the Commission's territory maps, not by this slide.",
+      "page": 105,
+      "verbatim": "Area 1: Phoenix, Guadalupe, Tempe, Avondale, Maricopa County, GRIC"
+    },
+    {
+      "claim": "Data centres and water on the board's own agenda",
+      "quote": "Data Centers & Energy/Water Supply Nexus",
+      "note": "An agenda item for the 1 November 2025 board meeting, listed with 'Granite Reef Dam' and 'Watershed and Forest Health'.",
+      "use": "Not a press release about data centres: the governing body's agenda names the nexus directly, beside the water items.",
+      "page": 150,
+      "verbatim": "Data Centers & Energy/Water Supply Nexus"
+    }
+  ],
+  "checked_absent": [
+    "Goodyear",
+    "Avondale substation",
+    "Cotton Corridor",
+    "Tolleson",
+    "Buckeye substation"
+  ],
+  "found_after_all": []
+}

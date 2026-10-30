@@ -1,0 +1,2641 @@
+=== PAGE 1 ===
+IIIIIIIIIIIIIIIIII IIII IIII I III III III II II III I I IIII
+0 0 0 0 21 1 3 0 3
+l BEFORE THE ARIZONA CORPORATION COMMISSION
+) COMMISSIONERS
+5Q
+-I
+5
+JIM OCONNOR CHAIRMAN
+LEA MARQUEZ PETERSON
+ANNA TOVAR
+KEVIN THOMPSQN
+NICK MYERS
+6
+7 DOCKET NO. L-00000F-24-0056-00430
+8 CASE ac). 230
+9
+79388DECISION NO.
+10
+I l
+12
+IN THE MATTER OF THE APPLICATION OF
+IINS ELECTRIC. INC. IN CONFORMANCE
+WITH THE REQUIREMENTS OF A.R.S. § 40-
+860. ET SEO.. FOR A Disc 1.A1M1~;R OF
+JURISDICTION. OR. IN THE ALTERNATIVE. A
+CERTIFICATE OF ENVIRONMENTAL
+COMPATIBILITY AUTHORIZING THE
+EXPANSION OF BLACK MOUNTAIN
+GENERATING STATION. A NATURAL GAS-
+FIRED. COMBUSTION TURBINE POWER
+PLANT NEAR KINGMAN. ARIZONA IN
+MOIIAVl COUNTY.
+Order Reversing Line Siting Committee and
+Granting Application for Disclaimer of
+Jurisdiction
+13
+Arizona Corporation Commlssion
+14 DOCKETED
+15 JUN 2 0 2024
+June I l. 20"4
+Open Meeting
+Phoenix. Arizona
+16
+BY THE COMMISSION:
+DOCKETEDBY
+17
+BefOre the Commission is a request by UNS Electric. Inc. tor an Order Disclaiming
+18
+Jurisdiction be the Commission and Arizona Power Plant and Transmission Line Siting Committee
+19
+("LS Committee" or "Committee") over an expansion project at the Black Mountain Generating
+20
+Station ("BMGS") and UNSEs timely request br review of the LS Committees May 2. "0"4. Order
+21
+Denying Application for Disclaimer of Jurisdiction ("Order"). For the reasons set ibnh below. the
+22Il LS Committccls Order is reversed. Because of the importance of this issue. a detailed explanation of
+23
+the Commissions decision is warranted.
+24
+q: 79388l Decision No.
+
+
+=== PAGE 2 ===
+i
+L-00000F-24-0056-00230
+I Having considered the entire record herein and being tull\ advised in the premises. theI
+I
+7 Arizona Corporation Commission ("Commission") finds. concludes. and orders as lbllows:
+I. FINDINGS OF FACT.3
+4 A. Procedural History.
+5 I On March 8. "0"4. the above-captioned docket was opened when UNSE tiled anI
+E
+6 Application for a Disclaimer of Jurisdiction. or. in the Alterative. a Certificate of Environmental
+7 aCompatibility Authorizing the Expansion of Black Mountain Generating Station ("BMGS").
+8 Natural Gas-Fired Combustion Turbine Power Plant (hereafter "CEC Application" or "Application").
+9 The CEC Application was tiled. as required by law. before the LS Committee.
+>10 (CECThe Power Plant is located near Kinsman. Arizona in Mohave County.
+1 l at to is to meetand future loadES-l).Application According UNSE. the Proicct necessary required
+17 growth across UNSEs service territory; maintain reliability for both existing and future customers.
+13 and reduce reliance on wholesale market purchases to meet retail demand. (CEC Application at ES-
+l
+14 ll )
+l
+l
+15 sJ. The Black Mountain Expansion Project ("Project") will add a combined total of an
+16 additional 700 megawatts ("MW) of natural-gas-tired generation. comprised of tour individual
+17 natural gas units. referred to as "plants," It is undisputed that each plant has a nameplate capacity
+18 rating of approximately 50 MW. The site currently has two natural gas units (each with a nameplate
+19 capacity rating of approximately 61 MW). (CEC Application at ES-l ).
+20 4. The term "nameplate rating" is not defined in Arizona statutes or the Commission
+21 rules. but it is well-established in the power industry and known be manufacturers of power
+22 equipment and industry users and regulators. For example. "nameplate rating" is defined by the
+23 Edison Electric Institutes (EEl) Glossary o1 Electric Industry Terms as the "full-load continuous
+24 aof generatorrating prime mover or other electrical equipment Linder specified conditions as
+25 79388> Decision No.
+
+
+=== PAGE 3 ===
+lI L-00000F-24-0056-00230
+the to themanufacturers.l lt is usually indicated on a nameplate attached mechanicallydesignated by.
+I
+2 individual machine or device."! Additionally. the U.S. Energy Information Administration defines a
+3 "nameplate" as: "A metal tag attached to a machine or appliance that contains information such as
+4 brand name. serial number. voltage. power ratings under specified conditions. and other manufacturer
+"the maximum rated5 In addition. the parties stipulated that nameplate rating meanssupplied data."2
+6 output of a generator. prime mover, or other electric power production equipment under specific
+7 conditions designated by the manufacturer. Installed generator nameplate rating is commonly
+8 expressed in megawatts (MW) and is usually indicated on a nameplate physically attached to the
+"89 generator.
+l0 5. UNSE tiled the Application pursuant to Arizona Revised Statutes ("A.R.S.") § 40-360.
+l l et. seq. and Arizona Administrative Code ("A.A.C.") R14-3-203(D) A.A.C. R14-3-203(D) allows br
+12 an application to be tiled in the alterative in order to get a formal decision disclaimingjurisdiction.
+13 6. In the interest of preserving time and resources. the Applicant asked that the focus of
+14 the initial LS Committee hearing to be on the legal argument underpinning its request tor a disclaimer
+l 5 A.R.S.ES-l). §40-360 et seq.(CEC Application. requires "every utility planning toof jurisdiction.
+16 construct a plant. transmission line or both to first file with the Commission an application tor a
+17 certificate of environmental compatibility." A.R.S. § 40-360.03 .
+7.18 The line siting statutes at A.R.S. § 40-360 et. seq. require "every utility planning to
+19 construct a "plant." transmission line or both to tile with the Commission an application for a
+20 certificate of environmental compatibility." At issue in this case is the meaning of "plant" which is
+21 in R.s. asdefined A. 40-360(9)§ hydroelectric generating"each separate thermal electric. nuclear or
+22 unit with a nameplate rating of one hundred megawatts or more for which expenditures or financial
+23
+24 1 Edison Electric Institute. Glossary of Electric Industry Terms, 2005 p. 99.
+. https: www.eia.gov»tools glossaw»index.php7id=N (last accessed May 3 L 7024).
+3 Stipulation of Facts, Stipulation No. 6.25 793881J Decision No.
+
+
+=== PAGE 4 ===
+L-0()0()()F-24-0056-()0"30
+I commitments for land acquisition. materials. construction or engineering exceeding $50.000 have not
+'> been made betbre August 13. l 97l."
+w
+) 8. Notice of the LS Committee hearing was provided in accordance with legal
+4 requirements.
+5 9, Intervention status was granted to Sierra Club. the Arizona Solar Energy Industries
+6 Association ("AriSEIA"). Western Resource Advocates ("WRA") and the Southwest Energy
+7 Efticiencv Project ("SWEEP"). The Utilities Division Staff("Statt") was also a parts to the case.
+8 IO. A public hearing before the I.S Committee was held on April °4 and 75. "0"-L
+q and A.A.c. R I 4-8-"Ol§consistent with the requirements of A.R.S. 40-860 et seq. et seq. for the
+10 purpose of receiving evidence and deliberating on the Application.
+I I I I. UNSE presented two witnesses in support of its position and submitted exhibits.
+12 Intervenor Sierra Club presented one witness in support of its position opposing a disclaimer of
+13 jurisdiction. intervenor WRA presented one witness in support of its position opposing a disclaimer
+14 Sierra Club. WRA.Sierra Club. WRA. and AriSEIA also presented exhibits.of jurisdiction.
+I 5 Commission Staff alsoSWEEP and AriSEIA also submitted written tilings on June 6 and 7.
+16 inin ofparticipated the hearing support UNSEts Disclaimer request by virtue of a written
+17 in oral argument. Staff.memorandum. cross-examination of various witnesses. and participation
+18 however. did not present testimony at the hearing.
+19 ]7. The Committee also considered oral theand written comments submitted by public.
+20 13. On May 1 20"4. Chairman Adam Stafford of the LS Committee docketed on behalf
+21 of the LS Committee an ()rder Denying Application fOr Disclaimer of Jurisdiction. A copy of the
+22 Com mitteels Order Denying Application for Disclaimer of jurisdiction is attached as Exhibit A.
+28 14. According to the LS Committees Order. after considering the (i) Application. (ii)
+24 evidence. testimony. and exhibits presented by the Applicant and Interveners. (iii) Stipulations of
+25 793884 Decision No.
+
+
+=== PAGE 5 ===
+L-00)00)-24-0056-00230
+l Facts adopted be the Applicant and Interveners. (iv) comments of the public; and (v) legal arguments
+2 of the parties. upon motion duly made and seconded. the LS Committee voted 9 to " to deny UNSEs
+\J Application tor Disclaimer of jurisdiction. (Exhibit A).
+4 15. On May lo. "0"-L UNSE timely tiled a Request fOr Commission Review of Order
+5 Denying Application for Disclaimer of jurisdiction.
+16.6 On May "l. 2024. Sierra Club tiled a Request tor Briefing Schedule and Oral
+7 Argument. On May 78. "0"-L UNSE tiled a Response to Sierra Clubs Request tor Briefing Schedule
+8 and Oral Argument.
+9 Position of the Parties.B.
+1. UNSE.10
+I I 17. UNSE contends that A.R.S. § 40-360.03 provides that every utility planning to
+12 construct a as defined under Arizona law needs to tile for a CFC unless it is exempt"plant.
+A13 jurisdictionally. "plant" is defined in the statute as "each separate thermal electric. nuclear. or
+14 UNSE assertshydroelectric generating unit with a name plate rating of 100 megawatts or more."4
+I 5 that neither the Committee nor the Commission have jurisdiction to require a CEC under this law
+I6 since the nameplate ratings of each plant are less than 100 MW.
+17 2. Interveners.
+18 18. The interveners assert that because the project. in total. has four generator sets. each
+19 plant nameplate rating should be added together. and in that event. the combined or total plant power
+Commission. and lurther20 100exceeds MW. thus conveying jurisdiction to the Committee and the
+21
+22
+23
+24
+* I. UNSE lurther notes thatother states. as well as the federal government. have statutes that expressly combine or
+aggregate nameplate ratings if more than one plant is involved in a project. Cf. Iowa: a permit is required to construct
+"Anv electric power generating plantor combination of plants at a single site owned by any person with a total capacity
+of 75 megawatts of electricitv or more." [CEC Application at ES8]. Minnesota: requires a permit before "any electric
+power-generating plantor combination of plants at a single site with u combined cape/sin of 50.000 kilowatts or more."
+1/d at ES-4]. The obvious point being. if the Arizona Legislature wanted to combine nameplate ratings at a single site. it
+would have done so. and the absence of this language is compelling in concluding that aggregation should not be done
+under Arizona law.25 79388D Decision No.
+
+
+=== PAGE 6 ===
+L-0)00)F-24-0056-00230
+l triggering the requirement for a CEC. For example. Sierra Club states that the proposed units are not
+> at 39714-51.distinct but are part of a group of tour. [TR. It contends that the generator sets are
+qJ interconnected through multiple systems of pipes and wires. including generation tie lines. power
+4 II(l.lines. wires. water pipes and gas pipelines all located at the same site. at 6-1 l 1.
+5 19. Sierra Club maintains that the four proposed generator sets are adjoined by
+6 connections to various shared equipment and thus the nameplate ratings should be combined. Sierra
+7 Club argues that the tour units are dependent and rely extensively on a set of facilities that they share
+8 with each other. [lR. at 397:74-398:"1. Sierra Club argues further that the focus of the statute was on
+9 environmental impacts. which are necessarily contiguous and cumulative. rather than particular to
+10 one turbine or generator. [TR. at 401 :6-9].Sierra Club also argues that it is possible for an operator to
+l 1 build an endless number of plants below the threshold for jurisdiction. but when viewed in totality.
+12 exceed the jurisdictional limit.
+13 70. In addition AriSEIAs contends that the Federal Public Utilities Regulatory Policies
+14 Act ("PURPA") should be applied. or at least used as guidance. which requires an facilities within
+l 5 one mile of each other be presumed to be the same site fOr the purposes of its 80-megawatt threshold.
+16 R.UNSE counters that A. § 40-360 et seq. does not incorporate the PURPA definition. and that this
+17 matter is governed exclusively bv state law. not federal law.
+18 °1. AriSEIA contends that prior Commission orders. including Decision No. 76638
+19 (lEPs Rice Units) and Decision No. 79()"(). entertained CEC applications from applicants seeking to
+20 build a project with a cumulative capacity in excess of 100 megawatts. even though each individual
+21 turbine included as pan of the project was under 100 megawatts.[TR. at 418:15-21]. AriSE1A asserts
+22 that interpreting the statute as it is written would render the Commissions work obsolete and would
+23 require a review of a plant with one turbine at IU() megawatts. but not review of a plant with ten 99-
+24 megawatt turbines. [ld. at _p l 3 14- I 81.
+25 793886 Decision No.
+
+
+=== PAGE 7 ===
+L-00000)-24-0056-00"30
+l 77 AriSEIA states that the statue was enacted to provide a single forum for the resolution
+7 of all matters concerning the location of electric generating plants and transmission lines. AriSEIA
+"~
+J asserts that it is unlikelythe Legislature meant to exclude large expansion projects from the meaning
+4 otmajor new facilities. [ld. at -ll6:l-l-l 7].
+5 as WRA argues that granting the request tor disclaimer over BMGS and facilities like it.
+6 will have a detrimental effect on Arizonas population. environment. and its utilities. WRA argues
+7 that CECs address community concerns with landuse conflicts. noise levels. and the possible damage
+8 to historic and scenic sites. which can affect local economies. WRA further contends that CECIs
+9 address technical and practical aspects of a utilitvs plan and the cost of that plan to customers. WRA
+10 states that other large-scale projects could be built without a CEC if the statute is applied as written.
+l l 74. SWEEP joins in the statutory interpretations presented by the other interveners. It
+12 contends that the Legislature created the CEC process to ensure governmental oversight of major
+18 investments fOr power generation in the state. SWEEP argues that if jurisdiction is disclaimed. the
+14 toto the publichands of Arizona regulatory bodies including the Committee to perform their duty
+l 5 consider critical factors associated with the CEC will be compromised.
+16 '>5 SWEEP is also concerned with the potential for unnecessary costs. SWEEP states the
+17 Committees CEC process is one of the very few legal and regulatory proceedings an Arizona that an
+18 to allenergyprovider must obtain before a project is built and that the process should apply plants.
+19 Staff.3.
+20 26. Commission Staff concluded that the Committee had no jurisdiction to require a CEC
+21 because the plant nameplate rating br each unit was less than l()0 MW. Applying the plain and
+22 unambiguous meaning of the statute. Staff recommended the issuance of the disclaimer of
+28 jurisdiction, Stalt disagrees with theInterveners that applying the law as written would create a
+24 Staff asserts that the"loophole" that other companies could utilize in "evading" the statute.
+25 793887 Decision No.
+
+
+=== PAGE 8 ===
+L-00000F-')4-0()56-0)p30
+I Legislature set the threshold br jurisdiction at IOOMW per fame plated plant. that the Legislature did
+7 not direct the Committee or Commission to aggregate plants under that threshold. and construction of
+3 facilities under that threshold is not a "loophole" or "evasion." but to the contrary. that is compliance
+4 with the law written. Staff further concluded that discussion about "loopholes" and aggregating
+5 individual plants are policy discussions that are suitable tor the Legislature. but not br regulators
+6 and withequally. fairlycharged with enforcing and applying the law in conformity Legislative
+l
+7 dictates.
+l
+I
+l
+8 77. Staff stands by its original conclusion. as contained in its April 16. °0°'-L letter. Staff
+c) also found no evidence that UNSE structured this expansion by utilizing lour 50-megawatt capacity
+10 generating units in an effort to subvert the statute. Finally. Staff concludes. like UNSE. that much of
+I l what was debated by the Committee is a policy issue and is in the hands of the Arizona Legislature.
+12 c. The Committee Order.
+13
+*8. The Committee denied the Application and concluded it had jurisdiction over the
+14
+40-360 (9) tothat would then require a CEC.project. §The Committee found the meaning ofA.R.S.
+15
+be ambiguous and susceptible to different interpretations. It relied on l.eui.v \. Deho/¢{ 738 Ariz. "8.
+16
+30-31 (2015) tor the proposition that the plain language of the statute is first examined to determine
+17
+when the is to thelegislative intent. and language susceptible different reasonable interpretations.
+18
+asstatute is interpreted a whole. and the statutes context. subject matter. historical background.
+l  0)
+effects and consequences and spirit and purpose must be considered.
+20
+79. The Committee interpreted the statute to include an aggregating provision. that if
+21
+share the sameunits notaresite. and the individualindividual generating they separate plant
+22
+Then. the Committee determined that thenameplate ratings would be combined. [LS Order at 5].
+23
+Thus. theaggregate of the indusial nameplate ratings determines whether a CEC 1l4/.1.is required.
+24
+Committee concluded that once the total amount of "thermal electric. nuclear or hvdroclectric"
+25
+8 79388Decision No.
+
+
+=== PAGE 9 ===
+L-00000F-24-0056-00230
+l MW .I 00 100 MW unit orregardless of whether it is onenameplate capacityat a specific site reaches
+> four 50 MW units. a CEC is required. 11d. ].
+qJ 30. The Committee further found that if an existing tacilitv has less than 100 MW of
+4 "thermal electric. nuclear or hydroelectric nameplate capacity" and additional thermal electric
+5 generating units are added to that site. raising the aggregate nameplate rating to 100 MW or more. a
+6 the Committee found instructive the U.S.CEC is required. [1({.]. In reaching these conclusions.
+i
+i
+7 Energy InfOrmation Administrations use of aggregated infOrmation from the same site as the total
+8 In addition. the Committee bund that the Commissionsnameplate capacity tor those plants.
+9 177.197. 1-11.issuance otCECs in Line Siting Cases 133 and 107 (where the total capacities of the
+10 generating stations were greater than 100 MW. but each individual natural gas unit had a nameplate
+l I rating below 100 MW) demonstrates that the statute is subject to different interpretations and that the
+12 Commission has interpreted it difterentlx in the past. [14].
+31.13 Lastly. the Committee found that even if the language of a statute is clear and
+14 unambiguous. as is the case here. if the plain text leads to "absurd results" the Committee or the
+l 5 courts must resort to other methods of statutory interpretation. citing Bi/ke v. Stale. 706 Ariz. -16°.
+16 464 (°()()4). The Committee created a hypothetical to prove that absurd results could occur. including
+17 the possibility that a series of small modular nuclear reactors could be built in a residential
+18 neighborhood without going through the line siting process to obtain a CEC. [[d. at 6].
+19 32. For these reasons. and others as contained in its Order issued on May -L °()°4. the
+20 Committee. be a vote ot9-°. recommended denial of UNSEs request br a disclaimer of Committee
+" l and CommissionjLlrisdiction.
+22 qqJJ. The Commission. in reaching its Decision to reverse the Order Denying Application
+23 fOr Disclaimer oflurisdiction issued by the Committee and grant UNSEs request tor Z1 Disclaimer of
+24 reviewed the recordJurisdiction. toin this case. including the stipulation of facts agreed and signed
+25 793889 Decision No.
+
+
+=== PAGE 10 ===
+L-00000F-°4-0056-00230
+I by the parties. the testimony and slide presentations of UNSE and the interveners in this case. the
+2 position otStaft. and the exhibits tiled by Staff and the parties. The Commission further reviewed the
+3 comments and questions made by the Committee members. The Commission also considered pLlblic
+4 The Commission finds and concludes thatcomment that was tiled or presented orally at the hearing.
+5 based upon the record in this case. the Order denying Application tor Disclaimer of .jurisdiction
+6 issued by the Committee should be and hereby is reversed.
+1.17 II. DISCL SSION AND RF.SOLlTION.
+8 A. The C`ontroIIin Facts Arc Not in Dis Ute.
+9 34. As a preliminary matter. the Commission recognizes the Stipulation of Facts entered
+into10 by the Applicant and the Interveners. There is no dispute here that the four plants are well-below
+l l the l00MW threshold when viewed indiv that thedually. Nor is there any dispute tour plants exceed
+1'> the l 00MW itthe individual nameplate ratings are combined.
+13 35. Unlike other states that expressly aggregate plant ratings when at a single site. the
+14 Arizona Legislature directed the Committee and the Commission to focus on the individual unit.
+15 exclusive of others. The existing two units each have a nameplate rating of 6] megawatts. which is
+16 less than the 100-megawatt threshold that must be met tor Committee and Commission jurisdiction.
+17 The layout of the new generating units at the site is also undisputed as is the nature of the components
+18 Each of the tour units will have its ownof the units. which are individual to the generating unit.
+19 turbine and its own generator. Each has its own monitor. its own set of controls. its own auxiliary
+20 skids. containing instrumentation needed to run that singular unit. Each will have its exhaust stack
+21 and each will have its own set toand emissions monitoring equipment. of switch gear and cable
+22 bedeliver the energy produced be that unit to the grid. There is no dispute that the units will
+23 individually dispatched and do not depend on one another to generate electricity.
+24
+25 7938810 Decision No.
+
+
+=== PAGE 11 ===
+L-00000)-"4-0056-00230
+I 86. The plants will share certain facilities. such as the evaporation pond. water tanks. and
+2 cooling tower. because it makes economic sense to do so.UNSE argues that the shared Iacilities do
+1J not render the units any less separate. They do not physically adjoin the units in an way and the use
+4 of the shared equipment does not make one unit dependent upon the other. Each unit will continue to
+5 exist as an independent producer of power. UNSE asserts that the argument that the shared
+6 equipment somehow turns tour units into one unit is disingenuous. UNSE compares the
+7 theto two cars housedin The be washed withthe same hose.conhuurauon samegarage. cars
+8 fueled at the same gas station. and serviced by the same mechanic. but this does not make cars one
+9 car with one engine. or that the engine horsepower can be combined. The cars can still be driven at
+10 different times and at different speeds. This argument is persuasive.
+l l B. The Statute At Issue Sets the Threshold for Committee Jurisdiction.
+12 37. Critical to the Commission is whether it has jurisdiction to mandate a CEC. The
+18 Commission has broad constitutional andstatutory powers to regulate public service corporations.
+14 l"0 Ariz. 4%. 481. 586 p.2d 987.Campbell v. A/ounluin .Ylczlav Tel. & Tel. (o.. 99° (App. l978)
+I5 "[I]t has full and exclusive power in the field of prescribing rates which cannot be interfered with by
+16 the courts. the legislature or the executive branch of state government."Qwest C'orp. l. Kel/.r. 704
+17 Ariz. 75. 30. f 1) 59 P.3d 789. 794 (App. 7007); Ariz. Const. an. 15. § 3: Ariz. Rev. Stat. ("A.R.S.")
+18 § 40-203 (701 l). But that broad jurisdiction is not unlimited.
+19 88. The Legislature created the Line Siting Committee. It is a creature of statute. and its
+20 .jurisdiction therefore is limited by statute. lt cannot expand its jurisdiction. even for well-intentioned
+21 reasons. SeeThe Legislature can grant jurisdiction-and it can also expressly limit jurisdiction.
+22 ARS 45-1720 ("The rates. services and practices relating to the generation. transmission. distribution
+23 and sale of power or to the distribution and sale of water pursuant to this chapter shall not be subject
+24 to regulation by or the jurisdiction of the Arizona corporation commission or any successor agency or
+25 79388l l Decision No.
+
+
+=== PAGE 12 ===
+L-00000F-24-0056-00730
+I department."). The limits of jurisdiction are debated at limes. See Trice Elem. Coop. v. Rcllslon. 67
+) 474P.2d 470.l 06 the Commission has noAriz. 358. 365. IO(1948) (concluding jurisdiction
+W
+7 theFor that a court shouldCommission recognizedadjudicate contract rights). example. superior
+II4 decide "traditional civil law claims" be a customer against a utility based on "common law theories.
+5 Ralllc.v/nike Pass, L. L. ( .v. Tz¢c.wm ElectricPower ( '0. Docket No. E-0l988A-10-01 75. Decision No.
+6 73561. at 15-16. 11143-44. (Ariz. Corp. Comm'n Oct. 17. 7017).
+7 89, But there is no real debate here. The statute could not be clearer. While A,R.S. §4()-
+8 360.03 requires every "utility planning to construct a plant. transmission line or both in this state to
+9 Under the statute.tile an application for a CEC. the term "plant" is a speciticallv defined term.
+10 ormeans withunit a"each separate thermal electric. nuclear"plant" hydroelectric generating
+8I l A.R.S. Contained within the40-36()(9).§nameplate rating of one hundred megawatts or more.
+12 Arizona Power Plant and Transmission Line Siting Committee website is this statement: "In general.
+13 the Committee has jurisdiction on: Proposed plants generating 100 megawatts or more...."
+14 Thus. the Committee itselfhttps://wv»w.azcc.gov/arizona-power-plant (last accessed May 78. 7074).
+I 5 torecognizes the legal constraints that provide it jurisdiction. and its decision in this case is contrary
+16 its own statement of limitation.
+17 40. Ariz. °80. 76 p.>d sn (Ariz.of I'lloeni.v. 51( it vThe reasoning of .llemlwzvmz v.
+18 In .i leflder.son.1938). is enlightening. the court addressed the express Constitutional and legislative
+19 jurisdiction conveyed to the Commission relative public utilities and evaluated an express withdrawal
+20 ofjurisdiction over public utilities operated by municipalities. The Court explained:
+21
+)'>
+23
+It will be seen thereby that all corporations which are engaged in carrying passengers
+tor hire. and all corporations operating as common carriers. are deemed public service
+corporations within the meaning of the Constitution. with the express and specific
+exception of municipal corporations. We think that no plainer language couldhave
+been used by the makers of the Constitution to state that flte constitutionalpowers
+conferred upon the Corporation Commission, in regard fo the government and
+24
+25 79388
+5 The Commission will review the interpretation of statutes be the Line Siting Committee de novo.
+la Decision No.
+:
+
+
+=== PAGE 13 ===
+L-00000F-24-0056-00280
+I
+')
+q
+_a
+4
+5
+regulation of public utilities, were not intended to, and did not, include those owned
+and operated by municipal corporations of any character. Indeed. while plaintiff
+presents an argument which might well have been addressed to the discretion of the
+Constitutional Convention. pointing out the terrible consequences which he believes
+will result to the pLlblic in case the Corporation Commission is not allowed to regulate
+municipal corporations operating public utilities. his contention that such
+constitutional power does exist is not very strenuous. We think it too clear for
+extended discussion that the Constitution not only does not expressly authorize the
+Corporation Commission to regulate municipal corporations which are operating
+public utilities. but that it. by necessary implication. forbids such regulation.
+6
+.\len¢/arson \.7 280. "88-2841 76 P."d 8'>I 822-28 (Ariz.(itv of Phncnix. Sl Ariz. 1988) (emphasis
+theThe8 vL'/16/0/.W)I7 therecourt teaches Commission that where is no even inadded). jurisdiction.
+9 there is a contention that "terrible consequences" will result if jurisdiction is not asserted. where "no
+10 plainer language" excmptingjurisdiction has been implemented by law. no jurisdiction can exist.
+l l 41. The Commission has explored the boundaries of its jurisdiction in prior cases. and it
+12 has learned that orders issued without jurisdiction are voidable. in Southern Pacific Trunk. (0. r.
+13 the court affirmed a triall 99°).Arizona (op. (om'n. 845 P.7d l 175. 173 Ariz. 630 (Ariz. App.
+14 court order voiding a Commission order where the Commission lacked jurisdiction to issue the order
+I5 because it did not follow due process. The Soulliern Pacific court reasoned :
+16 We also agree that. lacking an agreement. the failure to hold a hearing is a
+17
+18
+19
+1
+I
+)
+jurisdictional detect that voids both the first decision and the second decision based on
+the first decision. See Gilwhims v. /1ri:onu Corp. Comm'n. 95 Ariz. 843. 346-347. 300
+P.7d 587. 585 (1964): off Tzlcxon lVcuel10zl.wJ Una' Trun.s/'er Cu. v..~1['.s Tru/1.sfér. 77
+Ariz. 373. 375. 771 P.7d 477. 478 ( 1954) (a Commission decision which goes beyond
+its power as prescribed by constitution and statutes is vulnerable for lack of
+jurisdiction).
+20 Shulhern Pacific Trans/1(0. v. .4ri:onu (0r/7, (0m'r1. 845 P.°d l l"5. l l°8; 173 Ariz. 630. 633
+21 (Ariz. App. 190°).
+77 47. The Committees eftOns to expand the jurisdiction of the Commission to aggregate
+23 individual plants to then exceed the .jurisdictional threshold of l 00MW is an improper exercise of
+24
+25 7938813 Decision No.
+
+
+=== PAGE 14 ===
+L-0)000F-24-0056-00280
+I We will save the courts the effortjurisdiction and would likely be voidable by any reviewing court.
+2 in this case by reversing the exercise ofjurisdiction here.
+\J 43. The Commission is created by the State Constitution. and the Line Siting Committee
+4 is created by statute via the Legislature. There is nothing in the State Constitution nor in anv statute
+5 that prohibits or restricts the Legislature from establishing the boundaries br jurisdiction of the Line
+6 Siting Committee-a committee it created. It is recognized that "[t]hc Legislature is vested with the
+7 whole of the legislative power of the state and MY\ deal with anv subject within the scope of civil
+8 government unless it is restrained by the provisions of the Constitution. and the presumption that the
+9 it is inmade what itthe Constitution holds good untilLegislature is acting within to appear particular
+10 In the221. °24 (1947).is violating constitutional limitations." Eurluzrl v. Frohmiller. 65 Ariz.
+I I absence of an express or implied constitutional limitation. "the legislature of this state may in the
+I
+l
+12 in\\ Roberts l.exercise of the sovereign powers o1the state. enact any its discretion may dictate.
+13 Sp/¢(\. 7] Ariz. 60. 60) (1950).
+14 44. Actions that expand jurisdiction. in excess of either Constitutional or statutory grants.
+I5 are disfavored if not voidable as noted above. The Committee exercise of jurisdiction under these l
+l
+16 lcircumstances runs counter to ARS -il-l00] .OI (A)(7) as well. That statute provides that an applicant
+17
+i
+l
+lbefore a state agency:
+18
+19
+Is entitled to have an agency not base a licensing decision in whole or in part on
+licensing conditions or requirementsthat are not specyically authorized by statute,
+rule or state tribal gaming compact as provided in section -11-1080. subsection B.
+#0
+ARS 4]-l()0l.()l(A)(7) (emphasis added). The Commission finds that the Line Siting Committee
+21
+violated this law; by. in effect. rewriting a facially clear statute that required "l 0() MW or more" per
+7 )
+name plated plant to mean "10() MW or less." Arizona has long ibllowed "the rule that the
+23
+legislature is presumed to express its meaning in as clear a manner as possible." .l/mulel.vohn v.
+24
+Super. (Y. in & ./Or lluricopu Cn1.\.. 76 Ariz. 168. 169 (1958). This Commission. like the courts.
+25 7938814 I)ecision No.
+
+
+=== PAGE 15 ===
+I.-00000F-°4-0056-00230
+l should "assume] that the legislature has said what in means" and apply the law as written.CzIm/{{}v.
+> Stale Farm Mui. Auto. Ins.. "l7 Ariz. 358. 360 f 8 U008).
+5J c. The Plain Mea fin of the Statute Controls.
+4 45. The Committees exhaustive effort to rewrite an otherwise plain statute in an effort to
+5 either divine "intent" or create an "absurdity" misses the mark: "The intent of the Legislature can
+the aided6 used.be determined by byonly language the canons and rules of construction founded upon
+7 reason and experience."(elder v. De/2 I olav., Slate lie( ol72Ix .lppeu/.v.173 Ariz. 760. 765 (1979).
+8 46. The Committee relied on secondary tools of interpretation to craft a construction that
+0 nottext theandthe Committeethe doesstatutory support. As explained by Justice Bolick.
+10 Commission should focus on the text itsclt not "what [the legislature] meant to or what thesay
+l l IO the"what enacted ,it"legislature could have said" and stick legislature said through the words
+(12 Stale ex rel. l ii; l..Dcpl 0/Rein v. Turkey. 5"-1 P.3d 815. 817-18 "7 (Ariz. "()°8) (Bolick.
+13 concurring).
+14 47. Neither the Committee nor the Commission can vary from the provisions of the law.
+I 5 This rewrite wasand searching tor hidden intent or ambiguities to redraft a law is reversible error.
+16 theand 10"not the thespcciticallv authorized by statute" contrary. statute clearly limits
+17 CommissionS and the Colmnitteesjurisdiction. to "l 00 MW or more."
+18 48.
+I
+l
+l
+As do the courts. we will interpret the statutes and rules that come before us in
+l g accordance with the intent of the drattcrs.and we start by readingthe plain language of the statute.
+20 393.See Kg/[in it l.vI1411."47 Ariz. 449 P.8d 719 (Ariz. App. 7()l 9) "We interpret statutes and rules
+21 in accordance with the intent of the drafters. and we look to the plain language of the statute or rule as
+22 the best indicator of that intent."
+l
+l
+23 49, After looking at the plain meaning o1 the statute. if it is unambiguous. it will be
+24 Fell. "IO Ariz. 427. 480. 'l 7.applied as written. See F/ugosu v. P.3d 1027. 1030 (App. 2005).
+25 7938815 Decision No.
+
+
+=== PAGE 16 ===
+L-00000F-24-0056-00230
+I "If the language of a statute or rule is unambiguous. we apply it as written." Gutierrez v, Fox. 747
+2 Ariz. 259. 267, 11 28. 394 p.8d 1096. 1104 (APP.7017). Whether we follow the plain meaning rule.
+1J or the legislative intent rule (both approaches typically reach the same result) of statutory
+4 construction. in either application the result here is that the Commission has no jurisdiction over
+5 Du/2'I 0fRevenue. 7-13 Ariz.plants with nameplate ratings under l 00MW. Snlur( il.v Cory). v..lri:.
+6 I
+II477. 480 8. 418 P.3d 678. 68] (7018) ('The best indicator of that intent is the statute's plain
+7 language" ).
+8 50. The concurrence inStale ex rel. Ari; Dep 'I 0lRew:11ue v. Turkey.594 P.8d 817 (Ariz.
+q "()°3). rejected using legislative intent. and instead reasoned that the job of the courts. and in this
+10 case. the Commission. is to simply apply "the law." As explained therein. "the words of a statute are
+l l not 'evidence' of anything. they are the law. Our oath as judges does not send us on a cosmic search
+la IIConstitution and laws of the State otArizona.'fOr legislative intent. It requires us to 'support the
+.4 ii;Stale ex rel.18 Dep'I 0/ Revenue.574 P.3d at 818. The Commission now fOrmally adopts this
+14 statutory construction approach that govern Commission and Committeewhen construing statutes
+I 5 operations.
+16 51. The Committee went through great effort to create an ambiguity where none exists.
+17 even so far as to create a hypothetical absurdity. That type of exercise is appropriate br policy
+18 makers and legislators. but not for regulators. whose job is to provide a consistent application of the
+19 law. The plain meaning of the statute. that clearly provides that the Commission has jurisdiction on
+20 plants with name plate ratings in excess of l0()MW. is that the Commission has jurisdiction over
+21 Plants under IOOMW are outside Commissionplants with name plate ratings over l 00MW.
+22 jurisdiction. Nothing in the statute authorizes the Commission to expand its jurisdiction to include
+i
+23 plants under IOOMW be ting smaller plants together until the ratings exceed l 00MW.
+24
+25 79388Decision No.16
+
+
+=== PAGE 17 ===
+L-00000F-24-0056-00230
+I 52. If the Legislature wants the Commission to have that jurisdiction. it can easily make
+2 that change. Until then. we will apply the law as written. (willem/er v. Trunspucjfic Hole/ (o/72.. 179
+q3 Ariz. 557. 561(App. 1998) ('we presume the legislature expressed its meaning in as clear a manner as
+4 possible")."
+53.5 Further. the Commission does not have the implied power to expand its jurisdiction
+6 where the statute is clear. "The Arizona Supreme Court has consistently held that the Corporation
+7 Commission has no implied powers."Rural .ilelro C0)77. v.A/i:onu Corp. (ommi.vsin/1.699 P.°d 88.
+8 l*9 Ariz. I 16 (Ariz. 1981 ) citing Soulliern Pacific C0, v. Arizona (m7>n1uIiFm (on1mi.s.\i0n.98 Ariz.
+9 339 345. 404 P."d 69". 696 (I965) "Specifically this court has stated that such powers as the
+I() Commission may exercise do not exceed those to be derived from a strict construction of the
+w
+l l constitution and implementing statutes. Rural Metro. 6"9 P."d at 84; l"9 Ariz. at l 17 (emphasis
+12 added) (citingWilliun1.v v. Pipe Trades [nu'u.sN\ Prugrczm of.4ri:onu.l()0 Ariz. 14. 17. 409 P.7d 770.
+18 722(I9661 The Com mittees expansive application of the jurisdictional statute and its creative
+14 effOrts to read "l()()MW or more" to mean "IOOMW or less" is not consistent with a "strict
+15 construction" of this statute.7
+16 54. It cannot be overstated that the issue here is jurisdictional: "The Corporation
+17 it by the Constitution and the statutes ofCommission's jurisdiction is limited to those powers given
+18 this state." H21/ker v. De Comini. 341 P.2d 933. 938 (Ariz. 1959). Here. the legislature conferred
+19 the Commission only where themandatory jurisdiction on nameplate rating exceeds l 0() MW.
+20 As discussed in Rum/ .l/elro. ".jurisdiction.Anything less and the Commission has no jurisdiction.
+21
+restrict the jurisdiction conferred be statute22
+28
+24
+25 79388
+" lt is wellsettled that an agency cannot expand its jurisdiction beyond what the legislature has created for it (or what the
+Constitution has created). Cf Sihbuch r, lVil.wm & Co.. 3l" U.S. l. 10 (194l) (an agencvs rules cannot "extend or
+"/; sec also EE()( v.Lut/1er¢m Soc. Serve..186 F.3d 959. 963 (D.C. Cir. 1999)
+("[l]n the absence of a statute clearly depriving courts oljurisdiction to hear issues not first presented to the agency. we
+know ono principle of administrative law ... that would permit an agency to do so on its own.").
+In order to come to its conclusion. theLine Siting Committee ignored the statutes use of the rems "each separate" and
+"with a nameplate rating." Instead. it relied on the Declaration of Policy to find that aggregation was appropriate. But
+interpreting the statute to require aggregation of all units at a single site. erroneously imposes language in the statute that
+was not included b> the Legislature to achieve a policy outcome that cannot be reconciled with the actual text of the
+statute. We agree with UNSE that the rules of statutorw interpretation do not support such an outcome.
+l 7 Decision No.
+
+
+=== PAGE 18 ===
+L-000)0F-24-0056-00230
+l then. when usedto refer to the authority of a particular governmental body. refers to subject matter.
+2 whereas power relates to administrative and enforcement characteristics of a particular governmental
+qJ body or agency." R11lal;\lclro. 6"9 P.)d at 84. V79 Ariz. at l 17 (Ariz. 1981 ). The Applicant sought a
+4 disclaimer of jurisdiction. as was its right. and the Committee erred in not issuing that disclaimer.
+5 55. The new generating units will require a CEC only if they meet the statutory criteria set
+6 out above and are a jurisdictional "plant" under the statute. We agree with UNSE that each separate.
+7 isa nameplate rating makes clear thatgenerating unit with the capacity threshold for a "plant"
+8 determined be looking at the capacity rating stamped on each single. individual generating unit and
+9 not the aggregate capacity of all the units being sited."
+10 56. UNSE asserts that its four "plants" when viewed separately are all individually under
+l l the 100 megawatts specified by the statute and. therefore. are exempt from the CEC requirement.
+12 UNSE also points out that unlike statutes in other jurisdictions. there is no language in the Arizona
+13 statute allowing the Commission to combine or aggregate capacity of all the units thus triggering the
+14 CEC requirement. UNSE is correct in this regard.
+15 57. Whether the statute should be changed. updated. modified or left alone is a matter br
+16 the Legislature. not the Commission nor the Committee. The Commission acknowledges that this
+17 statute was enacted in 1971 .Nevertheless. the Commission must abide by the law as written. and it
+18 cannot expand its jurisdiction unilaterally. The Committee Order also urges the Commission to
+19 reject the plain text of the statute because it produces an "absurd" result. If the language of the
+20 statute is clear. there is no need to progress further and create hypotheticals. Further. the Committee
+21
+UNSEs interpretation also adheres to the Commissions definition of "generating unit" which tbcuses on the
+22
+23
+24
+8 3.
+devices that convert one form of energy into electric energy, and which speciticallv uses the turbine and generatoras an
+example of such a set of devices. The shared equipment is not involved in the conversion process. The cooling towers
+are not required to generate electricity and are only used seasonally. The generation tie line brings the electricity to the
+grid and is not involved in the conversion process. The evaporation ponds that collect the byproduct from the generation
+process. are necessary for the units to comply with regulatory requirements and transmit electricity to the grid. Again.
+they are not devices that convert one form of energy into electric energy. as does the turbine and generator. UNSE states
+that if there is a concern about the exemptions in the statute in todays energy environment. the solution lies with the
+legislature. We agree.25 7938818 Decision No.
+.
+
+
+=== PAGE 19 ===
+L-00000)-24-0056-00230
+l The doctrine is used when application of the plainerred in its application of the absurdity doctrine.
+'> meaning of the statute actually results in an absurdity.
+concLusions OF LAW
+s
+_y
+4 l The Commission has jurisdiction over UNS Electric. Inc.. and the subject matter of its
+iI 5 Application pursuant to A.R.S. § 40-360 el seq. and A.A.C. R14-3-708(D).
+>6 Notice of this proceeding has been given in the manner provided by law. The matter
+7 is ripe and fully briefed with a complete record bette the Commission.
+sJ.8 UNS Electric. lnc.s Request for Disclaimer of Committee and Commission
+9 § 40-360 el. seq.. and it is therefOre reasonable and in the publicjurisdiction is consistent with A.R.S.
+l() interest to approve the request.
+I I 4. in re-writing the jurisdictional statute to includeThe Line Siting Committee erred
+12 plants" under IOOMW or to combine plants with individual name plate ratings Linder l 00MW.
+5.13 The Line Siting Committee erred in deriving the Application br Disclaimer of
+14 Jurisdiction.
+6.l5 The Application br Disclaimer of jurisdiction should be granted.
+16 7. The Committee Order is reversed in its entirety and the Commission holds that the
+GRANTED.17 Disclaimer of.lurisdiction should issue. and the Application is hereby
+18
+19
+°0
+21
+22
+23
+24
+25 79388Decision No.19
+
+
+=== PAGE 20 ===
+L-00000F-24-0056-00230
+ORDER
+IT IS THEREFORE ORDERED
+GRANTED
+BY ORDER OF THE ARIZONA CORPORATION COMMISSION
+/
+I
+,v
+COCHAIRMAN OCONNOR SS ONER M QUEZ PETERSON
+¢
+DISSENT
+COMMISSIONER TOVAR IONER HOMPSON COMMIS O ER MYERS
+v
+.1
+.Ii I
+Commission to be affixed at the Capitol, in the City of Phoenix.
+2024.
+IN WITNESS WHEREOF. 1. DOUGLAS R. CLARK
+Executive Director of the Arizona Corporation Commission,
+have hereunto, set my hand and caused the official seal of this
+, - R xthis day of girl LY
+•
+4/
+\ ' : § '»II*
+Q _
+3: .
+* z
+k°*"~'-°°-~~ "°4 .QQ o°°' 9... .
+Q.. O.. 4
+3 2 ,r
+J ~. ' O
+1. '
+*| 901011A10 Up. '-"8
+I i i ! P /.
+DOU LAS R. CLARK
+EXECUTIVE DIRECTOR
+401/0/L,
+l
+2 that the Request of UNS Electric, Inc. for a Disclaimer of
+3 Commission and Committee Jurisdiction is hereby and the Committee Order of May 2,
+4 2024. is REVERSED. with instructions to the Committee to adopt the rules of statutory construction
+5 set forth herein in future hearings and decisions.
+6 IT IS FURTHER ORDERED that this Decision shall become effective immediately.
+7
+8
+9
+10
+l I
+12
+COMMI
+13
+14
+15
+16
+17
+18
+19
+20
+21 DISSEN
+22
+DISSENT
+23
+24
+25 7938820 Decision No.
+
+
+=== PAGE 21 ===
+L00000F24-0056-00230
+1
+l
+EXHIBIT A
+Decision No. 79388
+
+
+=== PAGE 22 ===
+y
+. ,8'TGINAL
+l BEFORE TIIE ARIZONA POWER PLANT
+ANI) TRANSMISSION LINE SITING C7()MMl'l"lICl*I2
+3
+4
+Docket No. 1,-000001:-24-0056-
+00230
+5 (usc No. 230
+6
+7
+8
+ORDER DENYING
+APPI,1CATION FOR
+I)IS(fl,AIMER OF
+JURISDICTION
+9
+Ariiona Corporulion Conllnission
+10 DOCKETHI)
+l I
+IN r111= MAI"IFR ()l" ll II*
+AI'PLl(IAlI()N ()I: IINS l:I,1:("lRlc.
+INC, IN C()NF()I{MANCI* Wllll ll II:
+I{IlQUIRI"MINIS or A.R.S. 440-360,
+Iir SI"Q.. 1:ok A I)IS(I,AIMI€R ()I:
+.IlIRISI)I("II()N, OR. IN runs
+AI,|l:RNAIM'. A CI'RIII'ICA'II" of#
+l:nvll(onml=nlAI, C()M['AlIBII,llY
+Allll lol(lzlnG 111I. EXPANSION()l?
+1SLAC'K M()llnlAln GENIIRATING
+slAl1on, A nAluRA1, GAS-FIRFI).
+(`()Ml3llS1l()N lul<lslnl2 P()Wl8R
+Pl,ANl Nl"AR KIN(iMAN, ARIZONA IN
+M()HAVl5 (`()llNIY. MAY - 2 2024
+12 l)()CKlIll'l)lay
+INTRODUCTION18
+14 Pursuant to notice given as provided by law, the Arizona Powcr Plant and
+I5 Transmission Line Siting Committee ("Committee") held public hearings on April 24
+16 and25, 2024, in Phoenix, Arizona, in conformance with the requirements of A.R.S. §
+17 40-360 er seq. for the purpose of receiving evidence and deliberating on the Application
+18 of llns Flectric, Inc. ("UNSl*"' or "Applicant") Tor u l)isclaimer ol.lurisdiction for the
+19
+. . . . . .. . ,, |  . , . .
+Black Mountain l*xpanslon l'rolcct ( l'roJect ). I he l'rolect will add 200 megawatts
+20 ("MW") of natural-gas-fired generation, comprised of lour individual natural gas units
+21 (each with 2] nameplate capacity rating of approximately 50 MW), to the existing, Black
+22 Mountain Generating Station ("l}M(iS"), a natural-gas-lircd power plant near
+23 Kinsman, Arizona in Mohave County. BMGS currently has two natural gas units, each
+24 ation
+25 asO n
+with a nameplate capacity rating of approximately 61 MW, that have been in open
+since 2007. Both the Project and l3M(is will be located at the same site. 3
+26
+:aznn-- <
+27
+28
+'3 nc:rz3rf\°uf
+r
+ulibg
+358
+TU U:(5 'I/)
+|
+I Pursuant lo A.A.C. RI4-3203(I)), l1NSF lilcd an Application Igor Disclaimer of llirisdicliq or,
+alternative. it Ccrtiiiczllc of Compatibility ("(Tl("). The scope of lhc hearing was Iimitcd l
+Application Igor Disclaimer ot.lurisdiclion. TJ
+w
+\.A)
+C r
+Decision No._zsa88._
+
+
+=== PAGE 23 ===
+I
+L-00000F-24-0056-00230
+I
+2
+The following members and designees of members of the Committee were
+present at one or more of the hearing days for the evidentiary presentations, public
+comment, oral argument, and/or for the deliberations:
+Adam Stafford Chairman, Designee for Arizona Attorney General
+Kris Mayes
+Gabby Mercer Designee of the Chairman, Arizona Corporation
+Commission ("Commission")
+lNicole Hill Designee for Director, Governor's Energy Office
+Leonard Drago Designee for Director, Arizona Department of
+Environmental Quality
+David French Designee for Director, Arizona Department of Water
+Resources
+Scott Somers
+Roman Fontes
+Appointed Member. representing cities and towns
+Appointed Member, representing counties
+Member,David Kinder representing agriculturalAppointed
+interests
+Margaret "Toby" Little
+Jon Gold
+David Rich ins
+Appointed Member, representing the general public
+Appointed Member. representing the general public
+Appointed Member, representing the general public
+3
+4
+5
+6
+7
+8
+9
+10
+I I
+12
+13
+i4
+15
+16
+17
+18
+19
+20
+21
+22
+The Applicant was represented by Meghan H. Grabel and Elias Ancharski of
+Osborn Maledon, P.A. and in-house counsel for UNSE, Megan C. Hill. The allowing
+parties were granted intervention pursuant to A.R.S. § 40-360.05, and each appeared
+through counsel: Commission Staff, represented by Maureen Scott and Samantha Egan,
+Sierra Club, represented by Louisa Eberle, Patrick Woolsey, and Nihal Shrinath,
+Arizona Solar Energy Industries Association, represented by Autumn Johnson; Western
+Resource Advocates, represented by Emily Doerfler, and Southwest Energy Efficiency
+Project. represented by Chanele Reyes of the Arizona Center for I,aw in the Public
+23
+24
+25
+26
+27
+28
+-2-
+Decision No.
+
+
+=== PAGE 24 ===
+L00000F-24-0056-00230
+I Interest.
+2
+3
+4
+5
+6
+At the conclusion of the hearing, the Committee, after considering the (i)
+Application, (ii) evidence, testimony, and exhibits presented by the Applicant and
+Interveners, (iii) Stipulations of Facts adopted by the Applicant and lntervenors,2 (iv)
+comments of the public, and (v) legal arguments of the parties, upon motion duly made
+and seconded, voted 9 to 2 to deny UNSEals Application for Disclaimer of lurisdiction.
+7 msctfss1otw
+8 A.R.S. § 40-860.03 requires lelvery utility planning lo construct a plant,
+9 transmission line or bnlh in this suite" Lo "list Iile with the cninmissinn an application
+I 0 for a cerlilieule o(envir<mmemaI compatibility. lJNSlls Application li)r Disclaimer no
+I I jurisdiction Tor the Project is based on its inlcipretz1tion of A.R.S. § 40-36()(*)). which
+iv (clines "plzint" tis "euell separate thermal electric. nuclearor hvclroeleetric ucneruline
+I 3 unit with at mnneplatte rating of one hundred megawatts or more. According to the
+14 Applicant. "[blecause each of the generating, units that llnsl is constructing has 21
+15 ITLIITTCPIHI6 rating underthat 100 MW threshold, lINSF is not legally required to obtain
+pa \
+16 each"l,egislalurcs use ofZ1 C`l7(` to construct the Project.IINSF argued that the
+17 separate . generating unit with a nameplate rating makes clear that the capacity
+18 threshold fOr a 'plant' is determined by looking all the capacity rating slumped on each
+19 single, individual generating unit rather than the aggregate capacity of the overall
+20 . . ,,.| . . .generating station. lhc Applicant further argued that hccausc the statute is clear and
+21
+22
+unainhiguous, the (ommittcc and the (ommission should look only to the plain
+language olthe statute to interpret it.
+23 The Arizona Supreme (Tourt instructsus that "lwlhen interpreting a statute, our
+24 primary goal is lo ,give cllecl lo the lcgislalurcls intent."JD. v. llcgvi, 236 Ariz. 39. 40.
+25 385 l'.3d 1118. 1119 (2014). "Allhuuvh we lira examine a statute's lan us Ie ino g .up
+26
+27
+1 Vxlrihil llNSI'-I7. zlllachc<I as lxhil»il A and inc(»rlu\lalcd by reference.
+'1;xlnhn IINSII-I, Application at FS-".
+.x lfxhibil llNS|°- I 3. Proposed Ifni of()rdcr al 4.
+28
+3
+Decision No. 7938
+
+
+=== PAGE 25 ===
+L00000F-24-0056-00230
+l isto the todiscern legislative intent, whenattempting language susceptible (Ii Teri fig
+2 a thewhole, and considerreasonable interpretations we interpret the statute as
+3 statute's context, subject matter, historical background, effects and consequences,
+4 and spirit and purpose." Lewis v. Debord, 238 Ariz. 28, 30-31, 356 P.3d 3 14, 316-17
+5 (2015) (internal quotes and citations omitted) (emphasis added).
+0 (Tonlrai 1 to the A wlicant's assertions, the definition of "plant" in A.R.S.. 40-3 I I I
+7
+I
+360(()) is susceptible to difTercnt interpretations, as evidenced by the (Tom mission's
+I
+I
+8 133, and 107 (where the totalissuance of (71-1(s in Line Siting (Tases 107, 177, 141,
+9 100 MW, but each individualcapacities of the generating, stations were greater than
+I 0 a nameplate rating below 100 mw)'natural gas unit had compared lo Ural<§'s
+I 1 Jurisdiction, as well theinterpretation of "plant" in its Application for Disclaimer of
+1> Coll5llllLlcLlwasfact that Blvuis without a (l:( 0l at disclztimcr from the Cuinmissitm.
+18 Based on the evidence in the reeurd in this prueeeding. BMGS is the only thermal
+14 electric generating station operating in Arizona with an aggregate nameplate rating
+15 greater than 100 MW that has not received 21 Clerc and this Application fOr Disclaimer
+16 olJuriscliction is the first time anyone has sought a disclaimer ol.iurisdietion Tor a plant.
+17 in 1971. it included aWhen the legislature passed the line siting statutes"
+18 Declaration of l'olic f, which states: "llhe je lislaturc herein . finds and declares that2: )
+19 there is at present and will continue to be a growing need fOr electric service which will
+20
+21
+require the construction of major new facilities." Laws 1971. (.h. 67. § l. (emphasis
+addcd).7 A.R.S. § 40-360(9) makes it clear that "a nameplate rating of enc hundred
+22 megawatts or more" is where the legislature drew the line Tor what constitutes a major
+23 IlC\V Iaeility. It is apparent that the legislature chose "nameplate rating" as the measure
+24 of the size of a plant instead of the plant's actual output because the actual output can
+25
+26
+27
+) ()llieial/administrznivc notice was taken of l)eeisioll Nos. 7')1)"0. 70636, 70]89. 63863. 76688. and
+70108 at the hearing.
+o A.R.S. Title 40, Chapter 2, Article 6.2.
+' Attached as lixhihit B and incorporated by relerenee.
+28
+4
+Decision No. 7988
+
+
+=== PAGE 26 ===
+L00000F-24-0056-00230
+I
+2
+i
+3
+vary depending on ambient conditions, such as temperature and elevation, whereas the
+nameplate rating is sci by the manufacturer, is constant, and will always be greater than
+the actual output oltllc plant.
+4 l
+i
+5
+6
+7
+lhc Declaration of Policy also recognizes "that such facilities cannot he built
+without in some way allecting the physical environment where the lacilitics are
+located" and "finds that it is essential in the public interest lo minimize any adverse
+effect upon the environment and upon the quality of lite olthe people of the state which
+x such new facilities might cause." Laws 1971, (h. 67, § l The legislature also tound
+Q
+In
+"that present practices, proceedings and laws relating to the location of such utility
+l"1cilitics may be inadequate to protect environmental values and take into account the
+I l total effecton society olsuch facilities." ld. (emphasis added).
+l 2 Ihc legislature lurtlier explained the need fOr the creation of the ("ommittee and
+I 3 the siting process stating "that existing law docs not provide adequate opportunity for
+14 individuals, groups interested in conservation and the protection of the environment.
+l 5 inlocal governments. and other public bodies lo participate timely fashion in the
+l(> decision to locate II specific major facility at aspecificsite." I(/. (emphasis added).
+17 The definition of "plant" in A.R.S. §40-360w) is "each separate generating
+18 unit." not each individual generating unit. lhc only logical interpretation of the statute
+1() is that it individual generating units share the same site. they are not separate. It is the
+20 a.s8gregate of the nameplate ratings of the individual units that determines whether or
+21 n o t  a  ( " |:( "thermal electric. nuclear oris required. Once the total amount of
+22
+23
+hydroelectric" nameplate capacity at 21 specific site reaches 100 MW. regardless of
+whether it is one 100 MW unit or four 50 MW units, a Cl€(' is required. ll an existing
+24 facility has less than 100 MW ot"thcrmaI electric. nuclear or hydmclcctrie" nameplate
+25 capacity and additional thermal electric generating units are added to that site. raising,
+26 Thisthe aggregate nameplate rating to 100 MW or more, a (lIe is required.
+27 inteqwretatiun docs nut render the term "nameplate rating" in the statute meaningless.
+28
+5
+Decision No. 9388
+
+
+=== PAGE 27 ===
+L-00000F-24-0056-00230
+l Nameplate rulings of individual units located at the same site are routinely aggregated
+2 and reported by the ll.s. Fnergy lnlomlation Administration as the total nameplate
+qJ capacity for those plants.
+4 Assuming Tor Z1 moment the validity of Applicant's argument that the statute is
+5 clear and unambiguous. that does not loreclosc the use of other methods of statutory
+6 construction as the Applicant claims. ()Ur analysis must continue in the plain text leads
+7 to absurd results.As stated by the Arizona Supreme ('ourt. "If the language is clear. the
+8 lllll0sscourt must apply it without resorting to other methods of statutory intcrprctution
+0 application of the plain meaning would lead to impossible or absurd results.
+I 0 Bilks v. S/(1/(h 206 Ariz. 402, 404. 80 l'.3d "(>1). "71 (2003) (internal quotes and
+l l "A result is uhsurtl i 1 it is so irrational. unnatural.citations omitted) (emphasis uddcd).
+12 or inconvenient that it cannot he supposed to have hoof within the intuition of persons
+l 3
+l14
+with ordinurv iutclligcncc zuttl tliscrctioll." Slulc \. l;.vIIw(la. 20] Ariz. 247, 251. 84 l'.3d
+356. 360 ("00l) (internal quotes and citations omittctl). lhc Applicants interpretation
+l
+15 oIA.1{.S. § 40-860(9) would require ii (.1"(. fOr at single natural gus unit with mime plate li
+l
+16 capacity ruling of 100 MW but allow the construction of 1000 MW o1 small modular
+l17 nuclear reactors in u residential neighborhood without going through the line siting
+18 process lo obtain a (l"(7 as long as each individual reactor had 21 nameplate rating less
+19 than 100 MW. lhis is a transparently absurd result.
+20 c7on('Luslon
+21 When the legislature created this (ommittee and the line siting process, it
+22 ClcclEllc(1"that it is the purpose of this urticlc lo provide 21 single Iorum Tor the
+23 expeditious resolution of all matters concerning the location of electric generating
+24 plants and transmission lines in a single proceeding to which access will be open to
+25 interested and ztllCctcd individuals, groups. county and municipal governments and
+26 other public bodies to cnublc them to participate in these decisions." Laws 1971. (.`h.
+27 67. § l. lhc Applicants intcrprcteuion of A.l{.S. § 40-3()()(*)) would circumvent the
+28
+6
+Decision No. 79388
+
+
+=== PAGE 28 ===
+L-00000F24-0056-00230
+I
+manifest purpose of the line siting statutes and deprive the people of Arizona who Zllc
+affected by the construction otthesc major laeilities of their ability lo participate in the
+process to mitigate the adverse impacts on the environment and their quality oflile. The
+Committee finds that under the facts of this case, as reflcctcd by the record, the Proicct
+is a "plant" as defined by A.R.S. § 40-3(i()(()).
+4 4
+4IT IS HEREBY olwulu l) DENYING UNSlj's Application for Disclaimer
+ol.lurisdiction pursuant to A.A.(T. R-l4-3-203(l)).
+()R1)1gR1r1) this 2nd day of May, 2024.
+_
+/L/
+At lam Stafford. (hairman
+Arizona Power Plant and
+l ransmission l,ine Siting (Tommittce
+Assistant Attorney (icncral
+l
+l
+l
+l
+2
+3
+4
+5
+6
+7
+8
+< )
+to
+I I
+12
+13
+14
+15
+l(>
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+7
+Decision No. 79388
+
+
+=== PAGE 29 ===
+L-00000F-24-0056-00230
+l (Tl'IRlll*l(IAI I or MAILING4J
+2 Pursuant lo A.A.(`. RI4-3-204, the ()Rl(.INAl, of the foregoing and 25 copies were
+tiled this 2nd day otMay, 2024 with:
+lltilities Division - Docket Control
+Arizona C`orporation Commission
+1200 West Washington Street
+Phoenix, A/ 85007
+C`()PlPS of the above emailed/mailecl this 2nd day of Many. 2024:
+M 2lLllccl1 A. Scott
+Samantha 128an
+Legal l)ivision
+Arizona Corporation (Tom mission
+I 2()0 W. Washington Street
+Phoenix. Arizona 85007
+Inseott(Zl).azee.yov
+sea2an@azcc.gov
+C 'olmsel /Or Legal DivisiwI Sir/]
+Meghan I I. (irabel
+Alias Aneharski
+osboRn mAI.l;l>on, P.A.
+2029N. Central Ave. Ste. 2 l()()
+Phoenix. A/ 85012
+mgrahel@omlaw.eom
+eaneharski(a)omlaw.eom
+( `uI1n.$('1/Or Applicalil
+U
+Megan Ilill
+88 Broadway Blvd. lIQl")l 0
+Tucson. AZ 857()I
+megan.hill(a,tep.com
+( 'nIllzsel./in Applicant
+Britton Baxter and Renelle Palaclino
+Directors, lltilities I)ivision
+Arizona (Torporation Commission
+1200 W. Washington Street
+Phoenix, AZ 850()7
+utildivservieehyemail@azcc.gov
+3
+4
+5
+6
+7
+8
+9
+I()
+II
+|')
+18
+14
+15
+l()
+17
+18
+19
+20
+2]
+22
+23
+24
+25
+26
+27
+28
+8
+Decision No. 79388
+
+
+=== PAGE 30 ===
+L-00000F-24-0056-00230
+I Louisa lfhcrlc
+Pzllrick Woolsey
+Nihul ShiinaIlh
+SIFRRA (I,lIB
+2101 Wcbslcr Strccl. Slc. 1300
+()Falkland. ('A 94612
+patrick.wonlscy@sicllzlclub.org.
+nihal.shrimllh(c12sicrrz\clulmorg
+Imld<1ic.lipsculnl»(Iilsic11aclub.org
+Autumn l..lolmson
+ArisIIA
+7144 |:. Stetson l)r.. Suilc 300
+Scottsdale, Arizona 8525 I
+zlLltLII1111(u2alisciu.org
+limily l)ocrIlcr
+Wl'Sll'RN RMS()llR(lI AI)V()(AlVS
+l 4"1) N. Isl Slrccl. Suilc 100
+Phoenix. Ari/ona 85004
+cmily.docrl1c1(u)wcslclnrcsoulccs.org
+|
+i
+(hzmclc N. Reyes
+ARIZONA (1=nll:l< l"()R l,AW
+IN lIII: I)11l31.l(` INI1:R1r81
+352 I". ('zlInclbzlck Rd. Suilc 200
+l'hocnix. Arizona 850 I 2
+cI1z1l1cIc(Z1>aclpi.org
+Lisa I,. (Ilcnnic
+(Ilcnnic Reporting Services. I,I,(
+I 555 Fast ()lzlngcwoo<I
+Phoenix, Arizona 85020
+admin(ziz2Icnnic-rcportin2.com
+( `our/ Rc'/I0/lvI
+By ./. / » ."'-
+2
+3
+4
+5
+6
+7
+8
+<)
+I()
+II
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+_0_
+Decision No. 193§§_
+
+
+=== PAGE 31 ===
+L-00000F-24-C056-00230
+I
+2 Exhibit A
+r
+I
+I
+I I
+3
+4
+5
+6
+7
+8
+9
+10
+12
+18
+14
+15
+16
+17
+18
+19
+20
+2 I
+22
+23
+24
+25
+26
+27
+28
+- 10 ..
+Decision No. 79388
+
+
+=== PAGE 32 ===
+L-00000F240056-00230
+CH-67
+ion LAWS OF ARIZONA
+CHAPTER 2, ARIZONA REVISED STATUTES,BY ADDING
+ARTICLE 6.2.
+Be it enacted by the Legislature of the Slate of Arizona
+Section I. DECLARATION OF POLICY
+The legislature hereby finds and declares that there is at present
+and will continue to be a growing need for electric service which will
+require the construction of major new facilities. It is recognized that
+such facilities cannot be built without in some way affecting the phy
+sical environment where the facilities arc located. The legislature
+further finds that it is essential in the public interest to minimize any
+adverse effect upon the environment and upon the quality of life of
+the people of the state which elifeet such new facilities might cause.
+The legislature further finds that present practices, proceedings and
+laws relating to the location of such utility facilities may be inade-
+quatc to protect environmental values and take into account the
+total effect on society of such facilities. The luck of adequate statu
+tory procedures may result in delays in new construction and increases
+in costs which are eventually passed on to the people of the state
+iii the form of higher electric rates and which may result in the pos-
+sible inability of the electric suppliers to meet the needs and desires
+of the people of the state for economical and reliable electric service.
+Furthermore, the legislature finds that existing law does not provide
+adequate opportunity for individuals, groups interested in conserva-
+tion and the protection of the environment, local governments, and
+other public bodies to participate in timely fashion in the decision
+to locate a specific major facility at a specific site. The legislature
+therefore declares that it is the purpose of this article to provide a
+single forum for the expeditious resolution of all matters concerning
+the location of electric generating plants and transmission lines in a
+single proceeding to which access will be open to interested and
+affected individuals, groups, county and municipal governments and
+other public bodies to enable them to participate in thesedecisions.
+Sec. 2. Iitlc 40, chapter 2, Arizona Revised Statutes, is amended
+by adding article 6.2, sections 40-360 and 40360.01 to 40-360.12,
+inclusive, to read:
+ARTICLE 6.2. POWER PLANT AND TRANSMISSION
+LINE SITING COMMITTEE
+40-360. DEFINITIONS
+IN THIS ARTICLE, UNLESS THE CONTEXT OTHERWISE
+REQUIRES:
+I, "AREA OF JURISDICTION" MEANS THE STATE, A
+COUNTY OR AN INCORPORATED CITY OR TOWN WHICH
+EXERCISES CONCURRENTOR EXCLUSIVE .IURISDICTION
+OVFR A GEOGRAPHICAL AREA.
+Docket #
+
+
+=== PAGE 33 ===
+L00000F24-005600230
+1
+Exhibit B
+1
+lll
+l
+l
+l
+I I
+2
+3
+4
+5
+6
+7
+8
+9
+10
+12
+13
+14
+15
+I()
+17
+lx
+19
+2()
+21
+22
+23
+84
+25
+26
+27
+28
+1 1 -
+Docket # 88
+
+
+=== PAGE 34 ===
+L-00000F24-0056-00230
+I BEFURE Tm: ARIZONA POWER PLANT
+ANI) TRANSMISSION LINE SITING COMMITTEl'I2
+Docket No.1.-00000|-24- 0056-0023()3
+4 Case No. 230
+5
+6
+7
+JOINT STlPllLATlON T()
+ADMISSION08rAC
+4xI) CKl8T[3[)s
+PR 17 2024< )
+;
+'0
+¢ > . >l10
+p
+2851-93
+.-PA88888"
+oo
+IN ll IF MArll=R ()|: lI II: API'l.l(AlI()N
+OF fINS Il,F("lRI(`. IN(.. IN
+C`()NFORMAN(IF wml ll II:
+RlQlllRFMlNlS ()|: A.R.S. 8 4()-360. l:l
+SFO.. FOR A DlS(l.AlMl"R ()1:
+J( IRlSl)l("Il()N. OR. IN Il II:
+Al.lII{NAllVF. A ClRIIl"l(All: ()|
+l;nvI1<<>nml=n1AI. coMI>Almll ,Ily""""" °"""""""
+AI lIII()RlZIN(i Il of l=xl>Ansl<>n or
+I3I.A(K m()11nlAIn (iI"NIRAIlN(i
+SIAlI()N. A NAIl1RAI. <;As-lll<l=l>.
+<(>mlsllsllon I1ll{l;INI: I'()WIR I'I.ANI I ()cKIIIIr
+NIAR KIN(IMAN. ARIZONA IN M()lIAVF
+C ( ) U N lYI I
+12 llns Ilcclric. Inc. ("1 INS"`) and Proposed llllcrvcnms Sicna (lub. Arizona
+IN Solar l~ncrgv Industries Association. \Vcslcm Rcsourcc Advocates. Southwest Fnergv
+14 lfltieiency Project. and Arizona (o1polztlion (ommission Stall hereby stipulate to the
+z  s
+z O  I
+or 4
+o f  2M 2
+m <  g
+O E  :
+I5 IOllotving facts. This stipulation is without prejudice to any party's ability to argue the
+16 application olthesc facts to the law.
+8 I.17 ()n March 8. 2024. llnsl Hlcd am Application Igor I)isclzlimcr of
+18 .luliscliclion or. in lhc allcrnulivc. a (clliliculc no I:miInl\I11c11laI C`on1patibilily
+19 ("CI("). Ihc disclaimer Idling was lnudc pursLlz\lll lo A.A.(. RI4-3-2()3(I)). The
+20 Application lccluc:~zls lhzll the Arizona Power l'lzinl and l.illc Siting ('ommitlcc
+" I disclziiin jurisdiction over the addition of lour new gas turhinc gcncralor acts (which
+22 lam. us used in this Stipulation. includes at gals-lircd turhinc. a gcncrznor. and
+23 auxiliary equipment). each with an individual nameplate rating olundcr 100 MW. at
+24 the Black Mounlznin (icncraling Stallion ("BM(iS") under A.R.S. § 40-36() cl .vi/.
+25 (Title40. Chapter 2. Arliclc 6.2).
+2.26 BMGSis located in Mohave (ounly. Arizona.
+3.27 BMGSeurrenlly consists of two gas turbine generator sets.
+4.28 BMGSis curlentlv owned be UNSI.
+79388Docket #
+
+
+=== PAGE 35 ===
+L-00000F-24-0056-00230
+I 5 . liM(is has been in operation Igor approximately 16 years.
+2 6. "Nameplate rating" is the maximum rated output ola generator. prime
+3 mover. or other electric power production equipment under specilie conditions
+4 Installed generator nameplate rating is commonlydesignated by the manufacturer.
+5 expressed in megawatts (M W ) and is usually indicated on a nameplate physically
+6 uuztehed to the generator.
+7 7. (icnclulols and turbines are distinct equipment that can have different
+8 nameplate railings. Because the generator and the turbine must operate together lo
+0 produce electricity. the lowest rated piece otequipmenL in addition to auxiliary
+I 0 equipment and other izietors. impact the output.
+I I 8. The two existing generators aN BM(iS euell have equivalent nameplzne
+12 The nameplate rating on the existing generators is expressed in kilovnll-ratings.
+I 3 amperes ("kVA"). which requires a conversion to MW. Thai conversion is
+14 VA * power Iaclur/ 108.accomplished by the IoIIo\\il1g formula: M W
+l 5 0. IINSI' anticipates that the nameplate rating for each of the new
+16 generators to he added lu BM(iS will he under 100 MW.
+17 No Cl( nor disclaimer of10. jurisdiction has ever been obtained for
+18 nm(is.
+w I I IINSI"s anticipated eontiguration olthe new gas turbine generator sets
+2 0 I lo this Stipulation.at BM( iS is shown on the schematic attached as Appendix
+21 1>. The new gas turbine generator sets at IBM(iS will use some shared
+2 2 Some olthe shared facilities will also be sharedlaeilities in common with each other.
+23 with the existing generating sets at BMGS.
+2 4 I 3. The new equipment and laeilities that llNSI anticipates will he shared.
+2 5 and the iaeilities that will he speeitie to each new gas turbine generator set. are set lnrth
+26 on Appendix 2to this Stipulation.
+27 / //
+28
+t_
+Docket# 79388
+
+
+=== PAGE 36 ===
+L~00000F-24-0056-00230
+I
+a
+l{I'SI'I'("II"llI.I.Y SllI3MII"II"l) this l 7th day olApril. 2024.
+osboRn MAl IIX)N. I'.A._
+I I
+I\'Icgha ( irahcl
+Iimothv J. Soho
+lflias Aneharski
+"")"9 N. Ccntral Avc 20th Floor
+Phoenix. Arizona 85012
+IIIILTZIIJCI ll,0ll1I2l\v.com
+tsabofdfomIaw.com
+cancharskifrilomlaw.com
+and
+Q
+Megan C, Hill
+llns Fncrgy Corporation
+88 F. Broadway Blvd..
+MS HQE9l0
+Tucson. AZ 85702
+Megan.HilI a tcp.com
+Ar/ornevsfor UNS Electric,Inc.
+ARIZONA (.`ORP()RAIION COMMISSION
+s/ Maureen Scott(w/ Permission)
+Maureen Scott
+Samantha Egan
+1200 W. Washington Street
+Phoenix. Arizona 85007
+IcL'llI(II\ (i'ZlZCC.Lll)\(
+Alrorf1c{\'.s./or the Arizona C`orporalion Commission
+S l u t
+SIFRRA CLUB
+s/ Louisa Fberlc (w/ Permission)
+Louisa Fbcrlc
+Patrick Woolsey
+Nihal Shrinath
+Sierra Club Environmental Law Program
+3
+4
+5
+(i
+7
+8
+0
+10
+II
+In
+13
+14
+15
+I()
+17
+18
+I()
+20
+21
+22
+23
+24
+25
+"6
+27
+28
+3
+Docket # 79388
+
+
+=== PAGE 37 ===
+L-00000F-24-0056-00230
+I
+2
+»iv
+/
+I`
+210 I Webster Street. Ste 1300
+()Oakland. (A 946 I 2
+louisu.cbcrIcfasicrracluhorg
+Iwu:i9I~;sfo4»l§¢) a sicrraclubg;rg
+niI\al.shrinuth ¢F'sicrr:1cIub.org
+1u4®i¢Iinscolttb zg'sierracluh58g
+AImrm'\.v /or Sir//w (lub
+3
+4
+5
+(i Arise=IA
+7
+8
+9
+s/ Autumn l. Johnson (w/ Permission)
+Autumn l. Johnson
+7144 |:. Stetson l)r.. Suite 300
+Scottsdale. Arizona 8525 I
+;1l.11l11lln/([;]ri5CI;I()rg
+Attorneyfor A1iSElA
+WESTERN RESOURCE ADVOCATES
+s/ Emilv Doerfier (w/ Permission)
+Emily Docrfler. Attorney
+1429N. 1st Street. Suite 100
+Phocnix Arizona 85004
+emiIv.docrIlcrluwvcstemrcsourccs.oru
+Attornevfor Western Resource Advocates
+I()
+I I
+12
+13
+14
+15
+I()
+17
+18
+SOUTIIWFST ENFRGY EFFICIENCY
+PROJ t=cT
+s/ ChanelcN. Reves (w/ Permission)
+Chanclc N. Reyes
+Arizona Center for Law in the Public Interest
+352 |:. Camelback Rd., Suite 200
+Phoenix, Arizona 85012
+chanelcrciIacIpi.orn
+Attorney for Southwest Energv E_uiciencjv Project
+1 t)
+*o
+° I
+22
+23
+24
+25
+26
+27
+*x
+4
+Docket # 79388
+
+
+=== PAGE 38 ===
+L-00000F-24-0056-00230
+I
+>
+ORIGINAL of the IOregoing and 25 copies were Iiled
+this I 7th day oIApriI. 2024 with:
+lltilities Division-I)oeket (`ontroI
+ARIZONA C()RP()RAII()N (oMMlsslon
+1200 W. Washington Street
+Phoenix. Arizona 85007
+(()PIIS of the fOregoing emailed this day to:
+IAdam StalTord
+(hairman. Arizona Power Plant and
+Transmission Line Siting Committee
+15 South I 5th Avenue
+Phoenix. Arizona 85007-2926
+Adam .Stat tordr¢Da4.gov
+Legal Division
+ARI/(INA (o1<po1<Al1on eoMmlsslon
+I 20() W. Washington Street
+Phoenix. Arizona 85007
+Ieualdiv/rtvazec.gov
+lltilitics Division
+ARIZONA CORPORATION COMMISSION
+1200 West Washington Street
+Phoenix. Arizona 85007
+utildivservicebvemaiI<2itazee.gov
+3
+4
+5
+0
+7
+8
+0
+I()
+I I
+12
+13
+14
+15
+I()
+17
+18
+I')
+20
+21
+Glennie Reporting Services.LLC
+1555 Fast Orangewood
+Phoenix. AZ 85020
+admin(¢i2glennie-reporting.com
+22 COPIFS of the foregoing e-mailed/mailed this dayto:
+Louisa Eberle
+Patrick Woolsey
+NihaI Shrinath
+SIERRA CLUB
+Sierra Club Environmental Law Program
+210 I Wcbstcr Street. Ste 1300
+Oakland. (`A 946 I 2
+Iouisa.ebcrle@sierraclub.or,q
+°z
+24
+25
+76
+°7
+"x
+5
+Docket#
+
+
+=== PAGE 39 ===
+L-00000F-24-0056-00230
+/
+I
+2
+3
+Na1rick.wools¢>f11'si¢ua9jub,9re
+nihal.sl1!i!1;MQ§M34;luh Qre
+n1u<lQieMps¢0l1\bf¢Q§jesirl; 1g
+Allotnc'\'s /or Sic'/nl C`/uh
+Autumn T..lohnsoll
+AriSl'lA
+7144 |: Stetson l)r.. Suite 300
+Scottsdale. Arizona 8525 I
+autumnfuiariseia.oru
+Atrorneyfor AriSElA
+4
+5
+(i
+7
+8
+0
+Emily Doeriier. Attorney
+WESTFRN RESOURCF ADVOCATES
+1429 N. Ist Street, Suite 100
+Phoenix. Arizona 85004
+Clllil\.LlOClHCI((il\VCSlCIl\lCSOlllCL'S.OTE
+Arrorneyfor Western Resource Advocates
+Chanclc N. Reyes
+Arizona Center for Law in the Public Interest
+352 E. Camelback Rd.. Suite 200
+Phoenix, Arizona 85012
+ehanelefwaclpi.oru
+Attorney./or Soufhwes/Energy Egicienqv Project
+I()
+I I
+12
+13
+14
+15
+l(\
+17
+18
+IO
+20
+21
+Maureen A. Scott. Chick Litigation & Appeals
+Samantha Egan. Staff Attomcy
+Arizona Corporation Commission
+1200 West Washington Street
+Phoenix. Arizona 85007
+mscott@azcc.gov
+segan&Dazcc.gov
+Alto/neys for ACC Legal Division SIq[f
+22
+By: *i0n»-¢;»~ =a, "4~*"~'*-
+10348558
+23
+24
+25
+26
+27
+28
+6
+Docket#
+
+
+=== PAGE 40 ===
+L-00000F-24-0056-00230
+Appendix A
+l
+Docket# 79388
+
+
+=== PAGE 41 ===
+L-00000F-24-0056-00230
+lr
+.J! , ,. Rp \ .*
+i " I .
+. *\ .
+U
+E
+.T
+~271,
+r"
+"a
+I * . * v .
+1 : z
+' 4
+8:
+is §€i' 'é
+~r;.  J ' ~ _
+W
+MT I
+, E 383
+38 §8§'3
+s
+8
+3
+8 §
+&'=£¢ §£§8§ =i
+8"'f.r7
+I
+II
+48
+38i§§%;l*!2§§l
+38
+¢ up 338 38 8
+881§§53§§5
+T" Q(
+224-1344
+,,_v~
+-_ an. . .., ""
+., ,.,.,. ._.L1Q
+s....- ,
+»3 _ - l - U \~-" IJ ,  l l 7 t4 .,¢~»L f
+. 4 3
+4 . .
+m=iI7;8""! u4 .
+EIIIIII 11111111111111111111111....;>l . .
+4
+.4 .,r s
+»..
+C
+.r . 4
+2 .y
+-
+\Q** .
+. `)E»,i ,
+8 5
+. ~ ?
+, q.4 . wuyr7°'u.
+9 9 g .*4f:
+- * " = ;- 4 4 . - »c c _ - _ - - - l d : - - k a n n .
+IIIIIIII
+a l  9 9 9
+£58 .
+@
+1 . .
+;. 0{
+*1
+5
+1 . 8 £3
+.1gg=..,
+. .\,
+A.
+84 F h c a
+i
+*. .z8 U.|s :4 4 ;... c ,
+.
+5, ¢. 3
+up| \.\,
+.1.
+I .
+Q
+*  " "
+. ..t*;~
+T
+Q J 8 9
+v»
+111.
+o
+Q m ft».~"
+Qawo 5)
+9 G 91
+.» ,\ 4; , 1*I
+\,
+; L
+5 %
+W-
+9_* . »\_..a....a
+. q
+.go .
+417- - »,..__.,\...\.- p \
+. . . I n21 a
+Y""I
+E-. 4..--H
+, 1
+. ; Q .
+.:~ V...¢~...~ *'l .
+9
+4  9
+- 9 8
+% Q
+4 0l \ ; *46 v
+Da U *-v . 61| f.1
+~u Q
+K i !
+8 8H ;3\ C3
+..~
+.
+< .; i nL l
+- \ ` \ - e .,".,`s 5 . .. ' \
+. .
+e§"ca"K°1' C
+8 8 4A - 9 8 4 8 / ." I
+8I u1
+8
+YI'II
+. -s
+°"l='*45*lf
+o
+, g4
+am
+N e 4 M4* D
+r J
+I
+» i
+.
+9J
+M
+,\ .  a .
+,,a .r
+.
+.
+" . E¢III
+. I. 1r
+..:. 8 ..
+. .4 : 4
+8
+9.
+o . . i iD .4 4
+.ve ,.§'!'
+& \ " \ l &
+Q 1°';» ;§ *" °'°
+;
+. , .
+I:
+»
+av
+9|
+,
+c
+ll
+oo b w8 N8.2beco.o cweis E
+240 8.
+E
+\.¢.p
+/ 9m o '.
+. ( Q
+9 lo
+.. ,\ 9 U
+1
+Q sq .
+. 0
+:
+L f
+E< sI
+.
+. _ 489 ",.mY,
+" 5 4 . 1.* " , . .9:.o ., »
+. \
+_ A A
+a
+. .WeI@ E* J9 v|
+l
+l
+l
+8
+g Q5 Xg UJ
+2  c
+.ac o4v
+82
+m U) _ a _ _
+E
+;g
+g 88235;
+8'§ 01:
+go
+(8
+1, III 1:
+38? is
+¥"8 h ,uv or
+Q
+..w18 4,I /1 .". ,.' rr my ? !
+Docket#_19@§__
+
+
+=== PAGE 42 ===
+L~00000F-24-0056-00230
+. -,~"..~'9
+.\.
+. 9;
+l3
+'*l
+..{,
+4.V ' .=r 4*
+.Yr
+A
+I -:~
+,If», r
+.,'.(.,
+.x
+E
+.§ II. J ..,.*
+.
+.4 of
+la
+'I
+49
+., in
+if
+~..;'f iv
+1 .. n-
+'R .ii. y* g a 35
+3
+8g §
+8
+EE 3
+838 I E 3 E.\ii
+E
+§
+3%£8;
+5888
+8 3*
+E 2 5 8
+3~;=
+853§§8§§§
+§ »-
+» - 0 - 9
+84
+§§3§§
+E3  ,
+£5
+3
+B
+-8
+E
+3833 33
+ééll I Irx*
+4
+<-
+I
+. ,v h
+rffl,,"`, 9
+w
+.r
+) .I .
+».
+!
+9InnlnlnlnaaaaaaaaaaaaawawHaanI
+4 Ir I.a v
+. or' arm"
+4 €*v
+s 7
+,.
+We ',
+.
+.s .. .vf ..*»
+4
+'
+86 4} , .
+. ..... . .
+e
+8
+44.,
+r
+3 s ,,I "s .
+.r. ~ ~.. ¢L. f.
+.l . .
+7 1
+.,, I
+, 43" . ... , -..~..,,..,.
+;
+;f
+1g_-- ., \ .
+. 4- ,s~ .
+!*,:.x in .. s. , If,\{11,v ";
+m s1* 82»'Q
+I
+I
+I. 53941I 'AitW z9 5xv. \»
+E .8i n, p
+i N :up .p~' 4 " /
+I * . ¢4
+.19 .8
+J..
+9s  3
+M »48
+'Q "x* if \
+»4~
+. *m
+"
+4
+,%.
+A 54411,,.
+.
+l
+2
+z 7
+4 ,.
+4 , 5
+.'v~- '{..1
+. . . . .. .. . \4\.r '~3,~8*
+., , .I 7 C V
+. K "Y U
+"~= w» ..
+. v to*f+ ... *§§~.%¢~», 1 %. . r
+*ii*
+`4\,.
+'v"?1| ."~. A
+la*"
+' I *  . » "$ .
+r, 4/"\ < .
+s ;_
+., ;#1."d $5 ?t.2=<4. , .
+41. 9 8j9
+4 . .x
+..»
+, 'b II1 .°..u) g
+~ g
+: .; 1¢
+1. nq.;. A\ , I
+4 .I l77»'
+,g  i
+\ 4
+I »..*N I \
++\!
+~.
+g
+'H
+. ,.
+/ wuYA ;= ~7 8'
+,;¢.'
+we !
+l
+4K/ 9L4 i
+--.* *\., .:!{ " i
+i v. Per "is
+., A L
+-I...
+Pmfew11:
+I/.L 'KANi" n.. .n . I *I 4
+¢
+... 11 B..| 4.
+,4
+r s .
+' z\ }";'*"'¥1vi
+*.r'
+1..Lu
+,\1
+- 1
+8
+\
+r
+Tb *\ l £4 1
+*.:> 1. I
+Jw'A re
+. ` ,.
+a " ' >&3
+kg. . •Q . 1.
+ii
+. et, »
+9 ?.l l . l.• \.s \
+r.
+. .
+.
+l
+gg. r
+In .4 '\ n A
+MM
+\ .23
+'I ¢. » `{,s
+. .
+. \ 4I. Q .. ..,
+. .
+...J 'C
+.».r. x.
+ii
+I
+-
+"A. .n ,.A:
+r :
+x
+4 ..
+I
+42
+8
+n
+we
+I-4 i . ,:, Y
+I
+4
+8 1
+;\
+?
+-I J 14
+j§8>Q» iii
+. x.
+¢ .
+1
+. ,al
+r 4
+n 1
+Q#,.A.1, .
+f
+$:8-
+ff:1
+I.\
+x 1
+.45 ,
+,: ,.q1.1944
+\\
+1,i" .
+E
+'541
+.\ .
+>
+w./.0.. ml.
+go
+...
+I *.
+,,
+r 1.8,u
+\
+or
+8'| .
+(
+3  . 9
+1 .. 8 I ».A ' ..
+v y ,'~v<..., '4»'Q
+.":* .
+`a. s
+r.1e
+.. w. if \. v \- , (.. " I\4 u kg 4 Y:
+4' . > |\4 3 5
+| g ; §
+.:. ,4".q Pro ." .
+.| 1..1
+. ""Ef.l. ;.r..
+1
+j
+v`n
+94 1%
+, 5
+1
+I
+1
+.
+r, . .. 8
+¢
+J $M»
+..;,~. .,.;.. .§'.f .
+"\..~;-1 " .\ ' ; 4,
+* . A v#v
+M:M
+9
+. 1.1
+4. 45 .,.\ x, (14 I l . .I( 5\
+l 1"1
+A 5 J .
+-all .; ,w
+8"We.. wi.w a
+r .* .» Q
+L. * s
+;§»_ Q g ,'s . (\» 3
+»~».) . :.»45. J .iT \;.WI\¢
+'v . .
+. !
+.. n.
+*,
+s
+... .
+JJ., 3. A 4
+A
+' M(
+'
+\
+,,r
+- J.
+., x '? 9 . . . Y
+*~>.
+r
+.1 -
+* !¢¢ K;-;v*
+, .  3w "#,
+; 3, | ' \ l1111 4, ~ry,... "A
+Ii
+. 3.2'
+£~- .. Qm...
+\ R.; ... .l 'r°:. "»4 ,
+§; Ir AI
+.Y .
+A
+!
+2,.
+" * ;
+r
+'Mr
+-_v .
+4
+I w
+o.....J> ""9
+I . . 4 9 . .r
+8a4 9  A  u
+484)r
+F
+k' ~. ..1 . . |. Y¥ J3-~4,4
+,= m.
+,
+S. go
+1 L "{ ;  ,f "x"/ .1..!.x .# /
+1 5  '. . .
+'.»\,.. *
+Q<\*t{, ;J, . 'up' »
+4
+I
+,,»;F
+9
+. 1.
+4
+f a. .k ' I
+s » .
+1
+4. 4JS' ¥!\\¥, i v .. . .y
+FH v J
+\$.F¥.v T'*
+. ,l
+.~""V?*s
+Ma_4., . v.
+. . ? - £ - - ¢j ...\'\  n .
+'\:. HE l\\ *" f "
+q r2 .
+. \r';. .. . \*x" . .
+,J1 a2-." . , i ir "x.1 1.
+V
+i
+,Q
+¥*"~ .
+15
+- * i:  v '. xB '8
+Q Q
+.. 33
+1 5.
+F
+v
+..N"4 . Y,
+4 l
+;
+8
+I;.In
+"0_ 11. . \
+. I. , ..
+.....
+.. ¢'§,..*»\v
+u 3.14 s
+:
+4E
+|>`|I ~9={\
+';~5*, . .,4 .
+"vi 4 : .hgt. .
+. $'°\a ,.~II; 4. #824.
+~¢ 44
+, =rz* ._
+. l . 3 1
+'iza'»" r
+9 l'44
+* . 4( r . . .
+,.Sj./Vi \ '
+,... , . r, _;~ $ 4 5 ¢.4.Q .*r :1 1
+'.n\ Ki ». 4. ¢' I -;=,.. \ .
+..\'*;.
+I *.,|
+\
+. ~ . r .
+I
+`§,». 'v
+3 '
+vw
+. , '*  `
+8,iQ
+W
+' |  .
+\{v01 - 48
+g  E I
+58
+i
+I U).Llr lg
+H,
+8
+§
+§ " r
+.1 l4I
+.# >&4
+a .* L
+.|
+v I
+, . or.
+4
+q - 1
+Px
+1
+a
+l
+s
+A
+g.,
+:o>N
+~J
+os`0) 7 8 I
+14 1 'E 8
+9
+\.
+3 h
+E53 8
+4"
+. . ; . ! i
+. 'c Z.
+t..r  . I I . .
+I n, 1 1
+v" 9* v
+i;*\{.NF .~<'»!""
+»pg! Ii
+.,2¢, 8
+.x"¥. .Q
+I\
+1.
+442
+I
+4
+Y*
+4
+Y. ¢¢'¢
+a.,44-•
+o
+5
+9ll
+258 o
+p acu  c
+co .9g IDi  g
+O Fc  Q5  XQ LU
+E  cx .O
+vs_et am W
+8
+58
+01:
+\/
+a
+\s . I.-..f,`, 4
+I
+Ml!l1:
+89"
+11 ..
+MH; 4
+4 ';.I
+\.
+.  v .T" i ;` w , .
+. ' e  . . .. , \ .
+1-§§l§m
+4 nag" .
+.. ,` r.,*
+an¢ . , \ f 4 »
+. . . ..  1 ¢,
+g. : l¢. ¢}l¢ ¢my .§,, ...
+. . tea
+Q- 1
+4 .
+" * \,. 8
+va1a#~4t,
+,',;¢_*
+'*=8 *S e
+$8 4*
+T"l ( 3
+" .
+4
+>
+*Wv", . '..¢»3W,»<;h*5€E.; ¢",;~*.~n` ',*'*°4n»;.»r<:4~ i ,
+.~..;l.v"'*, 'Few Jr Yu' ~*.g, .
+u
+v § \;»»l g ` 4  P A
+.. ,4~f'i" " i. - ,I .  ° ; ; , , .  -'
+"\; . 4 '  `v M n
+._ I . , `/ al |' * » 4 Jo
+. u. (
+* A, Min
+. . .
+'1 .
+;a'.\ 9 x Lf /1
+. |.. \1 f'
+f4=
+Docket # 7
+
+
+=== PAGE 43 ===
+L-00000F-24-0056-00230
+Appendix B
+I
+I
+I
+Docket # 7
+
+
+=== PAGE 44 ===
+L-00000F24-0058-00230
+Answer
+Per Turbine Unit
+Per Turbine Unit
+PcrTurbine Unit
+Per Turbine Unit
+Per Turbine Unit
+Per Turbine Unit
+Per two Turbine LM 6000 units
+PerTurbinc Unit
+For a LM 6000 Turbines
+For 4 LM 6000 Turbines
+PerTurbinc Unit
+Per Turbine Unit
+Per Turbine Unit
+Number Description
+1 LM 6000 Gas Turbine Generator
+2 GTG aux skid
+3 Exhaust stack
+4 Continuous Emissions Monitor (GEMS)
+5 SCR and Catalyst system
+6 GTG LO skid
+7 LM 6000 Power Control Module
+8 GTGlin fan cooler
+9 Chiller/Coolingtower
+10 Chemical injection
+11 SCR lemoning air lens
+12 GTG CO2 tire Protection Skid
+13 SCR ammonia flow control skid
+14 Ammonia tank For A LM 6000 Turbines
+PerTurbin0 Unit
+Per Turbine Unit
+For A LM 6000 Turbines
+For a LM 6000 Turbines
+1 GSU per 2 gas turbines LM 6000
+Common for 4 gas turbines
+Per Turbine unit
+For A LM 6000 Turbine
+For 4 LM 6000 Turbines
+For 4 LM 6000 Turbines
+1 PDC per 2 Gas Turbine units LM 6000
+1 Per turbine unit LM 6000
+Ford LM 6000 Turbines
+For A LM 6000 Turbines
+For A LM 6000 Turbines
+15 GTG final filter separator
+16 LM 6000 Gas Turbine
+17 Fuel gas coalescing Skid
+18 Station Scwice Transformer
+19 generator Step up transformer
+20 Storage Building
+21 Anit icing skid
+22 Raw water tank
+23 Ro Building
+24 Demineralized water tank
+25 Power Distribution Center
+26 DCS
+27 Air Compressor
+28 Raw water torwardlng pump
+29 Evaporation Pond
+I
+r
+I
+Do¢ket #
+
+
+=== PAGE 45 ===
+L-00000F240056-00230
+'
+Anna Tovar
+COMMISSIONERs1mIP
+( 6 0 2 ) 5 4 2 3 9 3 5  OFFICE
+Tovarweb@azcc.gov`** 4?
+4».,,,,.®
+COMMISSIONERS
+J im  O' Connor  Cha ir m a n
+l e a Marquez Peterson
+Anna  Tova r
+Ke vin Thompson
+Nick Myers .
+l
+i
+ARIZONA CORPORATION COMMISSION
+OFFlCE oF COMMISSIONER ANNA TOVAR
+June 14, 2024
+Docket Control
+Arizona Corporation Commission
+1200 W. Washington St.
+Phoenix, AZ 85007
+Re: In the Matter of the Application of UNS Electric, Inc. in Conformance with the
+Requirements oflA.R.S. § 40-360, et seq., for a Disclaimer of lurisdiction, or, in the Alternative,
+a Certificate of Environmental Compatibility Authorizing the Expansion of Black Mountain
+Generating Station, a Natural Gas-Fired, Combustion Turbine Power Plant near Kinsman,
+Arizona in Mohave County. (L-00000F-24-0056-00230)
+Dear Commissioners and Parties:
+I was compelled to vote no on this matter and offer this Dissent. I am very disappointed in my
+fellow Commissioners who voted to approve UNS Electric's Application seeking a disclaimer of
+jurisdiction from the Power Plant and Transmission Line Siting Committee ("the Committee"). I
+am also disappointed in what l believe is incorrect legal advice that I received from the Director
+of the Legal Division. in voting to approve UNS Electric's application, the Commission
+essentially threw out more than 50 years of how these statutes have been interpreted and applied.
+While there are likely circumstances where a Certificate of Environmental Compatibility
+("CEC") may not be required. For example, if a utility were only constructing a single thermal
+generating unit that falls below the l 00-megawatt threshold. Those however were not the facts of
+this case.
+It is also troubling. that when the Commission voted to approve UNS Electric's application, it
+completely disregarded overwhelming determination, by a 9 to 2 vote of the Committee that both
+the Committee and the Commission had jurisdiction over this matter based on the facts and
+evidence presented. It is also problematic how this matter was placed on the agenda where only
+Sample Order I could be discussed and voted on. It seemed as if the Commission had already
+predetermined the outcome.
+It is equally troubling that the Legal Division. who participated in the proceeding in front of the
+Committee also prepared and docketed the sample orders. Normally, this is not an issue because
+sample orders very simply either approve the CEC. modify the CEC, or Deny the CEC. The
+sample orders in this case provide in depth legal analyses with Sample Order l that just happens
+to match the Legal Divisions position when it argued in front of the Committee. lr has also been
+my experience, that agendas for line siting matters only reference a sample order if it is on the
+1200 W EST WASHINGTON STREET; PHOENIX, ARIZONA 850072927
+www.azcc.gov
+Docket# 79388
+
+
+=== PAGE 46 ===
+L-00000F-24~005e-00230
+consent agenda so that the Commissioners, and more importantly the public know what order is
+being voted on by the Commission on the consent agenda. For those matters on the regular
+agenda which typically includes more complex and controversial matters, like this case which
+had multiple interveners and a hotly contested issue the agenda language does not reference a
+sample order.
+Finally, in voting to approve UNS Electric's application, I believe the Commission abdicated its
+responsibility to evaluate and approve, modify. or deny certificates of environmental
+compatibility for what l believe will be the vast majority of plants that are being or will be
+constructed in Arizona. While utilities wanting to construct plants like that at issue here will still
+be required obtain permits and approvals from other agencies that in no way replaces the
+rigorous evaluation and balancing that is performed by the Committee and ultimately the
+Commission through the line siting process. While l believe the damage is already likely done, it
+is my true hope that this Commission will work to have the legislature update these statutes in
+the coming year and in doing so clarify what size and types of plant require a CEC before
+construction. lt is for these reasons that l voted no and offer this Dissent.
+Sincerely.
+Jn/44,
+Anna Tovar
+Commissioner
+pa.11"~'r,
+ii 34
+v 1 ,1'f ,¢"'
+1200 W. Washington Street, Phoenix, AZ 85007 | 6025423931 | azcc.gov
+Docket #

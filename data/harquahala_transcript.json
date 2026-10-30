@@ -1,0 +1,78 @@
+{
+  "source": {
+    "title": "Arizona Power Plant and Transmission Line Siting Committee, LS Case No. 248, transcript of proceedings, Volume I",
+    "docket": "L-21304A-25-0169-00248",
+    "applicant": "Harquahala Complex HoldCo, LLC",
+    "hearing": "Avondale, Arizona, 29 September 2025",
+    "pages_in_pdf": 175,
+    "kept_as": "source-ls248-harquahala-transcript-vol1.pdf",
+    "cleaning": "whitespace collapsed and transcript line-number/column markers removed before matching; three-digit numbers are left alone, so the figures quoted here are four-digit ones"
+  },
+  "claims": [
+    {
+      "claim": "Where and when it was heard",
+      "quote": "At: Avondale, Arizona",
+      "note": "Page 1 of the transcript. The same block gives 'Date: September 29, 2025' and the filing date of the transcript.",
+      "use": "A west-Maricopa transmission case heard in Avondale \u2014 the place this project's property data is about.",
+      "page": 1,
+      "verbatim": "At: Avondale, Arizona"
+    },
+    {
+      "claim": "The applicant's stated reason for the line",
+      "quote": "one thing that we have identified in coordinating with APS is really the challenges in getting more power into the Phoenix metro",
+      "note": "Garret Bean, on the applicant's side, describing the Harquahala complex and its relation to APS.",
+      "use": "The constraint, in the applicant's words rather than a utility's or a journalist's: bringing power *into* the metro is the hard part.",
+      "page": 19,
+      "verbatim": "one thing that we have identified in coordinating with APS is really the challenges in getting more power into the Phoenix metro"
+    },
+    {
+      "claim": "The siting logic, stated plainly",
+      "quote": "this project sits at a location kind of west of the Phoenix metro that is a major intertie",
+      "note": "Continued in the same answer: 'for load growth that really helps APS kind of balance where they have future load growth by co-locating it next to the generation.'",
+      "use": "Why generation and data centres are being placed in the west valley rather than near the load: the import capability is what the site offers.",
+      "page": 19,
+      "verbatim": "this project sits at a location kind of west of the Phoenix metro that is a major intertie"
+    },
+    {
+      "claim": "What is already built and contracted at Harquahala",
+      "quote": "Copia has built 450 megawatts of operational facilities in the Harquahala Valley, with over 1,000 megawatts total that are contracted and in construction",
+      "note": "Garret Bean, on the applicant's other projects. Elsewhere the transcript records his team's portfolio as 'over 30 gigawatts of generation assets' and '10 gigawatts of data center campuses across the U.S.' \u2014 both in passages this file does not quote.",
+      "use": "Scale, on the record, from the developer: several hundred megawatts operating and more than a gigawatt contracted at one site west of the metro.",
+      "page": 16,
+      "verbatim": "Copia has built 450 megawatts of operational facilities in the Harquahala Valley, with over 1,000 megawatts total that are contracted and in construction"
+    },
+    {
+      "claim": "Data centres are the load",
+      "quote": "The other project that we are working on in the region is a data center project",
+      "note": "Bean, describing what else the applicant is doing in the Harquahala Valley.",
+      "use": "Confirms the load type behind the transmission request, from the party making the request.",
+      "page": 19,
+      "verbatim": "The other project that we are working on in the region is a data center project"
+    },
+    {
+      "claim": "Water purchases by the towns in this corridor",
+      "quote": "with large purchases from municipalities like Queen Creek and Buckeye",
+      "note": "The Committee's chair asking about 'the water project' the applicant is also involved in; the witness confirms and says he is not a representative of that project.",
+      "use": "Municipal water purchases by growing towns in the same corridor, named on the record at a transmission hearing.",
+      "page": 65,
+      "verbatim": "with large purchases from municipalities like Queen Creek and Buckeye"
+    },
+    {
+      "claim": "Right-of-way is the work",
+      "quote": "it requires different right-of-ways, working with Maricopa Department of Transportation, and also obtaining several entitlements for the ancillary or other projects",
+      "note": "Bean, on milestones achieved, adding that entitlements are being obtained for the ancillary projects.",
+      "use": "The actual gating item for a transmission corridor in this area: roadway crossings and county entitlements.",
+      "page": 20,
+      "verbatim": "it requires different right-of-ways, working with Maricopa Department of Transportation, and also obtaining several entitlements for the ancillary or other projects"
+    },
+    {
+      "claim": "Public notice, as the applicant described it",
+      "quote": "the CEC application was sent to two Buckeye public libraries, the downtown branch as well as the Coyote branch",
+      "note": "From the applicant's notice programme: two Buckeye branches, a project website with remote participation links, signs, and paid social advertising.",
+      "use": "How a siting case reaches the towns it crosses \u2014 and a way to find the notice for any future case in this corridor.",
+      "page": 99,
+      "verbatim": "the CEC application was sent to two Buckeye public libraries, the downtown branch as well as the Coyote branch"
+    }
+  ],
+  "volume_ii_holds": "the Committee's vote (index: Deliberations at page 259, Vote at page 377)"
+}

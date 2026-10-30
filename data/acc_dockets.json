@@ -1,0 +1,3277 @@
+{
+  "source": {
+    "system": "Arizona Corporation Commission eDocket",
+    "api": "https://efiling.azcc.gov/api/edocket/",
+    "retrieved": "2026-10-28T18:27:07-0700",
+    "input": "acc_siting.json (the Commission's own hearing calendar)"
+  },
+  "note": "A docket that is not found here is not a docket that does not exist: the hearing calendar and the docket system are separate publications, and some calendar rows are agenda items without a filed docket. Decisions listed are the Commission's own records with decision numbers.",
+  "cases": [
+    {
+      "docket_number": "L-00000D-02-0120-00120",
+      "case": "120",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": false,
+      "company": null,
+      "docket_type": null,
+      "description": null
+    },
+    {
+      "docket_number": "L-00000D-06-0635-00131",
+      "case": "131",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Arizona Public Service Company for a Certificate of Enviromental Compatability.",
+      "docket_id": 13512,
+      "status": "Compliance Due",
+      "filed_date": "2006-10-04T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 78251,
+          "decision_type": "Decision",
+          "decision_date": "2021-09-29",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 77987,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2021-05-05",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 69343,
+          "decision_type": "Decision",
+          "decision_date": "2007-02-20",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21088A-19-0309-00185",
+      "case": "185",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "DCR Transmission, LLC (Ten West Link Project)",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of DCR Transmission, LLC or its assignees, in conformance with the requirements of A.R.S. \u00a7 40-360 et. seq., for a Certificate of Environmental Compatibility authorizing the 500 kV transmission line, which includes the construction of a new 125 mile kV transmission line between Arizona Public Service Company's Delaney substation until Southern California Edison's Colorado River substation, to be referred to as the Ten West Link Project.",
+      "docket_id": 23883,
+      "status": "Compliance Due",
+      "filed_date": "2019-12-09T11:35:04.167",
+      "decisions": [
+        {
+          "decision_number": 77587,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2020-03-31",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000C-20-0007-00186",
+      "case": "186",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Tucson Electric Power Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the Application of Tucson Electric Power Company, in conformance with the requirements of A.R.S. \u00a7 40-360, et. seq., for a Certificate of Environmental Compatibility authorizing the Irvington to East Loop 138 kilvolt (kV) Transmission Line Project, which includes the construction of new 138 kV transmission lines originating at the Irvington Substation (Section 03, Township 15 South, Range 14 East), with an interconnection at the Port Substation (Section 18, Township 15 South, Range 15 East) and the Patriot Substation (Section 31, Township 14 South, Range 15 East), and terminating at the East Loop Substation (Section 08, Township 14 South, Range 15 East, each located within Pima County, Arizona.",
+      "docket_id": 24042,
+      "status": "Compliance Due",
+      "filed_date": "2020-01-15T12:05:53.517",
+      "decisions": [
+        {
+          "decision_number": 77601,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2020-04-22",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21126A-20-0300-00187",
+      "case": "187",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Hashknife Energy Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Hashknife Energy Center LLC, in conformance with the requirements of Arizona Revised Statutes 40-360, et seq., for Certificates of Environmental Compatibility authorizing the Hashknife Energy Center Gen-Tie Project, which includes the construction of a new 500 kV transmission line and associated facilities interconnecting with the existing APS 500 kV Cholla Substation in Navajo County, Arizona.",
+      "docket_id": 25507,
+      "status": "Compliance Due",
+      "filed_date": "2020-10-08T13:47:05.97",
+      "decisions": [
+        {
+          "decision_number": 77889,
+          "decision_type": "Decision",
+          "decision_date": "2021-01-25",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 77888,
+          "decision_type": "Decision",
+          "decision_date": "2021-01-25",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000F-21-0050-00188",
+      "case": "188",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "UNS Electric, Inc.",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of UNS Electric, Inc. and its assignees, in conformance with the requirements of A.R.S. \u00a740-360, et seq., for a for Certificates of Environmental Compatibility authorizing the Golden Valley 230 kilovolt (KV) transmission line project, which includes the construction of a new 230 KV transmission line originating near the intersection of interstate 40 and Shinarump Drive (Township 20 North, Range 17 West, Section 4) and terminating near U.S. Highway 93 and Mineral Park Road at the planned Mineral Park Substation (Township 22 North, Range 18 West, Section 3), Mohave County, Arizona",
+      "docket_id": 25675,
+      "status": "Compliance Due",
+      "filed_date": "2021-03-16T11:47:20.693",
+      "decisions": [
+        {
+          "decision_number": 78068,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2021-06-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21151A-21-0110-00189",
+      "case": "189",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "RE Papago LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of RE Papago LLC, in Conformance with the Requirements of Arizona Revised Statutes, Sections 40-360, et seq., For A Certificate of Environmental Compatibility Authorizing Construction of the RE Papago Solar Gen-Tie Project, Which Consists of A 34.5/500kV Substation and a 500V Gen-tie Transmission Line Interconnecting a Photovoltaic Solar Generating Facility to the Adjacent Delaney Substation in Maricopa County Near Salome Highway and Courthouse Road, Approximately 5.5 Miles West of Tonopah, Arizona.",
+      "docket_id": 25779,
+      "status": "Compliance Due",
+      "filed_date": "2021-05-07T10:43:12.197",
+      "decisions": [
+        {
+          "decision_number": 78511,
+          "decision_type": "Amends a Decision Nunc Pro Tunc",
+          "decision_date": "2022-03-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78233,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2021-09-01",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 2,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-21-0257-00190",
+      "case": "190",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Arizona Public Service Company, in Conformance with the Requirements of Arizona Revised Statutes 40-360, Et Seq., for Certificates of Environmental Compatibility for the Westwing 230 Kilovolt (KV) Interconnection Project, Which Authorizes the Construction of a New Singlecircuit 230 KV Transmission Line Originating at the Westwing Substation (Section 12, Township 4 North, Range 1 West) and Terminating at the Planned AES Battery Energy Storage System Substation (Section 1, Township 4 North, Range 1 West), Located in Peoria, Maricopa County, Arizona.",
+      "docket_id": 25999,
+      "status": "Compliance Due",
+      "filed_date": "2021-07-13T13:13:39.8",
+      "decisions": [
+        {
+          "decision_number": 78304,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2021-11-05",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78303,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2021-11-05",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21088A-21-0262-00191",
+      "case": "191",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "DCR Transmission, LLC (Cielo Azul 500 KV Switchyard Project)",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of DCR Transmission, LLC or its assignees, in conformance with the requirements of A.R.S. \u00a7 40-360 et. seq., for a Certificate of Environmental Compatibility authorizing the Cielo Azul 500 KV Switchyard Project ",
+      "docket_id": 26005,
+      "status": "Compliance Due",
+      "filed_date": "2021-07-15T15:38:00.027",
+      "decisions": [
+        {
+          "decision_number": 78302,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2021-11-05",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000C-21-0288-00192",
+      "case": "192",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Tucson Electric Power Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the Application of Tucson Electric Power Company, in conformance with the requirements of A.R.S.  \u00a7 40-360, et. seq., for a Certificate of Environmental Compatibility authorizing the Kino to DeMoss-Petrie 138 kilovolt (kV) Transmission Line Project, which includes the construction of a new 138 kV transmission line originating at the existing Kino Substation (Section 30, Township 14 South, Range 14 East), with an interconnection at the planned Vine Substation (Section 06, Township 14 South, Range 14 East), and terminating at the existing De-Moss-Petrie Substation (Section 35, Township 13 South, Range 13 East), each located within the City of Tucson, Pima County, Arizona.",
+      "docket_id": 26044,
+      "status": "Open",
+      "filed_date": "2021-08-10T08:05:04.203",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-00000D-21-0292-00193",
+      "case": "193",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Arizona Public Service Company, in Conformance with the Requirements of Arizona Revised Statutes 40-360, Et Seq., for Certificates of Environmental Compatibility for the three rivers 230 Kilovolt Transmissions Line Project, which authorizes the construction of two new single circuit 230KV transmission lines with the interconnections originating at the existing APS Rudd-White Tanks 230KV transmission line and the lines proceeding west and counting south terminating at the TS16 substation, south half of the NE quarter of section 8 of township 1 north, range 1 west and north half of the SE quarter of section 8, located in Goodyear, Maricopa County, Arizona.   ",
+      "docket_id": 26048,
+      "status": "Compliance Due",
+      "filed_date": "2021-08-24T15:48:29.063",
+      "decisions": [
+        {
+          "decision_number": 78318,
+          "decision_type": "Decision - Dissenting Opinion",
+          "decision_date": "2021-12-03",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21162A-21-0302-00194",
+      "case": "194",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Storey Energy Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Storey Energy Center, LLC, in conformance with the requirements of A.R.S. \u00a7 40-360 et. seq., for a Certificate of Environmental Compatibility authorizing the Storey Solar Project Generation Tie Line",
+      "docket_id": 26058,
+      "status": "Compliance Due",
+      "filed_date": "2021-09-03T12:17:11.82",
+      "decisions": [
+        {
+          "decision_number": 78387,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2021-12-28",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000B-21-0322-00195",
+      "case": "195",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": false,
+      "company": null,
+      "docket_type": null,
+      "description": null
+    },
+    {
+      "docket_number": "L-21165A-21-0341-00196",
+      "case": "196",
+      "calendar_case_mentioned_under": "192",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Goodyear"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85012",
+        "85051",
+        "85122",
+        "85224",
+        "85323",
+        "85344",
+        "85346",
+        "85375",
+        "85395",
+        "85701",
+        "85711",
+        "85718",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Solar Pepper Power, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Solar Pepper Power, LLC, in conformance with the requirements of Arizona Revised Statutes 40-360, et seq., for Certificates of Environmental Compatibility authorizing the Serrano Solar Project Gen-Tie, which includes the construction of a new double-circuit transmission line and associated facilities originating in either Pima or Pinal County and interconnecting at the existing APS Saguaro Facility and/or the existing TEP Tortolita Substation in Pinal County, Arizona.",
+      "docket_id": 26112,
+      "status": "Compliance Due",
+      "filed_date": "2021-10-19T09:28:29.437",
+      "decisions": [
+        {
+          "decision_number": 79155,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2023-10-25",
+          "agenda_id": 1287,
+          "agenda_item_id": 4448
+        },
+        {
+          "decision_number": 78431,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-01-31",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78430,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-01-31",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000B-21-0393-00197",
+      "case": "197",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Salt River Project Agricultural Improvement and Power District",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Salt River Project Agricultural Improvement and Power District, in conformance with the requirements of Arizona Revised Statues, Sections 40-360, et seq., for a Certificate of Environmental Compatibility authorizing theexpansion of the Coolidge Generating Station, a natural gas-fired, simple-cycle power plant near Coolidge, Arizona, that was built between 2009 and 2011 and purchased by SRP in 2019 to help support growing demand for power in the region. ",
+      "docket_id": 26170,
+      "status": "Compliance Due",
+      "filed_date": "2021-12-13T09:29:24.073",
+      "decisions": [
+        {
+          "decision_number": 79020,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2023-06-29",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78545,
+          "decision_type": "Decision - Dissenting Opinion",
+          "decision_date": "2022-04-28",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 3,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-22-0030-00198",
+      "case": "198",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Arizona Public Service company, in conformance with the requirements of Arizona revised Statues 40-360 ET SEQ., for a Certificate of Environmental Compatibility for the West Valley Central Transmission Project, which consists of the construction of three new double-circuit capable 230 Kilovolt (KV) transmission lines needed to interconnect the existing contrail substation located at the Southeast corner of Olive avenue and Dysart Road in El Mirage, Maricopa County to existing 230 KV Substations and transmission lines in the area. ",
+      "docket_id": 26235,
+      "status": "Compliance Due",
+      "filed_date": "2022-01-26T13:58:32.953",
+      "decisions": [
+        {
+          "decision_number": 81563,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2025-11-21",
+          "agenda_id": 2339,
+          "agenda_item_id": 6136
+        },
+        {
+          "decision_number": 79601,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2024-11-15",
+          "agenda_id": 1315,
+          "agenda_item_id": 4803
+        },
+        {
+          "decision_number": 78543,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-04-28",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21180A-22-0034-00199",
+      "case": "199",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "BOCA bn, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of BOCA bn, LLC, In Conformance with the Requirements of Arizona Revised Statutes 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Box Canyon Solar Gen-Tie Project, Which Includes the Construction of a New Single-Circuit Transmission Line and Associated Facilities Originating in Pinal County and Interconnecting at the Existing SRP Abel Substation in Florence, Pinal County, Arizona.",
+      "docket_id": 26239,
+      "status": "Compliance Due",
+      "filed_date": "2022-02-02T14:14:02.21",
+      "decisions": [
+        {
+          "decision_number": 78574,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-05-27",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21183A-22-0069-00200",
+      "case": "200",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Randolph Solar Park, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Randolph Solar Park, LLC, in conformance with the requirements of A.R.S. \u00a7 40-360, et seq., for Certificates of Environmental Compatibility authorizing the 230 kV Randolph Solar Gen-Tie Project including construction of a new 230kV transmission line and associated facilities originating in Coolidge, Arizona and interconnecting with the existing SRP Randolph Substation.",
+      "docket_id": 26288,
+      "status": "Compliance Due",
+      "filed_date": "2022-03-11T14:33:07.707",
+      "decisions": [
+        {
+          "decision_number": 78840,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2023-01-23",
+          "agenda_id": 1259,
+          "agenda_item_id": 4143
+        },
+        {
+          "decision_number": 78589,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-06-21",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78588,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-06-21",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 2,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21185A-22-0072-00201",
+      "case": "201",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "HV Sunrise, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of HV Sunrise, LLC, in conformance with the requirements of Arizona Revised Statutes \u00a7\u00a7 40-360, et seq., for a Certificate of Environmental Compatibility authorizing construction of a 500-KV Transmission Intertie connecting a new photo-voltaic solar power plant to the APS Delaney Substation in Maricopa County, Arizona.",
+      "docket_id": 26291,
+      "status": "Compliance Due",
+      "filed_date": "2022-03-16T14:26:45.3",
+      "decisions": [
+        {
+          "decision_number": 81776,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2026-05-07",
+          "agenda_id": 2352,
+          "agenda_item_id": 6315
+        },
+        {
+          "decision_number": 78590,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-06-21",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21187A-22-0078-00202",
+      "case": "202",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Atlas Solar, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter os the application of Atlas Solar, LLC in conformance with the requirements of Arizona Revised Statutes 40-360, ET. SEQ., for Certificates of Environmental Compatibility Authorizing the Atlas Solar Tie Line Project in La Paz County, Arizona. ",
+      "docket_id": 26298,
+      "status": "Compliance Due",
+      "filed_date": "2022-03-30T08:55:31.08",
+      "decisions": [
+        {
+          "decision_number": 78621,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-07-12",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78620,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-07-12",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000B-22-0113-00204",
+      "case": "204",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Salt River Project Agricultural Improvement and Power District",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Salt River Project Agricultural Improvement and Power District, in Conformance with the Statutes, Sections 40-360, et. seq., for a Certificate of Environmental Compatibility Authorizing Project Huckleberry, an Approximately Half-Mile 230 KV Double Circuit Transmission Line and Associated Interconnection Facilities Within the City of Mesa, Maricopa County, Arizona.",
+      "docket_id": 26336,
+      "status": "Compliance Due",
+      "filed_date": "2022-05-10T08:00:08.207",
+      "decisions": [
+        {
+          "decision_number": 78669,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-08-22",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21204A-22-0228-00206",
+      "case": "206",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "West Camp Wind Farm, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of West Camp Wind Farm, LLC, in Conformance with the Requirements of Arizona Revised Statutes, Sections 40-360, et. seq., for Certificates of Environmental Compatibility Authorizing the West Camp Wind Gen-Tie Project, a 345 KV or 500 KV Transmission Line and Associated Interconnection Facilities within Navajo County, Arizona. ",
+      "docket_id": 26489,
+      "status": "Compliance Due",
+      "filed_date": "2022-08-29T08:58:49.273",
+      "decisions": [
+        {
+          "decision_number": 78811,
+          "decision_type": "Decision",
+          "decision_date": "2022-12-15",
+          "agenda_id": 1257,
+          "agenda_item_id": 4091
+        },
+        {
+          "decision_number": 78810,
+          "decision_type": "Decision",
+          "decision_date": "2022-12-15",
+          "agenda_id": 1257,
+          "agenda_item_id": 4091
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21206A-22-0243-00207",
+      "case": "207",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Maricopa Energy Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Maricopa Energy Center, LLC, or its Assignees, in Conformance with the Requirements of A.R.S. \u00a7 40-0360 et. seq., for a Certificate of Environmental Compatibility Authorizing the Maricopa Energy Center 500KV Transmission Line Project.",
+      "docket_id": 26507,
+      "status": "Compliance Due",
+      "filed_date": "2022-09-09T09:42:09.427",
+      "decisions": [
+        {
+          "decision_number": 78809,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2022-12-15",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21207A-22-0252-00208",
+      "case": "208",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Sierra Estrella Energy Storage, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Sierra Estrella Energy Storage, LLC, in Conformance with the Requirements of A.R.S. \u00a7 40-0360 et. seq., for two Certificate of Environmental Compatibility granting authority to construct the Sierra Estrella 230-kilovolt Gen-Tie Project and associated substation.",
+      "docket_id": 26516,
+      "status": "Compliance Due",
+      "filed_date": "2022-09-22T16:47:34.037",
+      "decisions": [
+        {
+          "decision_number": 78833,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-01-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78832,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-01-24",
+          "agenda_id": 1259,
+          "agenda_item_id": 4137
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-22-0253-00209",
+      "case": "209",
+      "calendar_case_mentioned_under": "210",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85281"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Arizona Public Service Company, in Conformance with the Requirements of Arizona Revised Statutes 40-360, Et Seq., for a Certificate of Environmental Compatibility Authorizing the Runway Transmission Project, Which Consists of a New, Approximately 4.5-Mile-Long, Double-Circuit 230 Kv Transmission Line Connecting the Existing and Planned Expansion of the APS 230 Kv Runway Substation Located Northeast of West Broadway Road and South Bullard Avenue in Goodyear, Maricopa County, Arizona to the Existing APS White Tanks to West Phoenix 230 Kv Transmission Line.",
+      "docket_id": 26517,
+      "status": "Compliance Due",
+      "filed_date": "2022-09-29T13:41:40.84",
+      "decisions": [
+        {
+          "decision_number": 82110,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2026-08-28",
+          "agenda_id": 2357,
+          "agenda_item_id": 6389
+        },
+        {
+          "decision_number": 78834,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-01-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21185A-22-0273-00211",
+      "case": "211",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "HV Sunrise, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of HV Sunrise, LLC, in Conformance with the Requirements of Arizona Revised Statues 40-360, ET SEQ., for a Certificate of Environmental Compatibility Authorizing Construction of Substations and 500-KV Intertie Transmission Lines Connecting a New PhotoVoltaic Solar Power Plant and Battery Storage to the APS Delaney Substation in Maricopa County, Arizona.",
+      "docket_id": 26546,
+      "status": "Compliance Due",
+      "filed_date": "2022-10-21T13:56:11.21",
+      "decisions": [
+        {
+          "decision_number": 78850,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-02-15",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21213A-22-0300-00212",
+      "case": "212",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Eleven Mile Solar Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Eleven Mile Solar Center, LLC in Conformance with the Requirements of Arizona Revised Statutes 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Construction of a 230 kV Transmission Line of Approximately .3 Mile in length needed to connect to the Pinal Central Substation in Pinal County, Arizona.",
+      "docket_id": 26574,
+      "status": "Open",
+      "filed_date": "2022-12-02T13:12:42.847",
+      "decisions": [
+        {
+          "decision_number": 78892,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-03-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78891,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-03-23",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000A-22-0313-00213",
+      "case": "213",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Yuma bn, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Yuma bn, LLC, in conformance with the requirements of Arizona revised statutes, sections 40-360, et seq,. For Certificates of Environmental Compatibility authorizing the Orchard Solar 230 KV Transmission Line Project and associated interconnection facilities located in Yuma County, Arizona.",
+      "docket_id": 26600,
+      "status": "Compliance Due",
+      "filed_date": "2022-12-19T12:46:21.3",
+      "decisions": [
+        {
+          "decision_number": 78893,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-03-23",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 78894,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-03-23",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-23-0011-00214",
+      "case": "214",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Arizona Public Service Company, in Conformance with the Requirements of Arizona Revised Statues 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing Construction of an Approximately 0.6 Mile 500 Kilovolt (KV) Interconnection Transmission Line and Amending CEC 135 to Authorize use of a New Transmission Structure Type that will Connect the Proving Ground Solar+Storage Project to the Hoodoo Wash Switchyard  Located near Dateland, Arizona within Unincorporated Yuma County, Arizona.",
+      "docket_id": 26636,
+      "status": "Compliance Due",
+      "filed_date": "2023-01-05T07:53:54.753",
+      "decisions": [
+        {
+          "decision_number": 78914,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-04-17",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21220A-23-0019-00215",
+      "case": "215",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "THSI BN, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of THSI BN. LLC, in conformance with the requirements of Arizona Revised Statutes, Sections 40-360, ET SEQ for a Certificate of Environmental Compatibility Authorizing the Three Sisters Solar 230 Kilovolt Gen-Tie Project located in Cochise County, Arizona.",
+      "docket_id": 26645,
+      "status": "Compliance Due",
+      "filed_date": "2023-01-19T08:08:37.543",
+      "decisions": [
+        {
+          "decision_number": 78913,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-04-17",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21223A-23-0029-00216",
+      "case": "216",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Scatter Wash Energy Storage, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Scatter Wash Energy Storage, LLC in Conformance with the Requirements of Arizona Revised Statues 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Construction of a 230kV Alternating Current Generation-Intertie Line of Approximately .15 mile in length to the Scatter Wash Substation in Phoenix, Arizona. ",
+      "docket_id": 26655,
+      "status": "Closed",
+      "filed_date": "2023-02-01T15:28:38.427",
+      "decisions": [
+        {
+          "decision_number": 79560,
+          "decision_type": "Decision - Directing the Administrative Closure of the Docket",
+          "decision_date": "2024-10-02",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21229A-23-0050-00217",
+      "case": "217",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Upstream HC-1 LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Upstream HC-1 LLC for the approval of a Certificate of Environmental Compatibility for construction of the Centennial Flats Transmission Line Project. The project includes a new collector substation and associated 500 kilovolt (kV) transmission line in eastern La Paz County, Arizona, The project would connect with the applicant's hybrid solar photovoltaic and battery power plants referred to as Centennial Flats. The project would transmit clean and renewable electricity generated by the generating facilities to the nearby Cielo Azul Switchyard. ",
+      "docket_id": 26687,
+      "status": "Compliance Due",
+      "filed_date": "2023-02-21T07:30:37.75",
+      "decisions": [
+        {
+          "decision_number": 78957,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-05-09",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000F-23-0060-00218",
+      "case": "218",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "UNS Electric, Inc.",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of UNS Electric, Inc., in Conformance with the Requirements of A.R.S. 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Rio Rico to Harshaw 138 Kilovolt (KV) Transmission Line Project, Which Includes the Construction of a New 138 KV Transmission Line Originating at the Planned Rio Rico Switchyard (Section 12, Township 23 S, Range 13 E) and Terminating at the Planned Harshaw Substation (Section 32, Township 22 S, Range 16 E), Each Located within Santa Cruz County, Arizona.",
+      "docket_id": 26700,
+      "status": "Compliance Due",
+      "filed_date": "2023-03-03T13:34:48.473",
+      "decisions": [
+        {
+          "decision_number": 79005,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-06-29",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        },
+        {
+          "decision_number": 79004,
+          "decision_type": "Decision",
+          "decision_date": "2023-06-28",
+          "agenda_id": 1279,
+          "agenda_item_id": 4326
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21241A-23-0102-00220",
+      "case": "220",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "315PC 8me LLC (Booth Hills Transmission Project)",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of 315PC 8me LLC, in conformance with the requirements of A.R.S. \u00a7 40-360, et seq., for Certificates of Environmental Compatibility authorizing the booth hills transmission project and associated interconnection facilities, located within Maricopa County and Pinal County, Arizona. ",
+      "docket_id": 27753,
+      "status": "Compliance Due",
+      "filed_date": "2023-04-21T13:22:40.443",
+      "decisions": [
+        {
+          "decision_number": 79073,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-08-25",
+          "agenda_id": 1282,
+          "agenda_item_id": 4384
+        },
+        {
+          "decision_number": 79072,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-08-25",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21242A-23-0103-00221",
+      "case": "221",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "311Sv 8me LLC (Catclaw Solar)",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of 311sv 8me LLC in Conformance with the Requirements of Arizona Revised Statutes 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Construction of the Catclaw Solar 230-kilovolt (kV0 Generation Intertie Project) Located in Buckeye, Maricopa County, Arizona. ",
+      "docket_id": 27754,
+      "status": "Compliance Due",
+      "filed_date": "2023-04-24T07:16:54.173",
+      "decisions": [
+        {
+          "decision_number": 79074,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-08-25",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21254A-23-0184-00222",
+      "case": "222",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Aurora Solar LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Aurora Solar LLC , a wholly owned subsidiary of Avangrid Renewables LLC (Avangrid) for its application for the approval of two separate Certificated of Environmental Capability for a proposed 230-kilovolt (kV) alternating current generation transmission tie-in line (Gen-Tie Line) and associated substation facilities (collectively, \"Project\") located in unincorporated Navajo County, Arizona. The proposed project will interconnect directly into the Arizona Public Service Company (APS) owned 230-kC Cholla substation located at the Cholla Power Plant. Two CECs are required to address ownership of separate portions of the Gen-Tie Line. The applicant will own the portion of the Gen-Tie Line from the generation source to the fence/property line of the Cholla Substation (\"CEC-1\"). APS will own the portion of the Gen-Tie Line inside the fence/property line of the Cholla Substation (\"CEC-2\").  The Project will deliver electricity from the applicant's planned Obed Meadow Solar Project (Solar Facility), an up to 200-megawatt (MW) nameplate capacity solar photovoltaic power plant that may be paired with an optional 200-MW battery energy storage system.  ",
+      "docket_id": 27843,
+      "status": "Compliance Due",
+      "filed_date": "2023-06-23T08:41:39.91",
+      "decisions": [
+        {
+          "decision_number": 79187,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-12-12",
+          "agenda_id": 1289,
+          "agenda_item_id": 4469
+        },
+        {
+          "decision_number": 79188,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-12-12",
+          "agenda_id": 1289,
+          "agenda_item_id": 4469
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21256A-23-0199-00223",
+      "case": "223",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Winchester Transmission, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Winchester Transmission, LLC in conformance with the requirements of Arizona Revised Statutes, Sections 40-360, et. seq. for a Certificate of Environmental Compatibility Authorizing the Winchester Transmission Project located in Cochise County, Arizona.",
+      "docket_id": 27872,
+      "status": "Compliance Due",
+      "filed_date": "2023-06-30T15:16:50.003",
+      "decisions": [
+        {
+          "decision_number": 79190,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-12-12",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21260A-23-0218-00224",
+      "case": "224",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "1886 Solar Energy Station LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of 1886 Solar Energy Station LLC, in conformance with the requirements of Arizona revised statutes, sections 40-360, ET. SEQ., for a certificate of environmental compatibility authorizing the 1886 solar energy station interconnection project located in Coconino county , Arizona ",
+      "docket_id": 27894,
+      "status": "Compliance Due",
+      "filed_date": "2023-07-24T11:26:09.657",
+      "decisions": [
+        {
+          "decision_number": 79166,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-11-03",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21261A-23-0219-00225",
+      "case": "225",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "RWE Renewables Development, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of RWE Renewables Development, LLC., in conformance with the requirements of Arizona Revised Statues, Sections 40-360, ET., seq., for a certificates of Environmental Compatibility authorizing the forged ethic wind energy Interconnection project located in Coconino County, Arizona.",
+      "docket_id": 27897,
+      "status": "Open Meeting",
+      "filed_date": "2023-07-24T13:19:32.437",
+      "decisions": [
+        {
+          "decision_number": 79168,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-11-03",
+          "agenda_id": 1288,
+          "agenda_item_id": 4454
+        },
+        {
+          "decision_number": 79167,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2023-11-03",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21265A-23-0236-00226",
+      "case": "226",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Sawtooth Solar, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Sawtooth Solar LLC in Conformance with the Requirements of Arizona Revised Statutes, Sections 40-360. et. seq., for a Certificate of Environmental Compatibility Authorizing the Sawtooth Solar 230KV Generation Intertie Project Located in Pinal County, Arizona. ",
+      "docket_id": 27917,
+      "status": "Compliance Due",
+      "filed_date": "2023-08-11T13:13:07.53",
+      "decisions": [
+        {
+          "decision_number": 79621,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2024-12-17",
+          "agenda_id": 1316,
+          "agenda_item_id": 4809
+        },
+        {
+          "decision_number": 79249,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-01-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21282A-23-0326-00228",
+      "case": "228",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Wilmot Energy Center II, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Wilmot Energy Center II, LLC, in Conformance with the Requirements of Arizona Revised Statues 40-360, Et Seq., for a Certificate of Environmental Compatibility Authorizing Construction of the Wilmot Energy Center II Interconnection Project Connecting the Planned Wilmot Energy Center II Solar Energy Generating Station and Battery Energy Storage System to the Regional Electrid Grid through the existing, Tucson Electric Power, 138 KV CISNE Switch-Yard, all located within the City of Tucson and Pima County, Arizona.",
+      "docket_id": 28039,
+      "status": "Compliance Due",
+      "filed_date": "2023-12-01T15:28:51.413",
+      "decisions": [
+        {
+          "decision_number": 79317,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-03-15",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21284A-23-0335-00229",
+      "case": "229",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Sundog Energy Center LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the Application of Sundog Energy Center LLC, in Conformance with the Requirements of Arizona Revised Statutes, Sections 40-360. Et. Seq., for Certificate of Environmental Compatibility Authorizing the Sundog Solar 230KV Generation Tie Line Project Located in Pinal County, Arizona.",
+      "docket_id": 28049,
+      "status": "Compliance Due",
+      "filed_date": "2023-12-20T08:29:09.04",
+      "decisions": [
+        {
+          "decision_number": 81410,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2025-07-23",
+          "agenda_id": 1330,
+          "agenda_item_id": 5014
+        },
+        {
+          "decision_number": 79316,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-03-15",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000F-24-0056-00230",
+      "case": "230",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "UNS Electric, Inc.",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of UNS Electric, Inc. in Conformance with the Requirements of A.R.S. \u00a7 40-360, et seq., for a Disclaimer of Jurisdiction, or, in the Alternative, a Certificate of Environmental Compatibility Authorizing the Expansion of Black Mountain Generating Station, a Natural Gas-Fired, Combustion Turbine Power Plant near Kingman, Arizona in Mohave County.",
+      "docket_id": 28124,
+      "status": "Compliance Due",
+      "filed_date": "2024-03-08T07:54:36.56",
+      "decisions": [
+        {
+          "decision_number": 79388,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-06-20",
+          "agenda_id": 1301,
+          "agenda_item_id": 4663
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21304A-24-0098-00231",
+      "case": "231",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Harquahala Complex HoldCo, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Harquahala Complex HoldCo, LLC in Conformance with the Requirements of A.R.S. \u00a7 40-360, et seq., for a Certificate of Environmental Compatibility for the purposed Harquahala Sun Expansion Generation Transmission Line which includes one 500 kilovolt (kv) alternating current generating transmission tie-in line (Gen-tie) and associated switchyard facilities (Project Switchyard) designed  to deliver clean, renewable electricity generated by Phase V of the Harquahala Sun Project, a serious of hybrid solar photovoltaic and battery storage power plants located in Harquahala Valley in west Maricopa County, Arizona . ",
+      "docket_id": 28170,
+      "status": "Compliance Due",
+      "filed_date": "2024-05-03T10:51:07.137",
+      "decisions": [
+        {
+          "decision_number": 79467,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-08-15",
+          "agenda_id": 1305,
+          "agenda_item_id": 4691
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000C-24-0118-00232",
+      "case": "232",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Tucson Electric Power Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Tucson Electric Power Company, in conformance with the requirements of A.R.S. 40-360, ET SEQ., for a Certificate of Environmental Compatability authorizing the midtown reliability project, which includes the construction of a new 138 KV transmission line originating at the existing Demoss-Petrie Substation (section 35, township 13 south, range 13 east), with an interconnection at the planned Vine substation (section 06, township 14 south, range 14 east), and terminating at the existing Kino substation (section 30, township 14 south, range 14 east), each located within the city of Tucson, Pima County, Arizona.",
+      "docket_id": 28198,
+      "status": "Compliance Due",
+      "filed_date": "2024-05-24T11:22:53.017",
+      "decisions": [
+        {
+          "decision_number": 79550,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-09-13",
+          "agenda_id": 1308,
+          "agenda_item_id": 4737
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21314A-24-0144-00233",
+      "case": "233",
+      "calendar_case_mentioned_under": "241",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85004",
+        "85395"
+      ],
+      "found_in_edocket": true,
+      "company": "Pinal County Energy Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of  Pinal County Energy Center, LLC for approval of a Certificate of Environmental Compatibility for Project Bella consisting of up to 480 Megawatt (MW) of natural gas-fired electric generation and a grid charged 440-MW Battery Energy Storage System.",
+      "docket_id": 28267,
+      "status": "Compliance Due",
+      "filed_date": "2024-06-28T09:04:05.853",
+      "decisions": [
+        {
+          "decision_number": 79587,
+          "decision_type": "Decision - Dissenting Opinion",
+          "decision_date": "2024-10-21",
+          "agenda_id": 1312,
+          "agenda_item_id": 4781
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-24-0156-00234",
+      "case": "234",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Arizona Public Service Compasny, in conformance with the requirements of Arizona revised statues 40-360, ET SEQ., for a Certificate of Environmental Compatibility authorizing the Redhawk Power Plant Expansion Project, which includes the construction of Natural Gas Turbines, a 500kV switchyard and related facilities, all located two miles Southeast of the intersection of Elliot Road and Wintersburg Road in Maricopa County, Arizona.",
+      "docket_id": 28279,
+      "status": "Compliance Due",
+      "filed_date": "2024-07-08T08:55:41.647",
+      "decisions": [
+        {
+          "decision_number": 79586,
+          "decision_type": "Decision - Dissenting Opinion",
+          "decision_date": "2024-10-21",
+          "agenda_id": 1312,
+          "agenda_item_id": 4780
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21322A-24-0208-00235",
+      "case": "235",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Atlas North, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Atlas North, LLC, in conformance with the requirements of Arizona revised statues \u00a7 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Atlas North Generating Tie Line Project, located in La Paz County, Arizona. ",
+      "docket_id": 29335,
+      "status": "Compliance Due",
+      "filed_date": "2024-09-03T15:55:32.437",
+      "decisions": [
+        {
+          "decision_number": 79618,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-12-18",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21323A-24-0209-00236",
+      "case": "236",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Eagl, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Eagl, LLC, in conformance with the requirements of Arizona Revised Statutes \u00a740-0360, et seq., for a Certificate of Environmental Compatibility Authorizing the Eagle Eye Solar Generation Tie Line Project, located in La Paz County, Arizona. ",
+      "docket_id": 29336,
+      "status": "Compliance Due",
+      "filed_date": "2024-09-03T16:22:07.66",
+      "decisions": [
+        {
+          "decision_number": 82109,
+          "decision_type": "Decision - Amends a Previous Decision",
+          "decision_date": "2026-08-28",
+          "agenda_id": 2357,
+          "agenda_item_id": 6388
+        },
+        {
+          "decision_number": 79644,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-12-31",
+          "agenda_id": 1317,
+          "agenda_item_id": 4836
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21324A-24-0210-00237",
+      "case": "237",
+      "calendar_case_mentioned_under": "238",
+      "project": "\u201cACC\u201d or \u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Ajo",
+        "Avondale",
+        "Gila Bend",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85007",
+        "85122",
+        "85128",
+        "85132",
+        "85193",
+        "85323",
+        "85365",
+        "85390",
+        "85395",
+        "85621",
+        "85643",
+        "85711",
+        "86001"
+      ],
+      "found_in_edocket": true,
+      "company": "Selma Energy Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Selma Energy Center, LLC in Conformance with the Requirements of Arizona Revised Statutes 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Selma Solar Project Generation Tie Line, Which Consists of a New, Approximately 2.3 to 2.9 Mile Long, 230 KV Transmission Line Connecting the Planned Selma Energy Center Located West of Highway 87 Near the Intersection of East Selma Highway and Highway 87 in Unincorporated Pinal County, Arizona to the Existing Salt River Project Vah Ki Substation.",
+      "docket_id": 29337,
+      "status": "Compliance Due",
+      "filed_date": "2024-09-04T10:19:56.457",
+      "decisions": [
+        {
+          "decision_number": 79622,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-12-17",
+          "agenda_id": 1316,
+          "agenda_item_id": 4810
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-24-0218-00238",
+      "case": "238",
+      "calendar_case_mentioned_under": "239",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85339"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Arizona Public Service Company, in conformance with the requirements of Arizona revised statues 40-360, ET SEQ., for a Certificate of Environmental Compatibility authorizing the Bagdad 230 kilovolt (kV) Transmission Line Project, APS plans to construct a single circuit 230kV transmission line which will connect a new substation adjacent to the existing Willow Lake 115kV powerline approximately one mile east of the Town of Bagdad, Arizona.",
+      "docket_id": 29346,
+      "status": "Compliance Due",
+      "filed_date": "2024-09-16T13:25:42.58",
+      "decisions": [
+        {
+          "decision_number": 79645,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2024-12-31",
+          "agenda_id": 1317,
+          "agenda_item_id": 4837
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000B-24-0223-00239",
+      "case": "239",
+      "calendar_case_mentioned_under": "241",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85004",
+        "85395"
+      ],
+      "found_in_edocket": true,
+      "company": "Salt River Project Agricultural Improvement and Power District",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Salt River Project Agricultural Improvement and Power District, in conformance with the requirements of Arizona Revised Statutes \u00a7 40-360, et. seq., for a Certificate of Environmental Compatibility authorizing  the Sourth Mountain Transmission Project, which includes the construction of two new 230 kV double-circuit transmission lines that will interconnect the existing double-circuit Anderson-Orme transmission line to a new substation, each located with the city of Phoenix, Maricopa County, Arizona.",
+      "docket_id": 29354,
+      "status": "Compliance Due",
+      "filed_date": "2024-09-26T11:31:46.847",
+      "decisions": [
+        {
+          "decision_number": 79665,
+          "decision_type": "Decision",
+          "decision_date": "2025-01-22",
+          "agenda_id": 1318,
+          "agenda_item_id": 4842
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21330A-24-0241-00240",
+      "case": "240",
+      "calendar_case_mentioned_under": "241",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85004",
+        "85395"
+      ],
+      "found_in_edocket": true,
+      "company": "Snowflake Solar, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Snowflake Solar, LLC for approval of a Certificate of Environmental Compatibility for the Snowflake Solar Interconnection Project to connect the planned Snowflake Solar Energy Facility to the regional grid via the Cholla Substation.",
+      "docket_id": 29379,
+      "status": "Compliance Due",
+      "filed_date": "2024-10-25T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 79717,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-02-19",
+          "agenda_id": 1319,
+          "agenda_item_id": 4862
+        },
+        {
+          "decision_number": 79718,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-02-19",
+          "agenda_id": 1319,
+          "agenda_item_id": 4862
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21340A-24-0260-00241",
+      "case": "241",
+      "calendar_case_mentioned_under": "241",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": true,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85004",
+        "85395"
+      ],
+      "found_in_edocket": true,
+      "company": "Harquahala Flats Energy Storage, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Harquahala Flats Energy Storage, LLC in Conformance with the Requirements of Arizona Revised Statutes 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Harquahala Flats Battery Energy Storage System Interconnection Project. Which consists of a new, approximately 2.9-mile-long, 500kv transmission line connecting the planned Harquahala Flats Battery Energy Storage System Project located in unincorporated Maricopa County, Arizona, to the existing Arizona Public Service Delaney Substation. ",
+      "docket_id": 29406,
+      "status": "Compliance Due",
+      "filed_date": "2024-11-26T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 80104,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-03-20",
+          "agenda_id": 1322,
+          "agenda_item_id": 4883
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000F-24-0270-00242",
+      "case": "242",
+      "calendar_case_mentioned_under": "243",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007"
+      ],
+      "found_in_edocket": true,
+      "company": "UNS Electric, Inc.",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of UNS Electric, Inc., in Conformance with the Requirements of A.R.S. \u00a7 40-360, ET. SEQ., for a Certificate of Environmental Compatibility Authorizing the Black Mountain to Griffith  230KV GEN-TIE Project, which includes the Construction of a new 230KV Transmission Line Originating at the Existing Black Mountain Generating Station (Section 14, Township 19 North, Range 18 West), and Terminating at the Existing Griffith Substation, Operated by Western Area Power Administration (Section 06, Township 19 North, Range 17 West), Located within Unincorporated Mohave County, Arizona.",
+      "docket_id": 29424,
+      "status": "Compliance Due",
+      "filed_date": "2024-12-20T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 80882,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-05-12",
+          "agenda_id": 1326,
+          "agenda_item_id": 4948
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21344A-24-0273-00243",
+      "case": "243",
+      "calendar_case_mentioned_under": "244",
+      "project": "\u201cACC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007"
+      ],
+      "found_in_edocket": true,
+      "company": "Ranegras Plains Energy Center, LLC ",
+      "docket_type": "Line Siting Committee",
+      "description": "In The Matter Of The Application Of Ranegras Plains Energy Center, LLC, Or Its Assignees, In Conformance With The Requirements Of A.R.S. \u00a7 40-360, Et Seq., For A Certificate Of Environmental Compatibility Authorizing The Ranegras Plains Energy Center 500kv Transmission Line.\n",
+      "docket_id": 29428,
+      "status": "Compliance Due",
+      "filed_date": "2024-12-20T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 80324,
+          "decision_type": "Decision",
+          "decision_date": "2025-04-07",
+          "agenda_id": 1323,
+          "agenda_item_id": 4908
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21348A-25-0015-00244",
+      "case": "244",
+      "calendar_case_mentioned_under": "245",
+      "project": "\u201cCommission\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "86333"
+      ],
+      "found_in_edocket": true,
+      "company": "Juniper Spring Solar, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Juniper Spring Solar, LLC in Conformance with the Requirements of Arizona Revised Statutes, Sections 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Juniper Spring Solar Interconnect Project Located in Apache County, Arizona.",
+      "docket_id": 29451,
+      "status": "Compliance Due",
+      "filed_date": "2025-01-24T16:00:55.84",
+      "decisions": [
+        {
+          "decision_number": 80681,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-04-29",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21350A-25-0025-00245",
+      "case": "245",
+      "calendar_case_mentioned_under": "320",
+      "project": "\u201cCEC\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85004"
+      ],
+      "found_in_edocket": true,
+      "company": "Agua Fria Solar, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Agua Fria Solar, LLC, in Conformance with the Requirements of Arizona Revised Statutes \u00a7 40-360, ET SEQ., for a Certificate of Environmental Compatibility Authorizing the Agua Fria Gen-Tie Project, Which Includes the Construction of a Double Circuit Capable 500 Kilovolt(KV) Transmission Gen-Tie Line Located within Yavapai County, Arizona",
+      "docket_id": 29461,
+      "status": "Compliance Due",
+      "filed_date": "2025-02-06T09:06:32.937",
+      "decisions": [
+        {
+          "decision_number": 80881,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-05-12",
+          "agenda_id": 1326,
+          "agenda_item_id": 4947
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000C-25-0094-00246",
+      "case": "246",
+      "calendar_case_mentioned_under": "247",
+      "project": "APS Pinal Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85122",
+        "85743"
+      ],
+      "found_in_edocket": true,
+      "company": "Tucson Electric Power Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of  Tucson Electric Power Company in conformance with the requirements of A.R.S. \u00a7 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Northwest Marana Reliability Project, which includes the construction of a new 138KV transmission line and switchyard within the Town of Marana, unincorporated Pinal County, Arizona. ",
+      "docket_id": 29539,
+      "status": "Compliance Due",
+      "filed_date": "2025-05-02T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81428,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-08-20",
+          "agenda_id": 1332,
+          "agenda_item_id": 5024
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-25-0154-00247",
+      "case": "247",
+      "calendar_case_mentioned_under": "248",
+      "project": "Harquahala North Transmission Line Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85323"
+      ],
+      "found_in_edocket": true,
+      "company": "Arizona Public Service Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Arizona Public Service Company, in conformance with the requirements of A.R.S. \u00a7 40-360 ET SEQ., for a Certificate of Environmental Compatibility authorizing the construction of a section of the Pinal Electrical Improvement Project consisting of approximately 20 miles of a new double-circuit 230KV transmission line which originates at the Milligan Substation and Terminates at the connection Point with the Sundance to Pinal Central 230KV transmission lie (CEC 136) located near the Pinal Central Substation, all located within Pinal County, Arizona. ",
+      "docket_id": 29605,
+      "status": "Compliance Due",
+      "filed_date": "2025-07-29T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81512,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-10-23",
+          "agenda_id": 2336,
+          "agenda_item_id": 6094
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21304A-25-0169-00248",
+      "case": "248",
+      "calendar_case_mentioned_under": "249",
+      "project": "RioSol to Saguaro Interconnect Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85718"
+      ],
+      "found_in_edocket": true,
+      "company": "Harquahala Complex HoldCo, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Harquahala Complex HoldCo, LLC in Conformance with the Requirements of Arizona Revised Statutes 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Harquahala North Transmission Line Project which includes a 500 kilovolt (kv) electric generation transmission  (Gen-tie) lime, 500 kilovolt (kv) electric transmission lines (T-lines), and associates switchyard facilities (Project Switchyard(s). The  Project will interconnect two existing Gen-tie lies previously approved by the Arizona Corporation Commission. ",
+      "docket_id": 29622,
+      "status": "Compliance Due",
+      "filed_date": "2025-08-15T11:01:17.14",
+      "decisions": [
+        {
+          "decision_number": 81564,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-11-21",
+          "agenda_id": 2339,
+          "agenda_item_id": 6137
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21328A-25-0186-00249",
+      "case": "249",
+      "calendar_case_mentioned_under": "250",
+      "project": "Lava Run Interconnection Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85935"
+      ],
+      "found_in_edocket": true,
+      "company": "El Rio Sol Transmission, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of El Rio Sol Transmission, LLC, in conformance with the requirements of Arizona revised statutes \u00a7 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Rio Sol To Saguaro interconnect project, which includes the construction of 500 kilovolt (KV) transmission lines and an associated switchyard located within Pinal County, Arizona. ",
+      "docket_id": 29639,
+      "status": "Compliance Due",
+      "filed_date": "2025-08-25T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81565,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2025-11-21",
+          "agenda_id": 2339,
+          "agenda_item_id": 6138
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21364A-25-0198-00250",
+      "case": "250",
+      "calendar_case_mentioned_under": "260",
+      "project": "\u201cCommittee\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007",
+        "85132",
+        "85140"
+      ],
+      "found_in_edocket": true,
+      "company": "CG Apache County Wind LLC ",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of CG Apache County Wind LLC and CG Apache County Solar LLC, in Conformance with the Requirements of Arizona Revised Statutes  \u00a7\u00a7 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the Construction of the Lava Run Interconnection Project, a 345-Kilovolt (KV) Alternating Current Generation Tie Transmission Line, with Associated Interconnection Facilities, Within Apache County, Arizona.",
+      "docket_id": 29652,
+      "status": "Open Meeting",
+      "filed_date": "2025-09-05T07:47:07.78",
+      "decisions": [
+        {
+          "decision_number": 81582,
+          "decision_type": "Decision",
+          "decision_date": "2025-12-10",
+          "agenda_id": 2340,
+          "agenda_item_id": 6166
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21204A-25-0207-00251",
+      "case": "251",
+      "calendar_case_mentioned_under": "252",
+      "project": "Santa Cruz Reliability Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85756"
+      ],
+      "found_in_edocket": true,
+      "company": "West Camp Wind Farm, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of West Camp Wind Farms, LLC, in Conformance with the Requirements of Arizona Revised Statutes \u00a7\u00a7 40-360, Et. Seq., for a Certificate of Environmental Compatibility Authorizing the West Camp 2 Wind Farm Gen-Tie Project, which includes the Construction of 345 Kilovalt (KV) OR 500 KV Transmission Line and Associated Connection Facilities Located With Navajo County, Arivona.",
+      "docket_id": 29662,
+      "status": "Compliance Due",
+      "filed_date": "2025-09-15T13:05:15.967",
+      "decisions": [
+        {
+          "decision_number": 81597,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-01-20",
+          "agenda_id": 2341,
+          "agenda_item_id": 6191
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000F-25-0209-00252",
+      "case": "252",
+      "calendar_case_mentioned_under": "253",
+      "project": "Project Baccara",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85020"
+      ],
+      "found_in_edocket": true,
+      "company": "UNS Electric, Inc.",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of UNS Electric, Inc. in conformance with the requirements of A.R.S. \u00a7 40-360, Et Seq., for a certificate of environment compatibility authorizing the Santa Cruz Reliability Project North, which includes the construction of a new 138 KV transmission line within unincorporated Pima County and Unincorporated Santa Cruz County, Arizona.   ",
+      "docket_id": 29664,
+      "status": "Compliance Due",
+      "filed_date": "2025-09-19T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81596,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-01-20",
+          "agenda_id": 2341,
+          "agenda_item_id": 6172
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21369A-25-0222-00253",
+      "case": "253",
+      "calendar_case_mentioned_under": "254",
+      "project": "Cactus Flower Solar Gen-Tie Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007"
+      ],
+      "found_in_edocket": true,
+      "company": "Baccara Power, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Baccara Power, LLC (Applicant), under Arizona Revised Statute (A.R.S.) \u00a7 40-360 et seq., for a Certificate of Environmental Compatibility (CEC) to\ndevelop Project Baccara (Project). The Applicant is requesting a CEC for up to 700 megawatts (MW) of natural gas-fired electric generation. The operation of the gas turbines will provide power to support adjacent load and the regional power grid.\n",
+      "docket_id": 29677,
+      "status": "Compliance Due",
+      "filed_date": "2025-10-17T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81642,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-02-12",
+          "agenda_id": 2342,
+          "agenda_item_id": 6208
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21370A-25-0228-00254",
+      "case": "254",
+      "calendar_case_mentioned_under": "255",
+      "project": "Chimney Canyon Gen-Tie Line Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "86004"
+      ],
+      "found_in_edocket": true,
+      "company": "Cypress Creek Renewables, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Cypress Creek Renewables, LLC, in Conformance with the Requirements of Arizona Revised Statutes \u00a7 40-360, ET SEQ., for a Certificate  Environmental Compatibility Authorizing the Cactus Flower Solar Gen-Tie Project, Located in Pinal County, Arizona. \n",
+      "docket_id": 29683,
+      "status": "Compliance Due",
+      "filed_date": "2025-10-24T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81643,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-02-12",
+          "agenda_id": 2342,
+          "agenda_item_id": 6209
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21367A-25-0232-00255",
+      "case": "255",
+      "calendar_case_mentioned_under": "256",
+      "project": "Eloy Valley Energy Center LLL Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85122"
+      ],
+      "found_in_edocket": true,
+      "company": "Chimney Canyon Solar, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Chimney Canyon Solar LLC in conformance with the requirements of Arizona Revised statutes \u00a7 40-360, et seq., for a certificate of environmental compatibility authorizing the Chimney Canyon Gen-Tie Line Project, which consists of up to two 500-KV or 345-KV gen-tie lines that will connect a utility-scale pv solar array and bess located 6.5 miles southwest of unincorporated Joseph City, Navajo County, Arizona, connecting the Chimney Canyon Solar and BESS facility to the existing Arizona Public Service Cholla substation and if necessary the planned Arizona Public Service Sitgreaves Switchyard.",
+      "docket_id": 29687,
+      "status": "Compliance Due",
+      "filed_date": "2025-11-06T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81628,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-02-13",
+          "agenda_id": 2342,
+          "agenda_item_id": 6194
+        },
+        {
+          "decision_number": 81627,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-02-12",
+          "agenda_id": 2342,
+          "agenda_item_id": 6193
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21375A-25-0252-00256",
+      "case": "256",
+      "calendar_case_mentioned_under": "257",
+      "project": "\u201cCommittee\u201d",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007",
+        "85122"
+      ],
+      "found_in_edocket": true,
+      "company": "Eloy Valley Energy Center III, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Eloy Valley Energy Center III, LLC in Conformance with the Requirements of Arizona Revised Statutes \u00a7 40-360, ET SEQ., for a Certificate Environmental Compatibility Authorizing the Eloy Valley Energy Center III Project, which consists of A 230-KV Gen-Tie lines that will connect a utility scale PV Solar Array, Bess and associated project substation located approximately eight miles south of Eloy, Pinal County, Arizona, connecting the Eloy Valley Energy Center III and Bess Facility to the existing western area power administration ED-5 substation. ",
+      "docket_id": 29708,
+      "status": "Compliance Due",
+      "filed_date": "2025-12-05T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81660,
+          "decision_type": "Decision",
+          "decision_date": "2026-03-10",
+          "agenda_id": 2346,
+          "agenda_item_id": 6235
+        }
+      ],
+      "procedural_records": 0,
+      "decided": true
+    },
+    {
+      "docket_number": "L-00000D-25-0258-00257",
+      "case": "257",
+      "calendar_case_mentioned_under": "250",
+      "project": "Lava Run Interconnection Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007",
+        "85925",
+        "85936",
+        "85938"
+      ],
+      "found_in_edocket": true,
+      "company": "APS",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of  Arizona Public Service Company, pursuant to Arizona Revised Statutes \u00a7 40-360 et seq. and associated administrative rules and regulations,\nArizona Public Service Company is seeking approval of a Certificate of Environmental Compatibility (CEC) granting authority to construct the Bianco Transmission Line Siting\nProject.\n",
+      "docket_id": 29715,
+      "status": "Compliance Due",
+      "filed_date": "2025-12-12T00:00:00",
+      "decisions": [
+        {
+          "decision_number": 81681,
+          "decision_type": "Decision - Certificate of Environmental Compatibility",
+          "decision_date": "2026-03-24",
+          "agenda_id": 0,
+          "agenda_item_id": 0
+        }
+      ],
+      "procedural_records": 1,
+      "decided": true
+    },
+    {
+      "docket_number": "L-21390A-26-0045-00260",
+      "case": "260",
+      "calendar_case_mentioned_under": "267",
+      "project": "SRP 230 kV Transmission Line Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Gila Bend",
+        "Marigold"
+      ],
+      "zips_in_notice": [
+        "85193"
+      ],
+      "found_in_edocket": true,
+      "company": "Silver King Solar LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the Matter of the Application of Silver King Solar LCC in Conformance with the Requirements of Arizona Revised Statutes 40-360, et. seq. for a Certificate of Environmental Compatibility Authorizing the Silver King Energy Center Interconnection Project, Located in Pinal County, Arizona. ",
+      "docket_id": 29778,
+      "status": "Continued Indefinitely",
+      "filed_date": "2026-03-03T08:42:04.217",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-21419A-26-0314-00266",
+      "case": "266",
+      "calendar_case_mentioned_under": "271",
+      "project": "Steele Energy Center Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85122"
+      ],
+      "found_in_edocket": true,
+      "company": "Sunridge Power LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of  Sunridge Power LLC, in conformance with the requirements of A.R.S. \u00a7 40-360, et seq., for a Certificate of Environmental Compatibility Authorizing the Sunridge Power Project, which includes the construction of a 1,360 MW Natural Gas-Fired, Combined Cycle Power Plant and Associated Five-Mile 500 KV Double-Circuit Capable Transmission Generation-Tie Line located within unincorporated Pinal County, Arizona. ",
+      "docket_id": 30057,
+      "status": "Pending Before Line Siting Committee",
+      "filed_date": "2026-07-24T00:00:00",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-00000B-26-0363-00267",
+      "case": "267",
+      "calendar_case_mentioned_under": "268",
+      "project": "Marigold Thermal Plant",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Gila Bend",
+        "Marigold"
+      ],
+      "zips_in_notice": [
+        "85193"
+      ],
+      "found_in_edocket": true,
+      "company": "Salt River Project Agricultural Improvement and Power District",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Salt River Project Agricultural Improvement and Power District (SRP) for a Certificate of Environmental Compatibility (CEC) in Comformance with the Requirements of Arizona Revised Statutes SS 40-360, et. seq., for a Certificate of Environmental Compatibility for Approximately Four and one-Half Miles of Two 230 KV Double-Circuit Transmission Lines Located in Pinal County, Arizona.  ",
+      "docket_id": 30106,
+      "status": "Open Meeting Pending",
+      "filed_date": "2026-08-14T00:00:00",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-00000B-26-0375-00268",
+      "case": "268",
+      "calendar_case_mentioned_under": "269",
+      "project": "TEP Southwest Reliability Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85701"
+      ],
+      "found_in_edocket": true,
+      "company": "Salt River Project Agricultural Improvement and Power District",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application for Salt River Project Agricultural Improvement and Power District, in conformance with the requirements of Arizona Revised Statutes \u00a7 40-360 et seq., for a certificate of environmental compatibility authorizing the Marigold Thermal Plant Project located in Pinal County, Arizona.",
+      "docket_id": 30119,
+      "status": "Open Meeting Pending",
+      "filed_date": "2026-08-18T00:00:00",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-00000C-26-0407-00269",
+      "case": "269",
+      "calendar_case_mentioned_under": "270",
+      "project": "Pegasus Interconnection Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85901"
+      ],
+      "found_in_edocket": true,
+      "company": "Tucson Electric Power Company",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application of Tucson Electric Power Company in conformance with the requirements of A.R.S.\u00a7 40-360,  ET Seq., for a certificate of environmental compatibility authorizing the 138 kilovolt (KV) Southwest Tucson Reliability Project, which includes the construction of a new 138 KV transmission line within the City of Tucson and Unincorporated Pima County, Arizona.",
+      "docket_id": 30152,
+      "status": "Pending Before Line Siting Committee",
+      "filed_date": "2026-09-18T00:00:00",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-21422A-26-0416-00270",
+      "case": "270",
+      "calendar_case_mentioned_under": "266",
+      "project": "Sunridge Power Project",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85007"
+      ],
+      "found_in_edocket": true,
+      "company": "Pegasus Generation, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application for Pegasus Generation, LLC, in conformance with the requirements of Arizona Revised Statutes \u00a7 40-360 et seq., for a certificate of environmental compatibility authorizing the Pegasus Interconnection Project located in Navajo County, Arizona. ",
+      "docket_id": 30161,
+      "status": "Pending Before Line Siting Committee",
+      "filed_date": "2026-09-28T00:00:00",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-21424A-26-0431-00271",
+      "case": "271",
+      "calendar_case_mentioned_under": "271",
+      "project": "Steele Energy Center Project",
+      "primary_docket_for_that_case": true,
+      "in_calendar": true,
+      "west_valley_places_named": [],
+      "zips_in_notice": [
+        "85122"
+      ],
+      "found_in_edocket": true,
+      "company": "Steele Energy Center, LLC",
+      "docket_type": "Line Siting Committee",
+      "description": "In the matter of the application for Steele Energy Center, LLC, in conformance with the requirements of Arizona Revised Statutes \u00a7 40-360 et seq., for a certificate of environmental compatibility to develop the Steele Energy Center (SEC or Project) for an approximately 1400 megawatts (MW) combined cycle natural gas-fired turbine (CCGT) power plant, which plans to connect previously permitted, RioSol 500 kV transmission line.",
+      "docket_id": 30177,
+      "status": "Pending Before Line Siting Committee",
+      "filed_date": "2026-10-15T00:00:00",
+      "decisions": [],
+      "procedural_records": 0,
+      "decided": false
+    },
+    {
+      "docket_number": "L-00000A-22-0102-00293",
+      "case": "293",
+      "calendar_case_mentioned_under": "209",
+      "project": "ACC or Commission",
+      "primary_docket_for_that_case": false,
+      "in_calendar": true,
+      "west_valley_places_named": [
+        "Avondale",
+        "Estrella",
+        "Goodyear",
+        "Harquahala"
+      ],
+      "zips_in_notice": [
+        "85122",
+        "85132",
+        "85201",
+        "85281",
+        "85301",
+        "85323",
+        "85395",
+        "85739",
+        "85743"
+      ],
+      "found_in_edocket": false,
+      "company": null,
+      "docket_type": null,
+      "description": null
+    }
+  ],
+  "summary": {
+    "dockets_queried": 78,
+    "found": 75,
+    "with_decisions": 67
+  }
+}

@@ -1,0 +1,1186 @@
+{
+  "taken": "2026-10-30T04:07:15+00:00",
+  "boxes_km": [
+    1.0,
+    2.0
+  ],
+  "how_to_read": "a buffer is every parcel the assessor holds inside a square of that half-width, in WGS84 degrees (this service refuses distance/units on a point query but answers an envelope). Medians are FullCashValue, which is this year's county valuation, not a sale price. Land is also expressed per acre, and the median construction year of the nearby housing is recorded so a value difference cannot be read as a location effect when it is a vintage effect.",
+  "targets": [
+    {
+      "name": "Rudd substation",
+      "detail": "APS 500/230 kV, OSM way 105031253, 12100 W Broadway, Avondale",
+      "lat": 33.40923,
+      "lon": -112.31778,
+      "kind": "substation",
+      "buffers": {
+        "1.0": {
+          "parcels": 1783,
+          "total_assessed_value_all_classes": 584514423,
+          "value_by_class_share_pct": {
+            "residential (built)": 75.9,
+            "commercial": 10.9,
+            "school land": 4.5,
+            "other": 3.1,
+            "other vacant land": 2.9,
+            "vacant residential land": 2.5,
+            "public land": 0.2
+          },
+          "classes": {
+            "residential (built)": {
+              "parcels": 1152,
+              "median_value": 378500,
+              "mean_value": 385287,
+              "quartile_1_value": 340650,
+              "total_value": 443851173,
+              "land_share_pct": 20.1,
+              "sales_total_recorded": 905,
+              "sales_in_window": 26,
+              "median_sale_price_in_window": 521354,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "commercial": {
+              "parcels": 5,
+              "median_value": 6501100,
+              "mean_value": 12772223,
+              "quartile_1_value": 1777009,
+              "total_value": 63861113,
+              "land_share_pct": 95.9,
+              "sales_total_recorded": 1,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2023-12-01"
+            },
+            "school land": {
+              "parcels": 1,
+              "median_value": 26262335,
+              "mean_value": 26262335,
+              "quartile_1_value": null,
+              "total_value": 26262335,
+              "land_share_pct": 6.6,
+              "sales_total_recorded": 0,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": null
+            },
+            "other": {
+              "parcels": 148,
+              "median_value": 500,
+              "mean_value": 121532,
+              "quartile_1_value": 500,
+              "total_value": 17986702,
+              "land_share_pct": 99.7,
+              "sales_total_recorded": 45,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2019-06-01"
+            },
+            "other vacant land": {
+              "parcels": 136,
+              "median_value": 126600,
+              "mean_value": 123830,
+              "quartile_1_value": 123100,
+              "total_value": 16840900,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 131,
+              "sales_in_window": 23,
+              "median_sale_price_in_window": 491995,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "vacant residential land": {
+              "parcels": 336,
+              "median_value": 6200,
+              "mean_value": 43885,
+              "quartile_1_value": 4900,
+              "total_value": 14745200,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 226,
+              "sales_in_window": 16,
+              "median_sale_price_in_window": 5140800,
+              "latest_recorded_sale": "2025-01-01"
+            },
+            "public land": {
+              "parcels": 5,
+              "median_value": 62400,
+              "mean_value": 193400,
+              "quartile_1_value": 20350,
+              "total_value": 967000,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 0,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": null
+            }
+          },
+          "roll_vintage_latest_sale": "2025-02-01",
+          "land and vintage": {
+            "vacant residential land": {
+              "with_acreage": 336,
+              "median_dollars_per_acre": 35803,
+              "median_acres": 0.17
+            },
+            "other vacant land": {
+              "with_acreage": 136,
+              "median_dollars_per_acre": 673333,
+              "median_acres": 0.19
+            },
+            "land legal classes": [
+              {
+                "land legal class": "PRIMARY RESIDENCE",
+                "parcels": 905,
+                "median value": 378800,
+                "median $/acre": 2658952,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "AG / VACANT LAND / NON-PROFIT R/P",
+                "parcels": 540,
+                "median value": 7500,
+                "median $/acre": 37106,
+                "median acres": 0.18
+              },
+              {
+                "land legal class": "NON-PRIMARY/NOT IN OTHER CLASSES RESID",
+                "parcels": 169,
+                "median value": 373600,
+                "median $/acre": 2549750,
+                "median acres": 0.16
+              },
+              {
+                "land legal class": "RESIDENTIAL COMMON AREAS - ARS 42-13403",
+                "parcels": 82,
+                "median value": 500,
+                "median $/acre": 1509,
+                "median acres": 0.33
+              },
+              {
+                "land legal class": "RESIDENTIAL RENTAL",
+                "parcels": 71,
+                "median value": 383600,
+                "median $/acre": 2683643,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "PRIMARY RESIDENCE OF QUAL FAM MEMBER",
+                "parcels": 9,
+                "median value": 235000,
+                "median $/acre": 946779,
+                "median acres": 0.25
+              },
+              {
+                "land legal class": "GAS AND ELECTRIC",
+                "parcels": 4,
+                "median value": 3678250,
+                "median $/acre": 239154,
+                "median acres": 18.54
+              },
+              {
+                "land legal class": "COMMERCIAL / OTHER R/P",
+                "parcels": 2,
+                "median value": 22030744,
+                "median $/acre": 232831,
+                "median acres": 108.79
+              }
+            ],
+            "residential built: parcels with a construction year": 1143,
+            "residential built: median construction year": 2021
+          }
+        },
+        "2.0": {
+          "parcels": 5911,
+          "total_assessed_value_all_classes": 1824542116,
+          "value_by_class_share_pct": {
+            "residential (built)": 80.1,
+            "school land": 6.3,
+            "commercial": 4.9,
+            "other": 2.7,
+            "vacant residential land": 2.5,
+            "other vacant land": 1.6,
+            "industrial": 1.1,
+            "public land": 0.8
+          },
+          "classes": {
+            "residential (built)": {
+              "parcels": 4101,
+              "median_value": 353750,
+              "mean_value": 356271,
+              "quartile_1_value": 315025,
+              "total_value": 1460711282,
+              "land_share_pct": 20.4,
+              "sales_total_recorded": 2830,
+              "sales_in_window": 45,
+              "median_sale_price_in_window": 460072,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "school land": {
+              "parcels": 8,
+              "median_value": 1980288,
+              "mean_value": 14312917,
+              "quartile_1_value": 615975,
+              "total_value": 114503337,
+              "land_share_pct": 12.0,
+              "sales_total_recorded": 2,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2002-10-01"
+            },
+            "commercial": {
+              "parcels": 33,
+              "median_value": 494148,
+              "mean_value": 2699170,
+              "quartile_1_value": 331816,
+              "total_value": 89072618,
+              "land_share_pct": 92.1,
+              "sales_total_recorded": 9,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-06-01"
+            },
+            "other": {
+              "parcels": 419,
+              "median_value": 500,
+              "mean_value": 120752,
+              "quartile_1_value": 500,
+              "total_value": 48663133,
+              "land_share_pct": 64.8,
+              "sales_total_recorded": 63,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-10-01"
+            },
+            "vacant residential land": {
+              "parcels": 890,
+              "median_value": 6200,
+              "mean_value": 52392,
+              "quartile_1_value": 4900,
+              "total_value": 46419200,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 329,
+              "sales_in_window": 75,
+              "median_sale_price_in_window": 5140800,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "other vacant land": {
+              "parcels": 425,
+              "median_value": 93800,
+              "mean_value": 69970,
+              "quartile_1_value": 13000,
+              "total_value": 29737200,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 191,
+              "sales_in_window": 40,
+              "median_sale_price_in_window": 440184,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "industrial": {
+              "parcels": 4,
+              "median_value": 5229850,
+              "mean_value": 5130175,
+              "quartile_1_value": 3791875,
+              "total_value": 20520700,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 0,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": null
+            },
+            "public land": {
+              "parcels": 31,
+              "median_value": 156100,
+              "mean_value": 481118,
+              "quartile_1_value": 23400,
+              "total_value": 14914646,
+              "land_share_pct": 84.6,
+              "sales_total_recorded": 0,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": null
+            }
+          },
+          "roll_vintage_latest_sale": "2025-02-01",
+          "land and vintage": {
+            "vacant residential land": {
+              "with_acreage": 883,
+              "median_dollars_per_acre": 37106,
+              "median_acres": 0.17
+            },
+            "other vacant land": {
+              "with_acreage": 425,
+              "median_dollars_per_acre": 653870,
+              "median_acres": 0.14
+            },
+            "land legal classes": [
+              {
+                "land legal class": "PRIMARY RESIDENCE",
+                "parcels": 3125,
+                "median value": 357800,
+                "median $/acre": 2326220,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "AG / VACANT LAND / NON-PROFIT R/P",
+                "parcels": 1551,
+                "median value": 8200,
+                "median $/acre": 37762,
+                "median acres": 0.16
+              },
+              {
+                "land legal class": "NON-PRIMARY/NOT IN OTHER CLASSES RESID",
+                "parcels": 490,
+                "median value": 364000,
+                "median $/acre": 2307656,
+                "median acres": 0.16
+              },
+              {
+                "land legal class": "RESIDENTIAL RENTAL",
+                "parcels": 439,
+                "median value": 327100,
+                "median $/acre": 2358467,
+                "median acres": 0.14
+              },
+              {
+                "land legal class": "RESIDENTIAL COMMON AREAS - ARS 42-13403",
+                "parcels": 217,
+                "median value": 500,
+                "median $/acre": 1283,
+                "median acres": 0.39
+              },
+              {
+                "land legal class": "PRIMARY RESIDENCE OF QUAL FAM MEMBER",
+                "parcels": 44,
+                "median value": 304300,
+                "median $/acre": 1346934,
+                "median acres": 0.21
+              },
+              {
+                "land legal class": "unclassified",
+                "parcels": 16,
+                "median value": null,
+                "median $/acre": null,
+                "median acres": 0.16
+              },
+              {
+                "land legal class": "COMMERCIAL / OTHER R/P",
+                "parcels": 10,
+                "median value": 2264236,
+                "median $/acre": 306427,
+                "median acres": 3.43
+              }
+            ],
+            "residential built: parcels with a construction year": 4078,
+            "residential built: median construction year": 2016
+          }
+        }
+      }
+    },
+    {
+      "name": "Orme substation",
+      "detail": "SRP 230 kV distribution, OSM way 86377610, 3032 S 59th Ave, Phoenix",
+      "lat": 33.42055,
+      "lon": -112.18794,
+      "kind": "substation",
+      "buffers": {
+        "1.0": {
+          "parcels": 1391,
+          "total_assessed_value_all_classes": 1176939210,
+          "value_by_class_share_pct": {
+            "warehousing": 47.3,
+            "residential (built)": 33.5,
+            "other": 8.0,
+            "industrial": 5.3,
+            "commercial": 3.1,
+            "school land": 1.8,
+            "public land": 0.9,
+            "vacant residential land": 0.0
+          },
+          "classes": {
+            "warehousing": {
+              "parcels": 11,
+              "median_value": 35705700,
+              "mean_value": 50568855,
+              "quartile_1_value": 13035900,
+              "total_value": 556257400,
+              "land_share_pct": 14.4,
+              "sales_total_recorded": 6,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-06-01"
+            },
+            "residential (built)": {
+              "parcels": 1238,
+              "median_value": 306300,
+              "mean_value": 318278,
+              "quartile_1_value": 284950,
+              "total_value": 394027909,
+              "land_share_pct": 20.6,
+              "sales_total_recorded": 794,
+              "sales_in_window": 14,
+              "median_sale_price_in_window": 354750,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "other": {
+              "parcels": 109,
+              "median_value": 500,
+              "mean_value": 875451,
+              "quartile_1_value": 500,
+              "total_value": 94548750,
+              "land_share_pct": 61.6,
+              "sales_total_recorded": 6,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2021-01-01"
+            },
+            "industrial": {
+              "parcels": 10,
+              "median_value": 824500,
+              "mean_value": 6249560,
+              "quartile_1_value": 46100,
+              "total_value": 62495600,
+              "land_share_pct": 26.9,
+              "sales_total_recorded": 4,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2022-10-01"
+            },
+            "commercial": {
+              "parcels": 13,
+              "median_value": 828421,
+              "mean_value": 2813381,
+              "quartile_1_value": 478700,
+              "total_value": 36573950,
+              "land_share_pct": 97.6,
+              "sales_total_recorded": 2,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2022-09-01"
+            },
+            "school land": {
+              "parcels": 1,
+              "median_value": 21468701,
+              "mean_value": 21468701,
+              "quartile_1_value": null,
+              "total_value": 21468701,
+              "land_share_pct": 17.3,
+              "sales_total_recorded": 0,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": null
+            },
+            "public land": {
+              "parcels": 7,
+              "median_value": 2067600,
+              "mean_value": 1573943,
+              "quartile_1_value": 176600,
+              "total_value": 11017600,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 1,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2016-08-01"
+            },
+            "vacant residential land": {
+              "parcels": 2,
+              "median_value": 274650,
+              "mean_value": 274650,
+              "quartile_1_value": null,
+              "total_value": 549300,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 1,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2016-08-01"
+            }
+          },
+          "roll_vintage_latest_sale": "2025-02-01",
+          "land and vintage": {
+            "vacant residential land": {
+              "with_acreage": 2,
+              "median_dollars_per_acre": 598399,
+              "median_acres": 0.71
+            },
+            "other vacant land": {
+              "with_acreage": 0,
+              "median_dollars_per_acre": null,
+              "median_acres": null
+            },
+            "land legal classes": [
+              {
+                "land legal class": "PRIMARY RESIDENCE",
+                "parcels": 782,
+                "median value": 308900,
+                "median $/acre": 2423689,
+                "median acres": 0.12
+              },
+              {
+                "land legal class": "RESIDENTIAL RENTAL",
+                "parcels": 345,
+                "median value": 303600,
+                "median $/acre": 2414203,
+                "median acres": 0.12
+              },
+              {
+                "land legal class": "NON-PRIMARY/NOT IN OTHER CLASSES RESID",
+                "parcels": 102,
+                "median value": 302250,
+                "median $/acre": 2206602,
+                "median acres": 0.13
+              },
+              {
+                "land legal class": "RESIDENTIAL COMMON AREAS - ARS 42-13403",
+                "parcels": 87,
+                "median value": 500,
+                "median $/acre": 1818,
+                "median acres": 0.28
+              },
+              {
+                "land legal class": "AG / VACANT LAND / NON-PROFIT R/P",
+                "parcels": 39,
+                "median value": 219600,
+                "median $/acre": 430112,
+                "median acres": 1.51
+              },
+              {
+                "land legal class": "COMMERCIAL / OTHER R/P",
+                "parcels": 20,
+                "median value": 17349150,
+                "median $/acre": 1107801,
+                "median acres": 14.77
+              },
+              {
+                "land legal class": "PRIMARY RESIDENCE OF QUAL FAM MEMBER",
+                "parcels": 9,
+                "median value": 298600,
+                "median $/acre": 2069983,
+                "median acres": 0.14
+              },
+              {
+                "land legal class": "MIXED LEGAL CLASS",
+                "parcels": 3,
+                "median value": 3334691,
+                "median $/acre": 333234,
+                "median acres": 12.53
+              }
+            ],
+            "residential built: parcels with a construction year": 1235,
+            "residential built: median construction year": 2002
+          }
+        },
+        "2.0": {
+          "parcels": 4608,
+          "total_assessed_value_all_classes": 3674811514,
+          "value_by_class_share_pct": {
+            "warehousing": 39.4,
+            "residential (built)": 34.1,
+            "other": 10.7,
+            "industrial": 6.0,
+            "school land": 4.6,
+            "commercial": 3.9,
+            "public land": 1.1,
+            "vacant residential land": 0.2
+          },
+          "classes": {
+            "warehousing": {
+              "parcels": 51,
+              "median_value": 15707100,
+              "mean_value": 28369551,
+              "quartile_1_value": 5246300,
+              "total_value": 1446847106,
+              "land_share_pct": 14.7,
+              "sales_total_recorded": 26,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-06-01"
+            },
+            "residential (built)": {
+              "parcels": 3944,
+              "median_value": 308200,
+              "mean_value": 317837,
+              "quartile_1_value": 285000,
+              "total_value": 1252276782,
+              "land_share_pct": 20.8,
+              "sales_total_recorded": 2457,
+              "sales_in_window": 51,
+              "median_sale_price_in_window": 350500,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "other": {
+              "parcels": 414,
+              "median_value": 500,
+              "mean_value": 950979,
+              "quartile_1_value": 500,
+              "total_value": 392754456,
+              "land_share_pct": 53.3,
+              "sales_total_recorded": 62,
+              "sales_in_window": 1,
+              "median_sale_price_in_window": 550000,
+              "latest_recorded_sale": "2025-01-01"
+            },
+            "industrial": {
+              "parcels": 52,
+              "median_value": 1824350,
+              "mean_value": 4259983,
+              "quartile_1_value": 760810,
+              "total_value": 221519109,
+              "land_share_pct": 36.2,
+              "sales_total_recorded": 27,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2022-10-01"
+            },
+            "school land": {
+              "parcels": 7,
+              "median_value": 20510248,
+              "mean_value": 24345926,
+              "quartile_1_value": 4006662,
+              "total_value": 170421479,
+              "land_share_pct": 12.6,
+              "sales_total_recorded": 2,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2007-10-01"
+            },
+            "commercial": {
+              "parcels": 88,
+              "median_value": 858050,
+              "mean_value": 1641840,
+              "quartile_1_value": 314800,
+              "total_value": 144481905,
+              "land_share_pct": 89.5,
+              "sales_total_recorded": 32,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2023-11-01"
+            },
+            "public land": {
+              "parcels": 27,
+              "median_value": 238300,
+              "mean_value": 1483629,
+              "quartile_1_value": 125000,
+              "total_value": 40057977,
+              "land_share_pct": 87.0,
+              "sales_total_recorded": 3,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2016-08-01"
+            },
+            "vacant residential land": {
+              "parcels": 25,
+              "median_value": 129600,
+              "mean_value": 258108,
+              "quartile_1_value": 75500,
+              "total_value": 6452700,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 5,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2020-02-01"
+            }
+          },
+          "roll_vintage_latest_sale": "2025-02-01",
+          "land and vintage": {
+            "vacant residential land": {
+              "with_acreage": 24,
+              "median_dollars_per_acre": 337918,
+              "median_acres": 0.55
+            },
+            "other vacant land": {
+              "with_acreage": 0,
+              "median_dollars_per_acre": null,
+              "median_acres": null
+            },
+            "land legal classes": [
+              {
+                "land legal class": "PRIMARY RESIDENCE",
+                "parcels": 2282,
+                "median value": 308700,
+                "median $/acre": 2437571,
+                "median acres": 0.12
+              },
+              {
+                "land legal class": "RESIDENTIAL RENTAL",
+                "parcels": 1223,
+                "median value": 308100,
+                "median $/acre": 2565943,
+                "median acres": 0.12
+              },
+              {
+                "land legal class": "NON-PRIMARY/NOT IN OTHER CLASSES RESID",
+                "parcels": 378,
+                "median value": 305800,
+                "median $/acre": 2306423,
+                "median acres": 0.13
+              },
+              {
+                "land legal class": "RESIDENTIAL COMMON AREAS - ARS 42-13403",
+                "parcels": 283,
+                "median value": 500,
+                "median $/acre": 2394,
+                "median acres": 0.21
+              },
+              {
+                "land legal class": "AG / VACANT LAND / NON-PROFIT R/P",
+                "parcels": 186,
+                "median value": 278700,
+                "median $/acre": 366666,
+                "median acres": 1.12
+              },
+              {
+                "land legal class": "COMMERCIAL / OTHER R/P",
+                "parcels": 154,
+                "median value": 2781628,
+                "median $/acre": 750941,
+                "median acres": 3.34
+              },
+              {
+                "land legal class": "PRIMARY RESIDENCE OF QUAL FAM MEMBER",
+                "parcels": 54,
+                "median value": 296250,
+                "median $/acre": 2183942,
+                "median acres": 0.14
+              },
+              {
+                "land legal class": "COMMERCIAL / MANUFACTURERS R/P AND P/P",
+                "parcels": 29,
+                "median value": 2555700,
+                "median $/acre": 1015876,
+                "median acres": 3.52
+              }
+            ],
+            "residential built: parcels with a construction year": 3941,
+            "residential built: median construction year": 2003
+          }
+        }
+      }
+    },
+    {
+      "name": "offset control",
+      "detail": "3.5 km north-west of Rudd in the same ZIP; no facility named in any filing read for this project",
+      "lat": 33.43506,
+      "lon": -112.3509,
+      "kind": "control",
+      "buffers": {
+        "1.0": {
+          "parcels": 2215,
+          "total_assessed_value_all_classes": 1171488663,
+          "value_by_class_share_pct": {
+            "residential (built)": 42.9,
+            "other": 16.6,
+            "warehousing": 15.7,
+            "industrial": 11.4,
+            "school land": 5.8,
+            "commercial": 5.7,
+            "public land": 1.4,
+            "vacant residential land": 0.5
+          },
+          "classes": {
+            "residential (built)": {
+              "parcels": 1563,
+              "median_value": 243000,
+              "mean_value": 321568,
+              "quartile_1_value": 220100,
+              "total_value": 502610959,
+              "land_share_pct": 20.4,
+              "sales_total_recorded": 741,
+              "sales_in_window": 11,
+              "median_sale_price_in_window": 330000,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "other": {
+              "parcels": 328,
+              "median_value": 211500,
+              "mean_value": 596517,
+              "quartile_1_value": 157300,
+              "total_value": 194464580,
+              "land_share_pct": 32.4,
+              "sales_total_recorded": 145,
+              "sales_in_window": 6,
+              "median_sale_price_in_window": 280000,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "warehousing": {
+              "parcels": 10,
+              "median_value": 3484000,
+              "mean_value": 18392690,
+              "quartile_1_value": 470200,
+              "total_value": 183926905,
+              "land_share_pct": 20.0,
+              "sales_total_recorded": 4,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-05-01"
+            },
+            "industrial": {
+              "parcels": 13,
+              "median_value": 406400,
+              "mean_value": 10283209,
+              "quartile_1_value": 60900,
+              "total_value": 133681722,
+              "land_share_pct": 23.4,
+              "sales_total_recorded": 7,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-09-01"
+            },
+            "school land": {
+              "parcels": 7,
+              "median_value": 3388776,
+              "mean_value": 9677154,
+              "quartile_1_value": 1561155,
+              "total_value": 67740081,
+              "land_share_pct": 10.0,
+              "sales_total_recorded": 2,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2016-09-01"
+            },
+            "commercial": {
+              "parcels": 215,
+              "median_value": 81900,
+              "mean_value": 310714,
+              "quartile_1_value": 53600,
+              "total_value": 66803547,
+              "land_share_pct": 56.1,
+              "sales_total_recorded": 98,
+              "sales_in_window": 2,
+              "median_sale_price_in_window": 1800000,
+              "latest_recorded_sale": "2025-01-01"
+            },
+            "public land": {
+              "parcels": 21,
+              "median_value": 318100,
+              "mean_value": 797556,
+              "quartile_1_value": 72300,
+              "total_value": 16748669,
+              "land_share_pct": 34.5,
+              "sales_total_recorded": 2,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2021-05-01"
+            },
+            "vacant residential land": {
+              "parcels": 58,
+              "median_value": 77700,
+              "mean_value": 95038,
+              "quartile_1_value": 60000,
+              "total_value": 5512200,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 24,
+              "sales_in_window": 1,
+              "median_sale_price_in_window": 125000,
+              "latest_recorded_sale": "2025-01-01"
+            }
+          },
+          "roll_vintage_latest_sale": "2025-02-01",
+          "land and vintage": {
+            "vacant residential land": {
+              "with_acreage": 54,
+              "median_dollars_per_acre": 459099,
+              "median_acres": 0.17
+            },
+            "other vacant land": {
+              "with_acreage": 0,
+              "median_dollars_per_acre": null,
+              "median_acres": null
+            },
+            "land legal classes": [
+              {
+                "land legal class": "PRIMARY RESIDENCE",
+                "parcels": 1065,
+                "median value": 240500,
+                "median $/acre": 1588654,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "RESIDENTIAL RENTAL",
+                "parcels": 333,
+                "median value": 237300,
+                "median $/acre": 1630468,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "NON-PRIMARY/NOT IN OTHER CLASSES RESID",
+                "parcels": 281,
+                "median value": 232700,
+                "median $/acre": 1566394,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "AG / VACANT LAND / NON-PROFIT R/P",
+                "parcels": 245,
+                "median value": 78768,
+                "median $/acre": 476639,
+                "median acres": 0.18
+              },
+              {
+                "land legal class": "COMMERCIAL / OTHER R/P",
+                "parcels": 186,
+                "median value": 187222,
+                "median $/acre": 996744,
+                "median acres": 0.16
+              },
+              {
+                "land legal class": "PRIMARY RESIDENCE OF QUAL FAM MEMBER",
+                "parcels": 56,
+                "median value": 236100,
+                "median $/acre": 1523503,
+                "median acres": 0.16
+              },
+              {
+                "land legal class": "MIXED LEGAL CLASS",
+                "parcels": 17,
+                "median value": 329200,
+                "median $/acre": 902460,
+                "median acres": 0.2
+              },
+              {
+                "land legal class": "RESIDENTIAL COMMON AREAS - ARS 42-13403",
+                "parcels": 10,
+                "median value": 500,
+                "median $/acre": 4324,
+                "median acres": 0.12
+              }
+            ],
+            "residential built: parcels with a construction year": 1530,
+            "residential built: median construction year": 1963
+          }
+        },
+        "2.0": {
+          "parcels": 4890,
+          "total_assessed_value_all_classes": 4307980736,
+          "value_by_class_share_pct": {
+            "warehousing": 29.9,
+            "residential (built)": 24.1,
+            "other": 17.3,
+            "commercial": 11.2,
+            "data centre": 5.8,
+            "industrial": 5.0,
+            "public land": 3.8,
+            "school land": 2.5,
+            "vacant residential land": 0.2,
+            "other vacant land": 0.1
+          },
+          "classes": {
+            "warehousing": {
+              "parcels": 55,
+              "median_value": 5407902,
+              "mean_value": 23443105,
+              "quartile_1_value": 2235500,
+              "total_value": 1289370751,
+              "land_share_pct": 17.0,
+              "sales_total_recorded": 34,
+              "sales_in_window": 1,
+              "median_sale_price_in_window": 35450000,
+              "latest_recorded_sale": "2024-12-01"
+            },
+            "residential (built)": {
+              "parcels": 3101,
+              "median_value": 268600,
+              "mean_value": 335200,
+              "quartile_1_value": 229500,
+              "total_value": 1039119214,
+              "land_share_pct": 20.9,
+              "sales_total_recorded": 1573,
+              "sales_in_window": 25,
+              "median_sale_price_in_window": 349950,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "other": {
+              "parcels": 694,
+              "median_value": 193700,
+              "mean_value": 1330067,
+              "quartile_1_value": 101445,
+              "total_value": 744837657,
+              "land_share_pct": 26.8,
+              "sales_total_recorded": 263,
+              "sales_in_window": 6,
+              "median_sale_price_in_window": 280000,
+              "latest_recorded_sale": "2025-02-01"
+            },
+            "commercial": {
+              "parcels": 347,
+              "median_value": 212543,
+              "mean_value": 1389651,
+              "quartile_1_value": 64100,
+              "total_value": 482209037,
+              "land_share_pct": 45.6,
+              "sales_total_recorded": 162,
+              "sales_in_window": 2,
+              "median_sale_price_in_window": 1800000,
+              "latest_recorded_sale": "2025-01-01"
+            },
+            "data centre": {
+              "parcels": 2,
+              "median_value": 125886612,
+              "mean_value": 125886612,
+              "quartile_1_value": null,
+              "total_value": 251773225,
+              "land_share_pct": 6.0,
+              "sales_total_recorded": 1,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2019-02-01"
+            },
+            "industrial": {
+              "parcels": 43,
+              "median_value": 1793800,
+              "mean_value": 4978587,
+              "quartile_1_value": 417600,
+              "total_value": 214079222,
+              "land_share_pct": 46.2,
+              "sales_total_recorded": 23,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-09-01"
+            },
+            "public land": {
+              "parcels": 87,
+              "median_value": 108600,
+              "mean_value": 1904614,
+              "quartile_1_value": 25700,
+              "total_value": 165701421,
+              "land_share_pct": 68.1,
+              "sales_total_recorded": 7,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2021-05-01"
+            },
+            "school land": {
+              "parcels": 12,
+              "median_value": 4916206,
+              "mean_value": 9102576,
+              "quartile_1_value": 3256410,
+              "total_value": 109230909,
+              "land_share_pct": 11.9,
+              "sales_total_recorded": 4,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2024-09-01"
+            },
+            "vacant residential land": {
+              "parcels": 375,
+              "median_value": 3200,
+              "mean_value": 23509,
+              "quartile_1_value": 3200,
+              "total_value": 8792500,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 30,
+              "sales_in_window": 1,
+              "median_sale_price_in_window": 125000,
+              "latest_recorded_sale": "2025-01-01"
+            },
+            "other vacant land": {
+              "parcels": 174,
+              "median_value": 13000,
+              "mean_value": 16476,
+              "quartile_1_value": 10500,
+              "total_value": 2866800,
+              "land_share_pct": 100.0,
+              "sales_total_recorded": 2,
+              "sales_in_window": 0,
+              "median_sale_price_in_window": null,
+              "latest_recorded_sale": "2021-08-01"
+            }
+          },
+          "roll_vintage_latest_sale": "2025-02-01",
+          "land and vintage": {
+            "vacant residential land": {
+              "with_acreage": 73,
+              "median_dollars_per_acre": 453469,
+              "median_acres": 0.17
+            },
+            "other vacant land": {
+              "with_acreage": 173,
+              "median_dollars_per_acre": 102588,
+              "median_acres": 0.13
+            },
+            "land legal classes": [
+              {
+                "land legal class": "PRIMARY RESIDENCE",
+                "parcels": 2068,
+                "median value": 265250,
+                "median $/acre": 1652369,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "AG / VACANT LAND / NON-PROFIT R/P",
+                "parcels": 931,
+                "median value": 13000,
+                "median $/acre": 346548,
+                "median acres": 0.17
+              },
+              {
+                "land legal class": "RESIDENTIAL RENTAL",
+                "parcels": 704,
+                "median value": 270200,
+                "median $/acre": 1822531,
+                "median acres": 0.14
+              },
+              {
+                "land legal class": "NON-PRIMARY/NOT IN OTHER CLASSES RESID",
+                "parcels": 482,
+                "median value": 249100,
+                "median $/acre": 1615080,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "COMMERCIAL / OTHER R/P",
+                "parcels": 341,
+                "median value": 618496,
+                "median $/acre": 1387443,
+                "median acres": 0.52
+              },
+              {
+                "land legal class": "unclassified",
+                "parcels": 134,
+                "median value": null,
+                "median $/acre": null,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "PRIMARY RESIDENCE OF QUAL FAM MEMBER",
+                "parcels": 95,
+                "median value": 248600,
+                "median $/acre": 1591930,
+                "median acres": 0.15
+              },
+              {
+                "land legal class": "RESIDENTIAL COMMON AREAS - ARS 42-13403",
+                "parcels": 55,
+                "median value": 500,
+                "median $/acre": 1994,
+                "median acres": 0.25
+              }
+            ],
+            "residential built: parcels with a construction year": 3057,
+            "residential built: median construction year": 1977
+          }
+        }
+      }
+    }
+  ],
+  "negative_control": {
+    "point": {
+      "name": "off-county control",
+      "lat": 40.015,
+      "lon": -105.2705
+    },
+    "parcels": 0
+  },
+  "dataset fingerprints": {
+    "maricopa_parcel_stats.json": {
+      "bytes": 42476,
+      "sha256": "7d7366c59dc76ebb"
+    },
+    "census_city_profile_2023_acs5.json": {
+      "bytes": 50241,
+      "sha256": "4692d029896030df"
+    },
+    "tax_rates.json": {
+      "bytes": 25206,
+      "sha256": "05669e02340508fe"
+    },
+    "aps_capital.json": {
+      "bytes": 18623,
+      "sha256": "93dd589b45c95a9a"
+    }
+  }
+}

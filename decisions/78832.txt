@@ -1,0 +1,984 @@
+=== PAGE 1 ===
+HHHHHIHHHHHH"IIIIIIIWIWW
+BEFORE THE ARIZONA CORPORATION COMMISSION
+COMMISSIONERS
+JIM O'CONNOR - Chairman
+LEA MARQUEZ PETERSON
+ANNA TOVAR
+KEVINTHOMPSON
+NICK MYERS
+1
+2
+3
+4
+5
+6
+DOCKET no. L-21207A-22-0252-0208
+CEC 208-1
+DECISION NO. 78832
+ORDER no. 1
+7
+8
+9
+10
+II
+12
+IN THE MATTER OF THE APPLICATION OF
+SIERRA ESTRELLA ENERGY STORAGE, LLC,
+INCONFORMANCE WITH THE
+REQUIREMENTS OFARIZONAREVISED
+STATUTES SECTIONS 40-360, et seq., FOR
+TWO CERTIFICATES OF ENVIRONMENTAL
+COMPATIBILITY AUTHORIZING THE SIERRA
+ESTRELLA 230-kV GENERATION INERTIE
+PROJECT AND ASSOCIATED SUBSTATION
+WITHIN THE CITY OF AVONDALE,
+ARIZONA, IN MARICOPA COUNTY,
+ARIZONA.
+ArizonaCorporation c0nmi,,5m
+DOCKETED
+JAN 2 3 2023
+DOCK.E1 IbByDecember 6-7, 2022
+Open Meeting
+Phoenix, Arizona
+13
+1 4
+15
+16 BY THE COMMISSION:
+17 Pursuant to A.R.S. § 40-360, et seq., after due consideration of all relevant matters, the
+18 Arizona Corporation Commission ("Commission") finds and concludes that the Certificate of
+19 Environmental Compatibility ("CEC") CEC 208-1 issued by the Arizona Power Plant and
+20 Transmission Line Siting Committee ("Siting Committee") is hereby approved as granted by this
+21 Order.
+22 The Commission, in reaching its decision, has balanced all relevant matters in the broad
+23 public interest, including the need for an adequate, economical, and reliable supply of electric power
+24
+1 Decision No.
+
+
+=== PAGE 2 ===
+L-21207A-22-0252-0208
+1 with the desire to minimize the effect thereof on the environment and ecology of this state, and finds
+3
+2 that granting the Project a CEC is in the public interest.
+The Commission further finds and concludes that in balancing the broad public interest in this
+matter:4
+5 l. The Project is in the public interest because it aids the state in meeting the need for an
+adequate, economical, and reliable supply of electric power.
+6
+2.
+7
+In balancing the need for the Project with its effect on the environment and ecology of the
+state, the conditions placed on the CEC effectively minimize its impact on the
+environment and ecology of the state.
+8
+9
+3. The conditions placed on the CEC resolve matters concerning the need for the Project and
+its impact on the environment and ecology of the state raised during the course of
+proceedings and, as such, serve as the findings on the matters raised.
+10
+4. In light of these conditions, the balancing in the broad public interest results in favor of
+granting the CEC.11
+12
+13
+i
+I
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25 2 Decision No. 78832
+
+
+=== PAGE 3 ===
+L-21207A-22-0252-0208
+THE CEC ISSUED BY THE SITING COMMITTEE IS INCORPORATED
+HEREIN AND IS APPROVED BY ORDER OF THE
+ARIZONA CORPORATION COMMISSION
+I
+I4/28_
+IRMAN O'CONNOR COMMI MARQ Z PETERSON 11
+EXCUSED
+1
+2
+3
+4
+5 C
+6
+7
+8 COMMISSIONER TOVAR COMMISSIONER THOMPSON O MISSIONER MYERS
+\
+I.:
+" ~ c Q2 :
+° ~z
+. . ~ :l"€
+IN WITNESS WHEREOF, 1, KIM BATTISTA, Interim
+Executive Director of the Arizona Corporation Commission,
+have hereunto, set my hand and caused the official seal of this
+Commissionto be affixed at the Capitol, in the city of Phoenix,
+this Quo day of , 2023.
+i .' v at0' •
+. ¢..-W*/* ~'°~..°+
+go 1"
+E *. Y' ,,.3 v 8
+0010 0 I
+9* 9,0l1 lAT 0L$».° _Q
+0°0ln00" \\. I I | . *
+\
+Kim Batt Sta,
+Interim Executive Director
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18 DISSENT:
+19
+20 DISSENT:
+21
+22
+23
+24
+25 3 78832Decision No.
+
+
+=== PAGE 4 ===
+1
+. ,
+i .
+AZ CDR; am Y;
+4
+R E C I v E I)
+we NGO IS A o, 22
+. . 17
+BEFORE THEAR1zonnP98'§6'E1@9£' * AND
+No. 208
+CERTIFICATE OF ENVIRONMENTAL
+COMPATIBILITY (CEC 208-1)
+IN THE MATTER OF THE
+APPLICATION OF SIERRA ESTRELLA
+ENERGY STORAGE, LLC, IN
+CONFORMANCE WITH THE
+REQUIREMENTS OF ARIZONA
+REVISED STATUTES, SECTIONS 40-
+360, et. seq., FOR TWO CERTIFICATES
+OF ENVIRONMENTAL
+COMPATIBILITY AUTHORIZING THE
+SIERRA ESTRELLA230-kV
+GENERATION INTERTIE PROJECT
+AND ASSOCIATED SUBSTATION
+WITHIN THE CITY OF AVONDALE,
+ARIZONA, IN MARICOPA COUNTY,
+ARIZONA
+INTRODUCTION
+I
+i
+Paul A. Katz
+1
+2
+3
+TRANSMISSION LINE SITING COMMITTEE
+8 Docket No. L-21207A-22-0252-00208
+6
+7
+8
+9
+10
+11
+12
+13 A.
+14 Pursuant to notice given as provided by law, the Arizona Power Plant and Transmission
+15 Line Siting Committee (Committee) held a public hearing on November 7 and 8, 2022, in
+16 Tempe, Arizona, in conformance with the requirement of Arizona Revised Statutes (A.R.S.)
+17 §§40-360 et seq., for the purpose of receiving evidence and deliberating on the application
+18 (Application) of Sierra Estrella Energy Storage, LLC (Applicant or Sierra Estrella) for two
+19 Certificates of Environmental Compatibility in the above-captioned case.
+20 The following members and designees of members of the Committee were present at
+21 one or more of the hearing days for the evidentiary presentations, public comment, and/or the
+22 deliberations:
+23
+24 Chairman, Designee for the Attorney General Mark
+Bmovich
+No. 208
+l5899$364.l
+Decision No 78832
+
+
+=== PAGE 5 ===
+L-21207A-22-0252-0208
+Len Drago Designee for Director, Arizona Department of
+Environmental Quality
+David French Designee for Director, Arizona Department of Water
+Resources
+1
+2
+3
+4 Mary Han way Appointed Member, representing incorporated cities
+and towns
+Rick Grinnell
+James Palmer
+Appointed Member, representing counties
+Member, agriculturalrepresentingAppointed
+interests
+Jack Haenichen
+Toby Little
+Daniel Schwiebert
+Appointed Member, representing the general public
+Appointed Member, representing the general public
+Chairman, Arizona CorporationDesignee for
+Commission
+The Applicant was represented by Chris Thomas and Andrea Driggs of Perkins Coie
+B. PROJECT OVERVIEW
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14 LLP. ,
+15 At the conclusion of the hearing, the Committee, after considering the (i) Application,
+16 (ii) evidence, testimony, and exhibits presented by Applicant, and (iii) comments of the public,
+17 and being advised of the legal requirements of A.R.S. §§ 40-360 dirough 40-360.13, upon
+18 motion duly made and seconded, voted 8-0 to grant the Applicant, its successors and assigns,
+19 two Certificates for construction of the Sierra Estrella 230-kV Generation Intertie Project and
+20 Associated Substation (the Project), as described below.
+21
+22 The Project consists of a 230-kV alternating current generation intertie transmission line
+23 (gen-tie) and associated substation facilities. The proposed Project is designed to deliver power
+24 from an adjacent 250-megawatt (MW), 1,000-MW-hour battery energy storage system (herein
+_2_ No. 208
+158995364.1
+Decision No 78832
+
+
+=== PAGE 6 ===
+L-21207A-22-0252-0208
+l
+That part of the North half of the Southeast Quarter of Section 24,
+Township 1 North, Range 1 West of the Gila and Salt River
+Meridian, County of Maricopa, State of Arizona, described as
+follows:
+Thence North 00 degrees 18 minutes 32 seconds West a distance of
+2,079.30 feet to the True Point of Beginning,
+Then turning an approximately 90-degree angle and continuing
+south for a distance of approximately 190ft,
+1 called BESS). All Project components are located in Maricopa County, Arizona.
+2 The Project Gen-Tie would originate at the Project Substation, within the BESS facility
+3 boundary, and proceed generally northwest for approximately 0.13 mile, ending at the existing
+4 Rudd Substation. Starting at an A-frame dead-end structure in the Project Substation, the Gen-
+5 Tie would require up to two monopole structures within the Rudd Substation, ending at an A-
+6 frame dead-end structure. The entirety of the Project gen-tie would be located in Avondale,
+7 Arizona, approximately 0.45 mile west of South Avondale Boulevard and 0.60 mile south of
+8 West Lower Buckeye Road.
+9 The proposed Project Gen-Tie would interconnect the BESS facility to the regional grid
+10 at the existing Rudd Substation. The existing Rudd Substation would require modification or
+11 addition of equipment to allow for interconnection of the gen-tie, this work would be
+12 performed by SRP in accordance with applicable electric utility standards.
+13 Two CECs are being approved for the Project to allow for future ownership transfer of a
+14 portion of the Project. This CEC, CEC 208-1, is for the following portion of the project:
+15
+16
+17
+Commencing at the 1-1/2" Iron Pipe marling the South Quarter
+18 Comer of said Section 24, T, from which the 1/2" rebar without
+identification marldng the Center of said Section 24 bears North 00
+19 degrees 18 minutes 32 seconds West a distance of 2,628.39feet,
+20
+21
+22 Then continuing east for a distance of approximately 250ft,
+23
+24 Then turning an approximately 90-degree angle and continuing
+-3- No. 208
+158995364.1
+Decision No 78832
+
+
+=== PAGE 7 ===
+L-21207A-22-0252-0208
+west for a distance of approximately 1,l00ft,
+Then turning an approximately 90-degree angle and continuing
+north for a distance of approximately 340ft,
+Then turning an approximately 90-degree angle and continuing east
+for a distance of approximately 860ft;
+Then turning an approximately 90-degree angle and continuing
+south for a distance of appro)dmately 150ft, to the True Point of
+Beginning.
+Containing 7.8 acres, more or less.
+A map is attached as Exhibit A.
+CONDITIONS
+I
+i
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11 This Certificate is granted upon the following conditions:
+12 1. This authorization to construct the Project shall expire ten (10) years from the
+13 date this Certificate is approved by the Arizona Corporation Commission, with or without
+14 modification. Construction of the Project shall be complete, such that the Project is in-service
+15 within this ten-year timeframe. However, prior to the expiration of the time period, the
+16 Applicant may request that the Commission extend the time limitation.
+17 2. In the event that the Project requires an extension of the term(s) of this
+18 Certificate prior to completion of construction, the Applicant shall file such time extension
+19 request at least one hundred and eighty (180) days prior to the expiration of the Certificate.
+20 The Applicant shall use reasonable means to promptly notify the Board of Supervisors of
+21 Maricopa County, the City of Avondale, and all landowners and residents widiin a five (5)
+22 mile radius of the centerline of die Project, all persons who made public comment at this
+23 proceeding who provided a mailing or email address, and all parties to this proceeding. The
+24 notification provided will include the request and the date, time, and place of the hearing or
+-4- No. 208
+1589953644
+Decision No 78832
+
+
+=== PAGE 8 ===
+L-21207A-22-0252-0208
+1
+2
+3
+open meetings during which the Commission will consider the request for extension.
+Notification shall be no more than dire (3) business days after the Applicant is made aware of
+the hearing date or the open meeting date.
+4
+3.5 During the development, construction, operation, maintenance and reclamation
+6 of the Project, the Applicant shall comply with all existing applicable air and water pollution
+7 control standards and regulations, and with all existing applicable statutes, ordinances, master
+8 plans and regulations of any governmental entity having jurisdiction including, but not limited
+9 to, the United States of America, the State of Arizona, Maricopa County, and their agencies
+and subdivisions, including but not limited to the following:
+10
+a. All applicable land use regulations;II
+b.12 All applicable zoning stipulations and conditions, including but not limited to
+landscaping and dust control requirements,
+13
+.
+I
+.
+I
+14
+C. All applicable water use, discharge and/or disposal requirements of the
+Arizona Department of Water Resources and the Arizona Department of
+Environmental Quality;
+15
+d. All applicable noise control standards, and
+16
+e.
+17
+All applicable regulations governing storage and handling of hazardous
+chemicals and petroleum products.
+18 4.
+19
+20
+21
+22
+23
+24
+The Applicant shall obtain all approvals and permits necessary to construct,
+operate and maintain the Project required by any governmental entity having jurisdiction
+including, but not limited to, the United States of America, due State of Arizona, Maricopa
+County, and their agencies and subdivisions.
+5. The Applicant shall comply with the Arizona Game and Fish Department
+(AGFD) guidelines for handling protected animal species, should any be encountered during
+construction and operation of the Project, and shall consult with AGFD or U.S. Fish and
+_5- No. 208
+1589953641
+Decision No78832
+
+
+=== PAGE 9 ===
+L-21207A-22-0252-0208
+1 Wildlife Service, as appropriate, on other issues concerning wildlife.
+2
+6.
+3
+The Applicant shall design the Project's interconnection facilities to incorporate
+reasonable measures to minimize electrocution of and impacts to avian species in accordance
+4
+5
+6
+7
+with the Applicant's avian protection program. Such measures will be accomplished through
+incorporation of Avian Power Line Interaction Committee guidelines set forth in the current
+versions of Suggested Practices for Avian Protection on Power Lines and Reducing Avian
+Collisions with Power Lines manuals.
+8
+7.
+9
+The Applicant shall consult the State Historic Preservation Office (SHPO) with
+respect to cultural resources. If any archaeological, paleontological, or historical sites or a
+10
+significant cultural object is discovered on state, county or municipal land during the
+11
+construction or operation of the Project, the Applicant or its representative in charge shall
+12
+promptly report the discovery to the Director of the Arizona State Museum (ASM), and in
+13
+14
+15
+8.
+16
+17
+18
+9.
+19
+20
+21
+22
+23
+consultation with the Director, shall immediately take all reasonable steps to secure and
+maintain the preservation of the discovery as required by A.R.S. §41-844.
+The Applicant shall comply with the notice and salvage requirements of the
+Arizona Native Plant Law (A.R.S §§ 3-901 et seq.) and shall, to the extent feasible, minimize
+the destruction of native plants during the construction and operation of the Project.
+The Applicant shall make every reasonable effort to promptly investigate,
+identify and correct, on a case-specific basis, all complaints of interference with radio or
+television signals from operation of the Project addressed in this Certificate and where such
+interference is caused by the Project take reasonable measures to mitigate such interference.
+The Applicant shall maintain written records for a period of five (5) years of all complaints of
+radio or television interference attributable to operations, together with the corrective action
+24
+_6_ No. 208
+158995364.1
+Decision No78832
+
+
+=== PAGE 10 ===
+L-21207A-22-0252-0208
+9
+l
+1 taken in response to each complaint. All complaints shall be recorded to include notation on
+2 the corrective action taken. Complaints not leading to a specific action or for which there was
+3 no resolution shall be noted and explained. Upon request, the written records shall be provided
+4 to the Staff of the Commission. The Applicant shall respond to complaints and implement
+5 appropriate mitigation measures. In addition, the Project shall be evaluated on a regular basis
+6 so that damaged insulators or other line materials that could cause interference are repaired or
+7 replaced in a timely manner.
+8 10. If human remains and/or funerary objects are encountered during the course of
+9 any ground-disturbing activities related to the construction or maintenance of the Project, the
+10 Applicant shall cease work on the affected area of the Project and notify the Director of the
+II ASM as required by A.R.S. § 41-865 for private land, or as required by A.R.S. § 41-844 for
+12 state, county, or municipal lands.
+13 II. Within one hundred twenty (120) days of the Commission's decision approving
+14 this Certificate, the Applicant shall post signs in or near public rights-of-way, to die extent
+15 authorized by law, reasonably adjacent to the Project giving notice of the Project. Such
+16 Signage shall be no smaller than a roadway sign. The signs shall advise:
+17 a. Future site of the Project;
+18 b. A phone number and website for public information regarding the Project,
+19 and
+20 c. Refer the Public to the Docket.
+21 Such signs shall be inspected at least once annually and, if necessary, be repaired or
+22 replaced, and removed at the completion of construction.
+23 The Applicant shall make every reasonable effort to communicate the decision either
+24 approving or disapproving the Certificate in digital media.
+_7- No. 208!
+158995364.1
+I
+Decision No 78832
+
+
+=== PAGE 11 ===
+L-21207A-22-0252-0208
+12.
+i
+i
+I
+1
+2 At least ninety (90) days before construction commences on the Project, the
+3 Applicant shall provide the Board of Supervisors for Maricopa County, the City of Avondale,
+4 and known builders and developers who are building upon or developing land within one (1)
+5 mile of the of the centerline of the Project with a written description, including Me approximate
+6 height and width measurements of all structure types, of the Project. The written description
+7 shall identify the location of the Project and contain a pictorial depiction of the facilities being
+8 constructed. The Applicant shall also encourage the developers and builders to include this
+9 information in their disclosure statements. Upon approval of this Certificate by the
+10 Commission, the Applicant may commence construction of the Project.
+II 13. The Applicant shall use non-specular conductor and non-reflective surfaces for
+12 the transmission line structures on the Project.
+13 14. The Applicant shall be responsible for arranging that all field personnel involved
+14 in die Project receive training as to proper ingress, egress, and on-site working protocol for
+15 environmentally sensitive areas and activities. Contractors employing such field personnel
+16 shall maintain records documenting that the personnel have received such training.
+17 15. The Applicant shall follow the most current Western Electricity Coordinating
+18 Council (WECC) and North American Electric Reliability Corporation (NERC) planning
+19 standards, as approved by the Federal Energy Regulatory Commission (FERC), National
+20 Electrical Safety Code (NESC) standards, and Federal Aviation Administration (FAA)
+21 regulations.
+22 16. The Applicant shall participate in good faith in state and regional transmission
+23 study forums to coordinate transmission expansion plans related to the Project and to resolve
+24 transmission constraints in a timely manner.
+_g- No. 208
+1589953641
+Decision No 1§§§2_
+
+
+=== PAGE 12 ===
+L-21207A-22-0252-0208
+1 17. When Project facilities are located parallel to and within one hundred (100) feet
+2 of any existing natural gas or hazardous pipeline, Me Applicant shall:
+a. Ensure grounding and cathodic protection studies are performed to show that
+the Project's location parallel to and within one hundred (100) feet of such
+pipeline results in no material adverse impacts to the pipeline or to public
+safety when both the pipeline and the Project are in operation. The Applicant
+with Docket Control,
+shall take appropriate steps to ensure that any material adverse impacts are
+mitigated. The Applicant shall provide to Staff of the Commission, and file
+a copy of the studies performed and additional
+mitigation, if any, that was implemented as part of its annual compliance-
+certification letter, and
+Ensure that studies are performed simulating an outage of the Project that
+may be caused by the collocation of the Project parallel to and within one
+hundred (100) feet of the existing natural gas or hazardous liquid pipeline.
+The studies should either: (a) show that such simulated outage does not result
+18.
+.
+I
+I
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12 b.
+13
+14
+15
+16 in customer outages, or (b) include operating plans to minimize any resulting
+17 customer outages. The Applicant shall provide a copy of the study results to
+18 Staff of the Commission and file them with Docket Control as part of the
+19 Applicant's annual compliance certification letter.
+20 The Applicant shall submit a compliance certification letter annually, identifying
+21 progress made wide respect to each condition contained in this Certificate, including which
+22 conditions have been met. The letter shall be submitted to Commission's Docket Control
+February 15, 2024.23 commencing on Attached to each certification letter shall be
+24 documentation explaining how compliance with each condition was achieved. Copies of each
+-9- No. 208
+1589953641
+Decision No 78832
+
+
+=== PAGE 13 ===
+L-21207A-22-0252-0208
+I
+1 letter, along with the corresponding documentation, shall be submitted to the Arizona Attorney
+2 General's Office. With respect to the Project, the requirement for the compliance letter shall
+3 expire on the date the Project is placed into operation. Notification of such filing with Docket
+4 Control shall be made to the Board of Supervisors for Maricopa County, the City of Avondale,
+5 all parties to this Docket, arld all parties who made a limited appearance in this Docket.
+6 19. The Applicant shall provide a copy of this Certificate to the Board of Supervisors
+7 for Maricopa County and the City of Avondale.
+8 20. Any transfer or assignment of Mis Certificate shall require the assignee or
+9 successor to assume, in writing, all responsibilities of the Applicant listed in this Certificate
+10 and its conditions as required by A.R.S. § 40-360.08(A) and R14-3-213(F) of the Arizona
+l l Administrative Code.
+12 21. In the event the Applicant, its assignee, or successor, seeks to modify the
+13 Certificate's terms at the Commission, it shall provide copies of such request to the Board of
+14 Supervisors for MaricopaCounty, the City of Avondale, all parties to this D.ocket, and all
+15 parties who made a limited appearance in this Docket.
+16 22. The Certificate Conditions shall be binding on the Applicant, its successors,
+17 assignee(s) and transferees and any affiliates, agents, or lessees of die Applicant who have a
+18 contractual relationship with the Applicant concerning the constiuction, operation,
+19 maintenance or reclamation of the Project. The Applicant shall provide in any agreement(s) or
+20 lease(s) pertaining to die Project that the contracting parties and/or lessee(s) shall be
+21 responsible for compliance with the Conditions set forth herein, and the Applicant's
+22 responsibilities with respect to compliance with such Conditions shall not cease or be abated
+23 by reason of the fact that the Applicant is not in control of or responsible for operation and
+24 maintenance of the Project facilities.
+-10_ No. 208
+1589953641
+Decision No 78832
+
+
+=== PAGE 14 ===
+L-21207A-22-0252-0208
+FINDINGS OF FACT AND CONCLUSIONS OF LAW 4
+I
+1
+2
+3 This Certificate incorporates the following Findings of Fact and Conclusions of Law:
+4 1. The Project aids the state and the southwest region of due United States in
+5 meeting the need for an adequate, economical, and reliable supply of electric power.
+6 2. The Project aids the state, preserving a safe and reliable electric transmission
+7 system.
+8 3. During the course of the hearing, the Committee considered evidence on the
+9 environmental compatibility on the Project as required by A.R.S. §40-360 et seq.
+10 4. The Project and the conditions placed on the Project in dis Certificate effectively
+II minimize the impact of the Project on the environment and ecology of the state.
+12 5. The conditions placed on the Project in this Certificate resolves matters
+13 concerning balancing the need for the Project with its impact on the environment and ecology
+14 of the state arising during the course of the proceedings, and, as such, serve as findings and
+15 conclusions on such matters.
+16 6. The Project is in the public interest because the Project's contribution to meeting
+17 the need for an adequate, economical and reliable supply of electric power outweighs the
+18 minimized impact of the Project on the environment and ecology of the state.
+19 DATED this447"dayof November, 2022.
+20
+21
+22
+23
+24
+Paul A.Katz, Assistant omey General
+Chairman, Arizona Power Plant and Transmission
+Line Siting Committee
+15 South 15"' Avenue
+Phoenix, Arizona 85007
+Paul.Katz@azalz.2ov
+_11_ No. 208
+158995364.1 Decision No 78832
+
+
+=== PAGE 15 ===
+L-21207A-22-0252-0208
+1 Original and Twenty-five copies (25)
+.  / day of
+l
+of the foregoing filed this
+2 November, 2022 :
+3
+4
+Utilities Division-Docket Control
+ARIZONA CORPORATION COMMISSION
+1200 W. Washington Street
+Phoenix Arizona 85007
+5
+6
+Copies of the foregoing were emailed and hand-delivered
+this / 4 day of November, 2022 to:
+7
+Robin Mitchell, Director - Legal Division
+8 ARIZONA CORPORATION commlsslon
+1200 W. Washington Street
+9 Phoenix, Arizona 85007
+rmitchell@azcc.gov
+10 Counsel for Utilities Division Staff
+II
+12
+13
+Elijah Abinah, Director - Utilities Division
+ARIZONA CORPORATION COMMISSION
+1200 West Washington Street
+Phoenix, Arizona 85007
+eabinah@azcc.gov
+14 Glennie Reporting Services, LLC
+1555 East Orangewood
+15 Phoenix, Arizona 85020
+admin@glennie-reporting.com
+16
+Andrea Driggs
+17 Christopher Thomas
+Perkins Coie LLP
+18 2901 North Central Ave., #20
+Phoenix, Arizona 850 12
+19 adriggs@perkinscoie.com
+20
+4/2444¢/¢&;:ZEE;?»21 Bv:
+22
+23
+24
+_12- No. 208
+1589953641
+Decision No 78832
+
+
+=== PAGE 16 ===
+L-21207A-22-0252-0208
+I
+EXHIBIT A
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+-13- No. 208
+1589953641
+Decision No 78832
+
+
+=== PAGE 17 ===
+1 I.I
+'uqglpl
+, -21207A-22-0
+w
+!II I
+,.,.
+,.1 I é
+A I V
+I I IL HI50066009 500660019
+4
+,;
+. f-
+`-
+I
+l
+..,.
+q
+9
+as
+rJ
+.1°G| i' \
+:J r  -rJ;J. . "..4
+-.
+U
+9 4I ii1 `._,\ li 46 . . ..o ,_4 ... . . sv-'*¢*,
+.I »..4.4.-;
+I 4.m
+3 o
+I ,
+P
+.. . 1. ,4...~
+Q
+1
+n
+<4
+vi500é6d06G
+.5006§_0.06 Fin
+"H
+v
+F
+8 6 0 '
+in
+1 .,. .
+q 1_ _
+4< Il
+!l
+. r..w* 1 1i
+1.
+5Q0i66Q0Q5.@
+" - A - 1
+2 5 0 '*if ;iL "' I 15,
+~s 4}.c I ~¢~ \0
+s
+l 4
+\ *`A 4. '4  " 1. wt'3 4 0 ' 1 9 0 ': I \ w-
+1-\ |
+II
+I
+.. ,1 I.1 llx 4.
+150(é006E ir
+inN as
+.
+I I
+,'.
+5
+.19. -v.
+T., ": . 1
+pg
+\ \w
+98
+~;,
+*QW e s.* 1~ .q 1\2-1
+;
+"§ €
+\ . r ,.
+V,
+>.g ,kg. 2
+2 ,.6
+, ".
+.,, .* 5.. ,
+n .
+3 z
+0 .:
+q . 4 *I$ Y - : * f *~ ?
+.Y
+vi: I
+in uh
+..J 2
+i.I
+5
+M
+9
+be ,-0
+a
+.
+b-re ,a as
+r"
+.7 L.
+` .
+8 * - » 8 ¢ ~
+-i~~ ?. - CV¢*»e°:'8-4.'\ 4
+A
+\;.. ...5 .1.\ #iv 4
+Q " . ...
+; 17
+~ l\ vix
+5 gI ii\\!Up\
+l \iv:
+\1 . s
+'v~x.\ B.~v_ :;
+r
+4;
+4 -~
+\
+J
+. rr
+.. W»5
+Y
+24
+X
+,.
+€
+€;\.: . .
+* . t\ .\\K\ 3\ l¢ A,
+\
+4'IL x ,*..1 A....,.. §
+2 s
+x . .. . I e
+§ "
+.4ui J L
+.4
+. 5
+o r * .-
+g
+4.4-»500660970 14
+. .
+L , A ,
+, . .
+I.\ ,.. |
+.\ 4
+iI .. Q J.",'/
+E a
+,
+4, r
+J .n,,. ..
+4,
+r, :=° d4 a.. v*.
+s
+. M ,. 8**
+:~\=..-
+w
+I . 4 500660080\
+s
+9% 4..
+\
+\ *»\ ,_
+f 44
+.8
+b==8"¥'%MR 4..q .4
+.
+2' .R
+Q'
+1; .s _A
+in\ 4
+3'
+, s
+MII
+.,;e,
+..50066006B
+* ofi t  \
+.
+'F
+1 I§,.l
+.
+1, , ,
+... ., 4. 1. ,, . x .
+. 11
+.a:*.. .LI
+\Q
+;.
+.
+~.».
+1 .x. .1.g  . J14
+,.
+}v.
+4 . 1
+3',Ni
+Q. of ,. ,r
+. 1
+.: ,
+77Y
+:¢_.
+. .
+\\ .8.
+9
+1
+Ii6'I
+s =
+JAl i
+1,. ,
+,.
+;
+2 , 8  v14. .s9 .\\. 44
+49'...19
+-
+w "5006z004'Er . ..
+, ,.m. .,/. 144 .
+.fl0* .. , .. ~3 to.: .
+1. .
+i
+.
+J r
+.
+.. .,, r.. 8. J
+Q
+.a
+I
+is
+1! J j
+_
+Maricopa County, AZ
+NAD 1983 UTM Zone 12N
+33.4108°N 112.3152°W
+0 1 8 0 3 6 0F e e tM e l e e s0 40 80
+m
+Land Ownership
+O Private/ Municipal
+Reference Features
+E Rudd Substation
+2 Parcels AA
+Project Features
+GenTie Llne
+Slerra Estrella Battery
+Energy Storage Slte
+Proposed Corridor
+Proposed Project
+Subslatlon
+124,500
+SWCADecision No 78832
+B a s e  M a p :ESRIAIcGIS Online,
+accessed October 2022
+updat ed: 10/26/2022
+Proj ect  N o. 66115
+Lay ou t: 86115 Cofrldor
+Aplx: 66115_sierraEshellaBessENV IIONM ENTA I. CONSULTA NTS

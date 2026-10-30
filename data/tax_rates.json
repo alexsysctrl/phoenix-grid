@@ -1,0 +1,858 @@
+{
+  "property_tax": {
+    "source": "Maricopa County '2025 Tax Rates, Maricopa County, Arizona'",
+    "url": "https://www.maricopa.gov/DocumentCenter/View/109591/Tax-Rate-2025-PDF",
+    "columns_as_printed": [
+      "Area Code",
+      "Elementary School District",
+      "High School District",
+      "Primary City",
+      "Approx Residential Rate*",
+      "Primary Rate*",
+      "Secondary Rate*"
+    ],
+    "unit_note": "the asterisked columns are defined by a footnote on the county's tax levy page; this script reports the printed numbers and does not convert them",
+    "rows": [
+      {
+        "area_code": "001000",
+        "district_fields": "No School No School",
+        "city": "Mesa",
+        "approx_residential_rate": 3.7797,
+        "primary_rate": 3.7797,
+        "secondary_rate": 1.509
+      },
+      {
+        "area_code": "001200",
+        "district_fields": "No School No School",
+        "city": "Peoria",
+        "approx_residential_rate": 4.0697,
+        "primary_rate": 4.0697,
+        "secondary_rate": 1.8008
+      },
+      {
+        "area_code": "001300",
+        "district_fields": "No School No School",
+        "city": "Phoenix",
+        "approx_residential_rate": 5.0455,
+        "primary_rate": 5.0455,
+        "secondary_rate": 1.4649
+      },
+      {
+        "area_code": "001500",
+        "district_fields": "No School No School",
+        "city": "Surprise",
+        "approx_residential_rate": 4.3331,
+        "primary_rate": 4.3331,
+        "secondary_rate": 1.0388
+      },
+      {
+        "area_code": "011300",
+        "district_fields": "Phoenix #1 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.9664,
+        "primary_rate": 5.4058,
+        "secondary_rate": 7.2388
+      },
+      {
+        "area_code": "021300",
+        "district_fields": "Riverside #2 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.5157,
+        "primary_rate": 5.1291,
+        "secondary_rate": 5.6927
+      },
+      {
+        "area_code": "031000",
+        "district_fields": "Tempe #3 Tempe",
+        "city": "Mesa",
+        "approx_residential_rate": 5.4524,
+        "primary_rate": 3.8918,
+        "secondary_rate": 4.9325
+      },
+      {
+        "area_code": "031300",
+        "district_fields": "Tempe #3 Tempe",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.7182,
+        "primary_rate": 5.1576,
+        "secondary_rate": 4.8884
+      },
+      {
+        "area_code": "040300",
+        "district_fields": "Mesa #4 Unified",
+        "city": "Chandler",
+        "approx_residential_rate": 5.8057,
+        "primary_rate": 4.2451,
+        "secondary_rate": 4.2838
+      },
+      {
+        "area_code": "041000",
+        "district_fields": "Mesa #4 Unified",
+        "city": "Mesa",
+        "approx_residential_rate": 5.5939,
+        "primary_rate": 4.0333,
+        "secondary_rate": 4.272
+      },
+      {
+        "area_code": "051300",
+        "district_fields": "Isaac #5 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.979,
+        "primary_rate": 5.4184,
+        "secondary_rate": 9.2678
+      },
+      {
+        "area_code": "060700",
+        "district_fields": "Washington #6 Glendale",
+        "city": "Glendale",
+        "approx_residential_rate": 5.8985,
+        "primary_rate": 4.3379,
+        "secondary_rate": 6.1833
+      },
+      {
+        "area_code": "061300",
+        "district_fields": "Washington #6 Glendale",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.8401,
+        "primary_rate": 5.2795,
+        "secondary_rate": 5.8678
+      },
+      {
+        "area_code": "071300",
+        "district_fields": "Wilson #7 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.8741,
+        "primary_rate": 5.3135,
+        "secondary_rate": 7.0746
+      },
+      {
+        "area_code": "081300",
+        "district_fields": "Osborn #8 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.8399,
+        "primary_rate": 5.2793,
+        "secondary_rate": 6.1461
+      },
+      {
+        "area_code": "090200",
+        "district_fields": "Wickenburg #9 Unified",
+        "city": "Buckeye",
+        "approx_residential_rate": 6.256,
+        "primary_rate": 5.0377,
+        "secondary_rate": 2.045
+      },
+      {
+        "area_code": "091500",
+        "district_fields": "Wickenburg #9 Unified",
+        "city": "Surprise",
+        "approx_residential_rate": 5.209,
+        "primary_rate": 3.9907,
+        "secondary_rate": 1.7834
+      },
+      {
+        "area_code": "110700",
+        "district_fields": "Peoria #11 Unified",
+        "city": "Glendale",
+        "approx_residential_rate": 5.7147,
+        "primary_rate": 4.1541,
+        "secondary_rate": 3.6441
+      },
+      {
+        "area_code": "111200",
+        "district_fields": "Peoria #11 Unified",
+        "city": "Peoria",
+        "approx_residential_rate": 5.6805,
+        "primary_rate": 4.1199,
+        "secondary_rate": 3.6645
+      },
+      {
+        "area_code": "111500",
+        "district_fields": "Peoria #11 Unified",
+        "city": "Surprise",
+        "approx_residential_rate": 5.9439,
+        "primary_rate": 4.3833,
+        "secondary_rate": 2.9025
+      },
+      {
+        "area_code": "141300",
+        "district_fields": "Creighton #14 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.9085,
+        "primary_rate": 5.3479,
+        "secondary_rate": 6.5987
+      },
+      {
+        "area_code": "150400",
+        "district_fields": "Peoria Unorganized No School",
+        "city": "El Mirage",
+        "approx_residential_rate": 5.4393,
+        "primary_rate": 5.4393,
+        "secondary_rate": 1.6286
+      },
+      {
+        "area_code": "151200",
+        "district_fields": "Peoria Unorganized No School",
+        "city": "Peoria",
+        "approx_residential_rate": 4.0697,
+        "primary_rate": 4.0697,
+        "secondary_rate": 1.8008
+      },
+      {
+        "area_code": "151500",
+        "district_fields": "Peoria Unorganized No School",
+        "city": "Surprise",
+        "approx_residential_rate": 4.3331,
+        "primary_rate": 4.3331,
+        "secondary_rate": 1.0388
+      },
+      {
+        "area_code": "170100",
+        "district_fields": "Tolleson #17 Tolleson",
+        "city": "Avondale",
+        "approx_residential_rate": 6.1505,
+        "primary_rate": 4.5899,
+        "secondary_rate": 8.2591
+      },
+      {
+        "area_code": "171300",
+        "district_fields": "Tolleson #17 Tolleson",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.8068,
+        "primary_rate": 5.2462,
+        "secondary_rate": 8.2235
+      },
+      {
+        "area_code": "171700",
+        "district_fields": "Tolleson #17 Tolleson",
+        "city": "Tolleson",
+        "approx_residential_rate": 7.0568,
+        "primary_rate": 5.4962,
+        "secondary_rate": 8.5696
+      },
+      {
+        "area_code": "211300",
+        "district_fields": "Murphy #21 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.9163,
+        "primary_rate": 5.3557,
+        "secondary_rate": 5.5912
+      },
+      {
+        "area_code": "250100",
+        "district_fields": "Liberty #25 Buckeye",
+        "city": "Avondale",
+        "approx_residential_rate": 6.6625,
+        "primary_rate": 5.1019,
+        "secondary_rate": 4.4656
+      },
+      {
+        "area_code": "250200",
+        "district_fields": "Liberty #25 Buckeye",
+        "city": "Buckeye",
+        "approx_residential_rate": 7.6534,
+        "primary_rate": 6.0928,
+        "secondary_rate": 4.2655
+      },
+      {
+        "area_code": "250800",
+        "district_fields": "Liberty #25 Buckeye",
+        "city": "Goodyear",
+        "approx_residential_rate": 6.9849,
+        "primary_rate": 5.4243,
+        "secondary_rate": 4.419
+      },
+      {
+        "area_code": "280300",
+        "district_fields": "Kyrene #28 Tempe",
+        "city": "Chandler",
+        "approx_residential_rate": 5.6473,
+        "primary_rate": 4.0867,
+        "secondary_rate": 3.8794
+      },
+      {
+        "area_code": "281300",
+        "district_fields": "Kyrene #28 Tempe",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.7013,
+        "primary_rate": 5.1407,
+        "secondary_rate": 3.8235
+      },
+      {
+        "area_code": "291200",
+        "district_fields": "Peoria #11 Unified",
+        "city": "Peoria",
+        "approx_residential_rate": 5.6805,
+        "primary_rate": 4.1199,
+        "secondary_rate": 3.6645
+      },
+      {
+        "area_code": "311300",
+        "district_fields": "Balsz #31 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.8653,
+        "primary_rate": 5.3047,
+        "secondary_rate": 5.8966
+      },
+      {
+        "area_code": "330200",
+        "district_fields": "Buckeye #33 Buckeye",
+        "city": "Buckeye",
+        "approx_residential_rate": 7.4938,
+        "primary_rate": 5.9332,
+        "secondary_rate": 4.6308
+      },
+      {
+        "area_code": "381300",
+        "district_fields": "Madison #38 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.9927,
+        "primary_rate": 5.4321,
+        "secondary_rate": 6.0351
+      },
+      {
+        "area_code": "400700",
+        "district_fields": "Glendale #40 Glendale",
+        "city": "Glendale",
+        "approx_residential_rate": 5.9094,
+        "primary_rate": 4.3488,
+        "secondary_rate": 7.9639
+      },
+      {
+        "area_code": "401300",
+        "district_fields": "Glendale #40 Glendale",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.851,
+        "primary_rate": 5.2904,
+        "secondary_rate": 7.6484
+      },
+      {
+        "area_code": "410300",
+        "district_fields": "Gilbert #41 Unified",
+        "city": "Chandler",
+        "approx_residential_rate": 5.6094,
+        "primary_rate": 4.0488,
+        "secondary_rate": 3.572
+      },
+      {
+        "area_code": "411000",
+        "district_fields": "Gilbert #41 Unified",
+        "city": "Mesa",
+        "approx_residential_rate": 5.3976,
+        "primary_rate": 3.837,
+        "secondary_rate": 3.5602
+      },
+      {
+        "area_code": "440100",
+        "district_fields": "Avondale #44 Agua Fria",
+        "city": "Avondale",
+        "approx_residential_rate": 6.3796,
+        "primary_rate": 4.819,
+        "secondary_rate": 4.8722
+      },
+      {
+        "area_code": "440800",
+        "district_fields": "Avondale #44 Agua Fria",
+        "city": "Goodyear",
+        "approx_residential_rate": 6.702,
+        "primary_rate": 5.1414,
+        "secondary_rate": 4.8256
+      },
+      {
+        "area_code": "451300",
+        "district_fields": "Fowler #45 Tolleson",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.739,
+        "primary_rate": 5.1784,
+        "secondary_rate": 7.2339
+      },
+      {
+        "area_code": "451700",
+        "district_fields": "Fowler #45 Tolleson",
+        "city": "Tolleson",
+        "approx_residential_rate": 6.989,
+        "primary_rate": 5.4284,
+        "secondary_rate": 7.58
+      },
+      {
+        "area_code": "470200",
+        "district_fields": "Arlington #47 Buckeye",
+        "city": "Buckeye",
+        "approx_residential_rate": 6.4554,
+        "primary_rate": 5.2139,
+        "secondary_rate": 2.7979
+      },
+      {
+        "area_code": "481300",
+        "district_fields": "Scottsdale #48 Unified",
+        "city": "Phoenix",
+        "approx_residential_rate": 5.7233,
+        "primary_rate": 4.6056,
+        "secondary_rate": 2.5063
+      },
+      {
+        "area_code": "490200",
+        "district_fields": "Palo Verde #49 Buckeye",
+        "city": "Buckeye",
+        "approx_residential_rate": 7.1953,
+        "primary_rate": 5.6347,
+        "secondary_rate": 4.0128
+      },
+      {
+        "area_code": "591300",
+        "district_fields": "Laveen #59 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 7.0439,
+        "primary_rate": 5.4833,
+        "secondary_rate": 8.6948
+      },
+      {
+        "area_code": "601000",
+        "district_fields": "Higley #60 Unified",
+        "city": "Mesa",
+        "approx_residential_rate": 5.5779,
+        "primary_rate": 4.0173,
+        "secondary_rate": 3.1485
+      },
+      {
+        "area_code": "602500",
+        "district_fields": "Higley #60 Unified",
+        "city": "Queen Creek",
+        "approx_residential_rate": 7.1264,
+        "primary_rate": 5.5658,
+        "secondary_rate": 2.2903
+      },
+      {
+        "area_code": "621300",
+        "district_fields": "Union #62 Tolleson",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.7924,
+        "primary_rate": 5.2318,
+        "secondary_rate": 8.512
+      },
+      {
+        "area_code": "650100",
+        "district_fields": "Littleton #65 Tolleson",
+        "city": "Avondale",
+        "approx_residential_rate": 6.0539,
+        "primary_rate": 4.4933,
+        "secondary_rate": 8.4156
+      },
+      {
+        "area_code": "650800",
+        "district_fields": "Littleton #65 Tolleson",
+        "city": "Goodyear",
+        "approx_residential_rate": 6.3763,
+        "primary_rate": 4.8157,
+        "secondary_rate": 8.369
+      },
+      {
+        "area_code": "651300",
+        "district_fields": "Littleton #65 Tolleson",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.7102,
+        "primary_rate": 5.1496,
+        "secondary_rate": 8.38
+      },
+      {
+        "area_code": "651700",
+        "district_fields": "Littleton #65 Tolleson",
+        "city": "Tolleson",
+        "approx_residential_rate": 6.9602,
+        "primary_rate": 5.3996,
+        "secondary_rate": 8.7261
+      },
+      {
+        "area_code": "661300",
+        "district_fields": "Roosevelt #66 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.8673,
+        "primary_rate": 5.3067,
+        "secondary_rate": 8.2107
+      },
+      {
+        "area_code": "680700",
+        "district_fields": "Alhambra #68 Phoenix",
+        "city": "Glendale",
+        "approx_residential_rate": 6.0516,
+        "primary_rate": 4.491,
+        "secondary_rate": 9.1333
+      },
+      {
+        "area_code": "681300",
+        "district_fields": "Alhambra #68 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.9932,
+        "primary_rate": 5.4326,
+        "secondary_rate": 8.8178
+      },
+      {
+        "area_code": "691300",
+        "district_fields": "Paradise Vly#69 Unified",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.6449,
+        "primary_rate": 5.0843,
+        "secondary_rate": 3.575
+      },
+      {
+        "area_code": "750200",
+        "district_fields": "Morristown #75 No School",
+        "city": "Buckeye",
+        "approx_residential_rate": 8.2557,
+        "primary_rate": 7.4754,
+        "secondary_rate": 1.3004
+      },
+      {
+        "area_code": "790100",
+        "district_fields": "Litchfield #79 Agua Fria",
+        "city": "Avondale",
+        "approx_residential_rate": 6.4917,
+        "primary_rate": 4.9311,
+        "secondary_rate": 4.1235
+      },
+      {
+        "area_code": "790200",
+        "district_fields": "Litchfield #79 Agua Fria",
+        "city": "Buckeye",
+        "approx_residential_rate": 7.4826,
+        "primary_rate": 5.922,
+        "secondary_rate": 3.9234
+      },
+      {
+        "area_code": "790700",
+        "district_fields": "Litchfield #79 Agua Fria",
+        "city": "Glendale",
+        "approx_residential_rate": 6.2064,
+        "primary_rate": 4.6458,
+        "secondary_rate": 4.4034
+      },
+      {
+        "area_code": "790800",
+        "district_fields": "Litchfield #79 Agua Fria",
+        "city": "Goodyear",
+        "approx_residential_rate": 6.8141,
+        "primary_rate": 5.2535,
+        "secondary_rate": 4.0769
+      },
+      {
+        "area_code": "791300",
+        "district_fields": "Litchfield #79 Agua Fria",
+        "city": "Phoenix",
+        "approx_residential_rate": 7.148,
+        "primary_rate": 5.5874,
+        "secondary_rate": 4.0879
+      },
+      {
+        "area_code": "792300",
+        "district_fields": "Litchfield #79 Agua Fria",
+        "city": "Litchfield Park",
+        "approx_residential_rate": 5.8822,
+        "primary_rate": 4.3216,
+        "secondary_rate": 3.2738
+      },
+      {
+        "area_code": "800300",
+        "district_fields": "Chandler #80 Unified",
+        "city": "Chandler",
+        "approx_residential_rate": 5.6913,
+        "primary_rate": 4.1307,
+        "secondary_rate": 3.6591
+      },
+      {
+        "area_code": "802500",
+        "district_fields": "Chandler #80 Unified",
+        "city": "Queen Creek",
+        "approx_residential_rate": 7.028,
+        "primary_rate": 5.4674,
+        "secondary_rate": 2.7891
+      },
+      {
+        "area_code": "811200",
+        "district_fields": "Nadaburg #81 Unified",
+        "city": "Peoria",
+        "approx_residential_rate": 6.4026,
+        "primary_rate": 4.842,
+        "secondary_rate": 2.1474
+      },
+      {
+        "area_code": "811500",
+        "district_fields": "Nadaburg #81 Unified",
+        "city": "Surprise",
+        "approx_residential_rate": 6.666,
+        "primary_rate": 5.1054,
+        "secondary_rate": 1.3854
+      },
+      {
+        "area_code": "830700",
+        "district_fields": "Cartwright #83 Phoenix",
+        "city": "Glendale",
+        "approx_residential_rate": 5.9637,
+        "primary_rate": 4.4031,
+        "secondary_rate": 10.9148
+      },
+      {
+        "area_code": "831300",
+        "district_fields": "Cartwright #83 Phoenix",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.9053,
+        "primary_rate": 5.3447,
+        "secondary_rate": 10.5993
+      },
+      {
+        "area_code": "860800",
+        "district_fields": "Mobile #86 No School",
+        "city": "Goodyear",
+        "approx_residential_rate": 11.687,
+        "primary_rate": 10.0,
+        "secondary_rate": 1.4539
+      },
+      {
+        "area_code": "881500",
+        "district_fields": "Dysart Unorganized No School",
+        "city": "Surprise",
+        "approx_residential_rate": 4.3331,
+        "primary_rate": 4.3331,
+        "secondary_rate": 1.0388
+      },
+      {
+        "area_code": "890400",
+        "district_fields": "Dysart #89 Unified",
+        "city": "El Mirage",
+        "approx_residential_rate": 7.1096,
+        "primary_rate": 5.549,
+        "secondary_rate": 3.6823
+      },
+      {
+        "area_code": "890700",
+        "district_fields": "Dysart #89 Unified",
+        "city": "Glendale",
+        "approx_residential_rate": 5.7742,
+        "primary_rate": 4.2136,
+        "secondary_rate": 3.8341
+      },
+      {
+        "area_code": "891200",
+        "district_fields": "Dysart #89 Unified",
+        "city": "Peoria",
+        "approx_residential_rate": 5.74,
+        "primary_rate": 4.1794,
+        "secondary_rate": 3.8545
+      },
+      {
+        "area_code": "891500",
+        "district_fields": "Dysart #89 Unified",
+        "city": "Surprise",
+        "approx_residential_rate": 6.0034,
+        "primary_rate": 4.4428,
+        "secondary_rate": 3.0925
+      },
+      {
+        "area_code": "900200",
+        "district_fields": "Saddle Mtn #90 Unified",
+        "city": "Buckeye",
+        "approx_residential_rate": 6.4313,
+        "primary_rate": 5.2104,
+        "secondary_rate": 2.2323
+      },
+      {
+        "area_code": "920100",
+        "district_fields": "Pendergast #92 Tolleson",
+        "city": "Avondale",
+        "approx_residential_rate": 6.0741,
+        "primary_rate": 4.5135,
+        "secondary_rate": 9.4789
+      },
+      {
+        "area_code": "920700",
+        "district_fields": "Pendergast #92 Tolleson",
+        "city": "Glendale",
+        "approx_residential_rate": 5.7888,
+        "primary_rate": 4.2282,
+        "secondary_rate": 9.7588
+      },
+      {
+        "area_code": "921300",
+        "district_fields": "Pendergast #92 Tolleson",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.7304,
+        "primary_rate": 5.1698,
+        "secondary_rate": 9.4433
+      },
+      {
+        "area_code": "931300",
+        "district_fields": "Cave Creek #93 Unified",
+        "city": "Phoenix",
+        "approx_residential_rate": 5.0779,
+        "primary_rate": 4.5692,
+        "secondary_rate": 1.6425
+      },
+      {
+        "area_code": "951000",
+        "district_fields": "Queen Creek #95 Unified",
+        "city": "Mesa",
+        "approx_residential_rate": 5.6462,
+        "primary_rate": 4.0856,
+        "secondary_rate": 3.7895
+      },
+      {
+        "area_code": "952500",
+        "district_fields": "Queen Creek #95 Unified",
+        "city": "Queen Creek",
+        "approx_residential_rate": 7.1947,
+        "primary_rate": 5.6341,
+        "secondary_rate": 2.9313
+      },
+      {
+        "area_code": "970700",
+        "district_fields": "Deer Valley #97 Unified",
+        "city": "Glendale",
+        "approx_residential_rate": 5.7591,
+        "primary_rate": 4.1985,
+        "secondary_rate": 3.8721
+      },
+      {
+        "area_code": "971200",
+        "district_fields": "Deer Valley #97 Unified",
+        "city": "Peoria",
+        "approx_residential_rate": 5.7249,
+        "primary_rate": 4.1643,
+        "secondary_rate": 3.8925
+      },
+      {
+        "area_code": "971300",
+        "district_fields": "Deer Valley #97 Unified",
+        "city": "Phoenix",
+        "approx_residential_rate": 6.7007,
+        "primary_rate": 5.1401,
+        "secondary_rate": 3.5566
+      }
+    ]
+  },
+  "transaction_privilege_tax": {
+    "source": "Arizona Department of Revenue, Transaction Privilege and Other Tax Rate Tables, effective 1 June 2026",
+    "url": "https://azdor.gov/sites/default/files/document/TPT_RATETABLE_06012026.pdf",
+    "county_combined_retail_row": {
+      "printed_row": "017 Retail  6.10% 6.90% 6.60% 6.60% 6.60% 6.30% 5.60% 6.43% 6.10% 6.70% 6.60% 6.35% 6.712% 6.10% .056% .0672%",
+      "columns": [],
+      "values": [
+        "6.10",
+        "6.90",
+        "6.60",
+        "6.60",
+        "6.60",
+        "6.30",
+        "5.60",
+        "6.43",
+        "6.10",
+        "6.70",
+        "6.60",
+        "6.35",
+        "6.712",
+        "6.10"
+      ],
+      "maricopa_by_column_pairing": null,
+      "maricopa_by_position": "6.30"
+    },
+    "city_rates_percent": {
+      "Avondale": {
+        "amusements": 2.5,
+        "contracting prime": 2.5,
+        "contracting speculative builders": 2.5,
+        "contracting owner builder": 2.5,
+        "retail": 2.5
+      },
+      "Buckeye": {
+        "amusements": 3.0,
+        "contracting prime": 3.0,
+        "contracting speculative builders": 3.0,
+        "contracting owner builder": 3.0,
+        "retail": 3.0
+      },
+      "Chandler": {
+        "amusements": 1.5,
+        "contracting prime": 1.5,
+        "contracting speculative builders": 1.5,
+        "contracting owner builder": 1.5,
+        "retail": 1.5
+      },
+      "El Mirage": {
+        "amusements": 3.0,
+        "contracting prime": 3.0,
+        "contracting speculative builders": 3.0,
+        "contracting owner builder": 3.0,
+        "retail": 3.0
+      },
+      "Glendale": {
+        "amusements": 2.9,
+        "contracting prime": 2.9,
+        "contracting speculative builders": 2.9,
+        "contracting owner builder": 2.9,
+        "retail": 2.9
+      },
+      "Goodyear": {
+        "amusements": 2.5,
+        "contracting prime": 3.5,
+        "contracting speculative builders": 3.5,
+        "contracting owner builder": 3.5,
+        "retail": 2.5
+      },
+      "Litchfield Park": {
+        "amusements": 2.8,
+        "contracting prime": 4.8,
+        "contracting speculative builders": 4.8,
+        "contracting owner builder": 4.8,
+        "retail": 2.8
+      },
+      "Mesa": {
+        "amusements": 2.0,
+        "contracting prime": 2.0,
+        "contracting speculative builders": 2.0,
+        "contracting owner builder": 2.0,
+        "retail": 2.0
+      },
+      "Peoria": {
+        "amusements": 2.8,
+        "contracting prime": 1.8,
+        "contracting speculative builders": 1.8,
+        "contracting owner builder": 1.8,
+        "retail": 1.8
+      },
+      "Phoenix": {
+        "amusements": 2.8,
+        "contracting prime": 2.8,
+        "contracting speculative builders": 2.8,
+        "contracting owner builder": 2.8,
+        "retail": 2.8
+      },
+      "Queen Creek": {
+        "amusements": 2.25,
+        "contracting prime": 4.25,
+        "contracting speculative builders": 4.25,
+        "contracting owner builder": 4.25,
+        "retail": 2.25
+      },
+      "Surprise": {
+        "amusements": 2.8,
+        "contracting prime": 3.7,
+        "contracting speculative builders": 3.7,
+        "contracting owner builder": 3.7,
+        "retail": 2.8
+      },
+      "Tolleson": {
+        "amusements": 2.5,
+        "contracting prime": 2.5,
+        "contracting speculative builders": 2.5,
+        "contracting owner builder": 2.5,
+        "retail": 2.5
+      }
+    },
+    "classes_extracted": {
+      "017": "retail",
+      "015": "contracting prime",
+      "016": "contracting speculative builders",
+      "037": "contracting owner builder",
+      "012": "amusements",
+      "053": "vehicle rentals"
+    }
+  },
+  "retrieved_utc": "2026-10-28T12:55:04+00:00"
+}

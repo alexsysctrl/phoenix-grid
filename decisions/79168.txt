@@ -1,0 +1,976 @@
+=== PAGE 1 ===
+~IIIIIIIIIIIIIIIIIIIIII IIH IUIII I I: Q)6 m! I
+BEFORE THE ARIZONA CORPORATION COMMISSION
+COMMISSIONERS Arizona Corporation Commission
+DOCKETED
+NOV 3 2023
+JIM O'CONNOR - CHAIRMAN
+LEA MARQUEZ PETERSON
+ANNA TOVAR
+KEVIN THOMPSON
+NICK MYERS
+DOCKETED BY
+n\
+DOCKET no. L-21261A-23-0219-00225
+CASE no. 225B
+79168
+DECISION no.
+IN THE MATTER OF THE APPLICATION OF
+RWE RENEWABLES DEVELOPMENT, LLC.,
+IN CONFORMANCE WITH THE
+REQUIREMENTS OF ARIZONA REVISED
+STATUES, SECTIONS 40-360, ET. SEQ., FOR
+CERTIFICATES OF ENVIRONMENTAL
+COMPATIBILITY AUTHORIZING THE
+FORGED ETHIC WIND ENERGY
+INTERCONNECTION PROJECT LOCATED IN
+COCONINO COUNTY ARIZONA.
+I
+l
+Open Meeting
+October 26, 2023
+Phoenix, Arizona
+l
+l
+l
+I
+\l
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+11
+12
+13
+1 4
+15 BY THE COMMISSION:
+16 Pursuant to A.R.S. § 40-360 et seq., after due consideration of all relevant matters, the
+17 Arizona Corporation Commission (Commission) finds and concludes that the Certificate of
+18 Environmental Compatibility (CEC-225B) issued by the Arizona Power Plant and Transmission Line
+19 Siting Committee (Siting Committee) is hereby approved as modified by this Order.
+20 The Commission, in reaching its decision, has balanced all relevant matters in the broad
+21 public interest, including the need for an adequate, economical, and reliable supply of electric power
+22 with the desire to minimize the effect thereof on the environment and ecology of this state, and finds
+23 that CEC-225B for the above-captioned application for siting approval is in the public interest as
+24 modified by the Order.
+1 Decision No.
+
+
+=== PAGE 2 ===
+L-2126lA-23-0219-00225
+The Commission modifies CEC-225B by:1
+• Deleting "Township 26N, Section 6E, Range 7" and inserting "Township 26N, Range2
+6E, Section 7" at page 2, line 27, and3
+.4 Deleting "SE" and inserting "5E" at page 3, line 4.
+The Commission further finds and concludes that in balancing the broad public interest in this5
+6 matter:
+1.7 The Project is in the public interest because it aids the state in meeting the need for an
+adequate, economical, and reliable supply of electric power.
+8
+2.
+9
+In balancing the need for the Project with its effect on the environment and ecology of
+the state, the conditions placed on CEC-225B as modified by the Commission
+effectively minimize its impact on the environment and ecology of the state.
+10
+3.
+l l
+The conditions placed on CEC-225B as modified by the Commission resolve matters
+concerning the need for the Project and its impacts on the environment and ecology of
+the state raised during the course of proceedings and, as such, serve as the findings on
+the matters raised.12
+4.13 In light of these conditions, the balancing in the broad public interest results in favor
+of granting CEC-225B as modified by the Commission.
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+1
+1
+24
+1
+1
+79168
+25 Decision No.2
+
+
+=== PAGE 3 ===
+L-21261A-23-0219-00225
+CEC-225-B ISSUED BY THE SITING COMMITTEE IS INCORPORATED HEREIN
+AND IS APPROVED AS MODIFIED BY ORDER OF THE
+ARIZONA CORPORATION COMMISSION
+I
+1 4 4, -
+COMMISSIONER MA QUEZ PETERSON
+J L, /
+COMMI I ER MYERSISSIONE THOMPSON
+)
+. 4
+IN WITNESS WHEREOF, 1, DOUGLAS R. CLARK,
+Executive Director of the Arizona Corporation Commission,
+have hereunto, set my hand and caused the official seal of this
+Commission to be affixed at the Capitol, in the City of Phoenix,
+this 34 day of ,2023.
+4 .
+I = :
+.;=' , `
+*in:
+N i .
+92. I .
+°*.l»coo";0¢{l ¢ YI . I A • - . 4
+Q / \ ' »,.%
+0 L
+1. \ i :¢ * | I
+' ° . . . . . ° t
+J. °..!ITA1 :gs.,l' ,.'
+'  * °.»»--»»» I *
+ii
+DOUGLAS R. CLARK
+Executive Director
+l
+2
+3
+4
+5 C AIRMAN O'CONNOR
+6
+7
+8 COMMI SSI ONER TOVARC O M
+9
+10
+ll
+12
+13
+14
+15
+16 DI SSENT:
+17
+18 DI SSENT:
+19
+20
+21
+22
+23
+24
+25 79168
+Decision No.3
+
+
+=== PAGE 4 ===
+L21261A-23-0219-00225
+BEFORE THE ARIZONA POWER PLANT
+AND TRANSMISSION LINE SllINC COMMITTEE
+DOCKET NO.: L-21261A-23-0219-00225
+Case No. 225
+CERTIFICATE OF
+ENVIRONMENTAL
+COMPATIBILITY
+; )CEC-225B L.
+:. 4i4-
+.
+v
+` P
+A.
+4
+5
+6
+7
+8
+9
+1 0
+I l
+Gabby Mercer
+Leonard Drago
+David French
+1
+2
+3 IN THE MATTER OF THE
+APPLICATION OF RWE
+RENEWABLES DEVELOPMENT,
+LLC, IN CONFORMANCE WITH THE
+REQUIREMENTS OF ARIZONA
+REVISED STATUTES, SECTIONS 40-
+360, ET. SEQ., FOR A CERTIFICATE
+OF ENVIRONMENTAL
+COMPATIBILITY AUTIIORIZING
+THE FORGED ETIIIC WIND ENERGY
+INTERCONNECTION PROJECT
+LOCATED IN COCONINO COUNTY,
+ARIZONA.
+-9INTRODUCTION cu
+9
+12 P ursuant to notice given as provided by law, the Arizona P ower P lant and
+13 Transmission Line Siting Committee ("Committee") held public hearings on September 5
+14 and 6, 2023, in Coconino County, in conformance with the requirements of the Arizona
+15 Revised Statutes ("A.R.S.") § 40-360 et seq. for the purpose of receiving evidence and
+16 deliberating on the July 24, 2023 Application of RWE Renewables Development, LLC,
+17 ("Applicant") for a Certificate of Environmental Compatibility ("Certificate" or "CEC")
+18 in the above-captioned case.
+19 The following members and designees of members of the Committee were present
+20 at one or more of the hearing days for the evidentiary presentations, public comment,
+21 a nd/or for the deliberations:
+22 Adam Stafford
+23
+24
+25
+26
+27
+28
+Chairman, Designee for Arizona Attorney General
+Kris Mayes
+Designee of the Chairman, Arizona Corporation
+Commission ("Commission")
+Designee for Director, Arizona Department of
+Environmental Quality
+Designee for Director, Arizona Department of
+48890585502 l .3
+Decision No. 79168
+
+
+=== PAGE 5 ===
+L21261A-23-0219~00225
+Water Resources
+Scott Somers Appointed Member, representing cities and towns
+David Kryder Appointed Member, representing agricultural interests
+Margaret "Toby" Little Appointed Member, representing the general public
+Jon Gold Appointed Member, representing the general public
+Dave Richins Appointed Member, representing the general public
+The Applicant was represented by Bert Acken of Acken Law. The following
+parties were granted intervention pursuant to A.R.S. § 40-360.053 Arizona Public Service
+Company ("APS"), represented by Linda J. Benally and Jennifer Spina of Pinnacle West
+Capital Corporation.
+At the conclusion of the hearing, the Committee, after considering the (i)
+Application, (ii) evidence, testimony, and exhibits presented by the Applicant, and (iii)
+comments of the public, and being advised of the legal requirements of A.R.S. §§ 40-360
+through 40-360.13, upon motion duly made and seconded, voted 8 to 0, to grant
+Applicant, its successors and assigns, this Certificate for construction of the Forged Ethic
+Wind Energy Interconnection Project ("Project") as described below.
+B. P RO J ECT DESCRIP TIO N
+l
+lThe Project consists of an approximately 5-mile 500-kV transmission line and
+associated interconnection facilities to interconnect the Applicant's planned energy
+facilities (the non-jurisdictional "Wind Project") to the regional electrical transmission
+grid at a planned APS Switchyard ("APS Switchyard") in Coconino County on the
+Moenkopi-Cedar Mountain 500-kV transmission line.
+All Project facilities will be located in a corridor as shown in Exhibit A ( th e
+"Project Corridor"). The requested Project Corridor extends between the non-
+jurisdictional Project Substation and the APS Switchyard. The Project Corridor starts as a
+rectangular area buffered around the planned location for the Project Substation on private
+property in Township 26N, Section 6E, Range 7. The Project Corridor then proceeds
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+11
+1 2
+13
+1 4
+1 5
+1 6
+1 7
+1 8
+1 9
+20
+21
+22
+23
+24
+25
+26
+27
+28
+-2-
+. . 79168Decision No.
+
+
+=== PAGE 6 ===
+L-21261A-23-0219-00225
+south for approximately 0.3 miles as a 200-foot-wide area before turning southwest at the
+northern edge of the Moenkopi to Cedar Mountain 500-kV transmission line. The Project
+Corridor then proceeds southwest as a 300-foot-wide area for approximately 4.4 miles.
+Once the Project Corridor reaches Township 26N, Range SE, Section 21, the Project
+Corridor widens to include private property in Section 21 that is north of the southern
+limit of the Moenkopi to Cedar Mountain 500-kV transmission line right of way. The
+Project Corridor widens in Section 21 to accommodate potential routing variants for the
+Project to enter the APS Switchyard and provide an area in which to site the APS
+Switchyard. The final right-of-way width for the transmission line within the Project
+Corridor will be up to 200 feet.
+Two CECs are being approved for the Project to allow for future ownership
+transfer of a portion of the Project. As shown in Exhibit A, this CEC, CEC-225B, is for
+the planned APS Switchyard. The companion CEC-225A is for the transmission line
+portion of the Project that originates at the Wind Project and terminates at the planned
+APS Switchyard.
+CONDITIONS
+This Certificate is granted upon the following conditions:
+l. This authorization to construct the Project shall expire ten (10) years from
+the date this Certificate is approved by the Arizona Corporation Commission, with or
+without modification. Construction of the Project shall be complete, such that the Project
+is in service within this ten-year timeframe. However, prior to the expiration of the time
+period, the Applicant may request that the Commission extend the time limitation.
+2. In the event that the Project requires an extension of the term(s) of this
+Certificate prior to completion of construction, the Applicant shall file such time extension
+request at least one hundred and eighty (180) days prior to the expiration of the
+Certificate. The Applicant shall use reasonable means to promptly notify the Board of
+Supervisors of Coconino County, all landowners and residents within a five (5) mile
+l
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+ll
+12
+13
+14
+1 5
+16
+17
+1 8
+1 9
+2 0
+2 1
+22
+23
+24
+25
+26
+27
+28
+3
+79168
+Decision No.
+
+
+=== PAGE 7 ===
+L21251A23-0219-00 25
+a .
+b.
+c.
+d .
+e .
+radius of the centerline of the Project, all persons who made public comment at this
+proceeding who provided a mailing or email address, and all parties to this proceeding.
+The notification provided will include the request and the date, time, and place of the
+hearing or open meetings during which the Commission will consider the request for
+extension. Notification shall be no more than three (3) business days after the Applicant is
+made aware of the hearing date or the open meeting date.
+3. During the development, construction, operation, maintenance and
+reclamation of the Project, the Applicant shall comply with all existing applicable air and
+water pollution control standards and regulations, and with all existing applicable statutes,
+ordinances, master plans and regulations of any governmental entity having jurisdiction,
+including, but not limited to, the United States of America, the State of Arizona, Coconino
+County, and their agencies and subdivisions, including but not limited to the following:
+All applicable land use regulations,
+All applicable zoning stipulations and conditions, including but not
+limited to landscaping and dust control requirements;
+All applicable water use, discharge and/or disposal requirements of
+the Arizona I)epartment of Water Resources and the Arizona
+Department of Environmental Quality;
+All applicable noise control standards; and
+All applicable regulations governing storage and handling of
+hazardous chemicals and petroleum products.
+4. The Applicant shall obtain all approvals and permits necessary to construct,
+operate and maintain the Project required by any governmental entity having jurisdiction
+including, but not limited to, the United States of America, the State of Arizona, Coconino
+County, and their agencies and subdivisions.
+5. The Applicant shall comply with the Arizona Game and Fish Department
+("AGFD") guidelines for handling protected animal species, should any be encountered
+l
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+12
+13
+1 4
+1 5
+1 6
+17
+1 8
+1 9
+20
+2 1
+22
+23
+24
+25
+26
+27
+28
+-4-
+. . 79168Decision No.
+
+
+=== PAGE 8 ===
+L-21281A-23-0219-002 5
+l
+during construction and operation of the Project, and shall consult with AGFD or U.S.
+Fish and Wildlife Service, as appropriate, on other issues concerning wildlife.
+6. The Applicant shall design the Project's interconnection facilities to
+incorporate reasonable measures to minimize electrocution of and impacts to avian
+species in accordance with the Applicant's avian protection program. Such measures will
+be accomplished through incorporation of Avian Power Line Interaction Committee
+guidelines set forth in the current versions of Suggested Practices for Avian Protection on
+Power Lines and Reducing Avian Collisions with Power Lines manuals.
+7. The Applicant shall consult the State Historic Preservation Office ("SHPO")
+with respect to cultural resources. The Applicant will complete a Class III cultural
+inventory of the portions of the APS Switchyard corridor as designated in Exhibit A that
+have not been previously adequately surveyed to identify and evaluate the cultural
+resources that may be present. If any archaeological, paleontological, or historical sites or
+a significant cultural object is discovered on state, county or municipal land during the
+construction or operation of the Project, the Applicant or its representative in charge shall
+promptly report the discovery to the Director of the Arizona State Museum ("ASM"), and
+in .consultation with the Director, shall immediately take all reasonable steps to secure and
+maintain the preservation of the discovery as required by A.R.S. §41-844.
+8. The Applicant shall comply with the notice and salvage requirements of the
+Arizona Native Plant Law (A.R.S. §§ 3-901 et seq.) and shall, to the extent feasible,
+minimize the destruction of native plants during the construction and operation of the
+Project.
+9. The Applicant shall make every reasonable effort to promptly investigate,
+identify and correct, on a case-specific basis, all complaints of interference with radio or
+television signals from operation of the Project addressed in this Certificate and where
+such interference is caused by the Project take reasonable measures to mitigate such
+interference. The Applicant shall maintain written records for a period of five (5) years of
+l
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+11
+1 2
+13
+1 4
+1 5
+1 6
+1 7
+1 8
+1 9
+20
+21
+22
+23
+24
+25
+26
+27
+28
+5
+79168Decision No.
+
+
+=== PAGE 9 ===
+L-21261A-23-0219-00225
+all complaints of radio or television interference attributable to operations, together with
+the corrective action taken in response to each complaint. All complaints shall be recorded
+to include notation on the corrective action taken. Complaints not leading to a specific
+action or for which there was no resolution shall be noted and explained. Upon request,
+the written records shall be provided to the Staff of the Commission. The Applicant shall
+respond to complaints and implement appropriate mitigation measures. In addition, the
+Project shall be evaluated on a regular basis so that damaged insulators or other line
+materials that could cause interference are repaired or replaced in a timely manner.
+10. If human remains and/or funerary objects are encountered during the course
+of any ground-disturbing activities related to the construction or maintenance of the
+Project, the Applicant shall cease work on the affected area of the Project and notify the
+Director of the ASM as required by A.R.S. § 41-865 for private land, or as required by
+A.R.S. § 41-844 for state, county, or municipal lands.
+ll. Within one hundred twenty (120) days of the Commission's decision
+approving this Certificate, the Applicant shall post signs in or near public rights-of-way,
+to the extent authorized by law, reasonably adjacent to the Project giving notice of the
+Project. Such Signage shall be no smaller than a roadway sign. The signs shall advise:
+a. Future site of the Project,
+b. A phone number and website for public information regarding the
+Pro ject; and
+c. Refer the Public to the Docket.
+Such signs shall be inspected at least once annually and, if necessary, be repaired
+or replaced, and removed at the completion of construction.
+The Applicant shall make every reasonable effort to communicate the decision
+either approving or disapproving the Certificate in digital media.
+12. At least ninety (90) days before construction commences on the Project, the
+Applicant shall provide the Board of Supervisors for Coconino County, and known
+l
+2
+3
+4
+5
+6
+7
+8
+9
+10
+l
+12
+13
+14
+1 5
+16
+1 7
+18
+1 9
+2 0
+2 1
+2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+_ 6_
+79168
+Decision No.
+
+
+=== PAGE 10 ===
+L21281A-23-0219-00225
+The Applicant shall be responsible for arranging that all field personnel
+l
+l
+a .
+builders and developers who are building upon or developing land within one (1) mile of
+the of the centerline of the Project with a written description, including the approximate
+height and width measurements of all structure types, of the Project. The written
+description shall identify the location of the Project and contain a pictorial depiction of the
+facilities being constructed. The Applicant shall also encourage the developers and
+builders to include this information in their disclosure statements. Upon approval of this
+Certificate by the Commission, the Applicant may COIT1IT1CIlC€. construction of the Project.
+13. The Applicant shall use non-specular conductor and non-reflective surfaces
+for the transmission line structures on the Project.
+14.
+involved in the Project receive training as to proper ingress, egress, and on-site working
+protocol for environmentally sensitive areas and activities. Contractors employing such
+field personnel shall maintain records documenting that the personnel have received such
+training.
+15. T he Applicant shal l follow the mo st cu rrent Western Electricity
+Coordinating Council ("WECC") and North American Electric Reliability Corporation
+("NERC") planning standards, a s approved b y t he Federal Energy Regu lato ry
+Commission ("FERC"), National Electrical Safety Code ("NESC") standards, and Federal
+Aviation Administration ("FAA") regulations.
+16. The Applicant shall participate in good faith in state and regional
+transmission study forums to coordinate transmission expansion plans related to the
+Project and to resolve transmission constraints in a timely manner.
+17. When Project facilities are located parallel to and within one hundred (100)
+feet of any existing natural gas or hazardous pipeline, the Applicant shall:
+Ensure grounding and cathodic protection studies are performed to
+show that the Project's location parallel to and within one hundred
+(100) feet of such pipeline results in no material adverse impacts to
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+l l
+12
+13
+1 4
+15
+1 6
+1 7
+1 8
+1 9
+2 0
+2 1
+2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+7 -
+Decision No. 79168
+
+
+=== PAGE 11 ===
+L-21261A-23-0219-00225
+b .
+the pipeline or to public safety when both the pipeline and the Project
+are in operation. The Applicant shall take appropriate steps to ensure
+that any material adverse impacts are mitigated. The Applicant shall
+provide to Staff of the Commission, and file with Docket Control, a
+copy of the studies performed and additional mitigation, if any, that
+was implemented as part of its annual compliance-certification letter,
+and
+Ensure that studies are performed simulating an outage of the Project
+that may be caused by the collocation of the Project parallel to and
+within one hundred (100) feet of the existing natural gas or hazardous
+liquid pipeline. The studies should either: (a) show that such
+simulated outage does not result in customer outages, or (b) include
+operating plans to minimize any resulting customer outages. The
+Applicant shall provide a copy of the study results to Staff of the
+Commission and file them with Docket Control as part of the
+Applicant's annual compliance certification letter.
+18. The Applicant shall submit a compliance certification letter annually,
+identifying progress made with respect to each condition contained in this Certificate,
+including which conditions have been met. The letter shall be submitted to Commission's
+Docket Control commencing on December 1, 2024. Attached to each certification letter
+shall be documentation explaining how compliance with each condition was achieved.
+Copies of each letter, along with the corresponding documentation, shall be submitted to
+the Arizona Attorney General's Office. With respect to the Project, the requirement for the
+compliance letter shall expire on the date the Project is placed into operation. Notification
+of such filing with Docket Control shall be made to the Board of Supervisors for
+Coconino County, all parties to this Docket, and all parties who made a limited
+appearance in this Docket.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+ll
+1 2
+13
+1 4
+1 5
+1 6
+1 7
+1 8
+1 9
+20
+2 1
+22
+23
+24
+25
+26
+27
+28
+_ 8_
+79168
+Decision No.
+
+
+=== PAGE 12 ===
+L-21261A-23-0219-00 5
+19. The Applicant shall provide a copy of this Certificate to the Board of
+Supervisors for Coconino County.
+20. Any transfer or assignment of this Certificate shall require the assignee or
+successor to assume, in writing, all responsibilities of the Applicant listed in this
+Certificate and its conditions as required by A.R.S. § 40-360.08(A) and R14-3~213(F) of
+the Arizona Administrative Code.
+21. In the event the Applicant, its assignee, or successor, seeks to modify the
+Certificate's terms at the Commission, it shall provide copies of such request to the Board
+of Supervisors for Coconino County, all parties to this Docket, and all parties who made a
+limited appearance in this Docket.
+22. The Certificate Conditions shall be binding on the Applicant, its successors,
+assignee(s) and transferees and any affiliates, agents, or lessees of the Applicant who have
+a contractual relationship with the Applicant concerning the construction, operation,
+maintenance, or reclamation of the Project. The Applicant shall provide in any
+agreement(s) or lease(s) pertaining to the Project that the contracting parties and/or
+lessee(s) shall be responsible for compliance with the Conditions set forth herein, and the
+Applicant's responsibilities with respect to compliance with such Conditions shall not
+cease or be abated by reason of the fact that the Applicant is not in control of or
+responsible for operation and maintenance of the Project facilities.
+FINDINGS OF FACT AND CONCLUSIONS OF LAW
+l
+This Certificate incorporates the following Findings of Fact and Conclusions of
+Law :
+1. The Project aids the state and the southwest region of the United States in
+meeting the need for an adequate, economical, and reliable supply of renewable electric
+power.
+2. When constructed in compliance with the conditions imposed in this
+Certificate, the Project aids the state, preserving a safe and reliable electric transmission
+l
+2
+3
+4
+5
+6
+7
+8
+9
+1 0
+ll
+12
+13
+1 4
+1 5
+1 6
+1 7
+1 8
+1 9
+20
+21
+22
+23
+24
+25
+26
+27
+28
+791689 -
+Decision No.
+
+
+=== PAGE 13 ===
+L-21261A-23-0219-00225
+as
+THE ARIZONA POWER PLANT AND
+TRANSMISSION LINE SITING COMMITTEE
+.44.4>2;=>By:
+Adam Stafford, Chairman
+1 system.
+2 3. During the course of the hearing, the Committee considered evidence on the
+3 environmental compatibility of the Project as required by A.R.S. §40-360 et seq.
+4 4. The Project and the conditions placed on the Project in this Certificate
+5 effectively minimize the impact of the Project on the environment and ecology of the
+6 state.
+7 5. The conditions placed on the Project in this Certificate resolve matters
+8 concerning balancing the need for the Project with its impact on the environment and
+9 ecology of the state arising during the course of the proceedings, and, as such, serve
+10 findings and conclusions on such matters.
+l l 6. The Project is in the public interest because the Project's contribution to
+12 meeting the need for an adequate, economical, and reliable supply of electric power
+13 outweighs the minimized impact of the Project on the environment and ecology of the
+14 state.
+15 7. . The Project substation is not jurisdictional because the definition of a
+16 "transmission line" under A.R.S. § 40-360(l0) only includes "new switchyards to be used
+17 therewith", not substations.
+1 8 DATED this/9" day of 5///A/,2023.
+19
+20
+2 1
+22
+23
+24
+25
+26
+27
+28
+_10_
+79168
+Decision No.
+
+
+=== PAGE 14 ===
+L-21261A-23-0219-00225
+CERTIFICATE OF MAILING
+filed this 2023 with:
+Pursuant to A.A.C. R14-3-204,
+the Original and 26 copies were
+/ day of September,
+Docket Control
+Arizona Corporation Commission
+1200 W. Washington Street
+Phoenix, AZ 85007
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Copy of he above was mailed
+this day of September, 2023 to:
+Robin Mitchell, General Counsel
+Arizona Corporation Commission
+1200 West Washington Street
+Phoenix, AZ 85007
+rmitchell@azcc.gov
+Counsel or Legal Division Staffl l
+12
+13
+Douglas Clark, Interim Director
+Utilities Division
+Arizona Cooration Commission
+1200 West ashington Street
+Phoenix, AZ 8500714
+15
+16
+17 Court
+Lisa L. Glennie
+Glennie Re Orting Services, LLC
+1555 East orangewood
+Phoenix, Arizona 85020
+admin lennie-re ortin .com
+eporter
+18
+19
+20
+Albert H. Acken
+Acken Law
+111 E. Dunlap Ave, Suite 1-172
+Phoenix, AZ 85020
+bert@ackenlaw.com
+Attorney for RWE Renewables Development, LLC21
+22
+23
+24
+25
+Linda Benally
+Jennifer S Ina
+Pinnacle West Capital Corporation Law Department
+400 North 5th Street MS 8695
+Phoenix, Arizona 85004
+Linda.Benal1y pinnac1ewest.com
+Jenniter.Spina pinnaclewest.com
+Attorneys for Intervenor APS
+26 ///
+27 ///
+28
+1l
+111
+79168
+Decision No.
+
+
+=== PAGE 15 ===
+L-21261 A-23-0219-00225
+2
+1 APS State Regulatory
+Attn: Rachael Leonard
+400 n. Sth Street, MS 9708
+3 ,';'3?§$l$3Ab1§=°s'2a 81502 gulatorvDepartment@ apsc.com
+4 2 f / ' i
+5 CEC 225-A
+6
+7
+8
+9
+10
+l l
+12
+13
+14
+15
+16
+17
+18
+19
+20
+2 1
+22
+23
+24
+25
+26
+27
+28
+-1 2 -
+. . 79168
+Decision No.
+
+
+=== PAGE 16 ===
+L-21261A-23-0219~00225
+EXHIBIT A
+I
+I
+I I!
+I
+I
+4
+r
+II
+I|
+,.-|
+I
+II
+II
+II
+II
+I
+i
+Il
+II
+II 4 / "
+/,..*
+~ . F
+at
+//'
+.f if1* .
+/
+/
+/ " " '
+f  ./
+1'
+Z
+..
+A
+II
+I
+II. . § .
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+II
+Il
+II
+II
+II
+I
+ut-
+Cueanlno County, A2
+NAU 1983 um  Zone IZN
+J s .s 4oa°n m .s a1s ~w
+o 025 D5
+Klumeleut
+o u 5 I
+.-J
+._ §g; *'~Q Transm lsslon
+Land Ownership
+. Private
+State
+M N
+A
+l:J CEC225A
+E21 CEC225B
+r"1 Wind Project
+_ Project Substatlon
+Interconnection
+Sw itchyard
+- Interconnection Project
+- -  A c c e s s  R o a d Un Vu Ishmus of.....\w s» u  a w1m -4 true 1 :50000
+13
+. 79168
+Dec is io n  No .

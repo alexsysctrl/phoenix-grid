@@ -1,0 +1,164 @@
+{
+  "source_file": "mc-bos-2025-12-10-item10030.txt",
+  "source_sha256": "160d04a22817b409b53c532d56ad68564773c428f47daf6355654cf7bda79aa4",
+  "agenda": "December 10, 2025 Board of Supervisors' Hearing - Planning and Zoning Agenda",
+  "agenda_url": "https://www.maricopa.gov/AgendaCenter/ViewFile/Item/10030?fileID=97132",
+  "agenda_retrieved": "2026-10-29T17:44:00-07:00",
+  "agenda_sha256_pdf": "0cd814709a04389bcf473420112e6bc6acf3fa4bf0c1bb0a608213be249a2160",
+  "counts": {
+    "items": 12,
+    "industrial_or_utility": 8,
+    "with_commission_vote": 12,
+    "vote_tally": {
+      "8-0": 10,
+      "7-0": 1,
+      "9-0": 1
+    }
+  },
+  "cases": [
+    {
+      "title": "Harquahala Energy Generation & Industrial Complex",
+      "case": "CPA250002",
+      "district": "5",
+      "applicant_owner": "Keith Nichter, Kimley-Horn / DL Landco, LLC; Ben Fatto, LP; Gluck, LP; GYP Harquahala Holdings, LLC; Klaus Jurgen Bolle Rainer, TR; David Marion, RT; Copia Land Holdings, LLC; Daniel Arredondo, RT; Stegner, FT; Schuetze FT; and CLB Partners, LLC Request: General Comprehensive Plan Amendment (CPA) to change a land",
+      "request": "General Comprehensive Plan Amendment (CPA) to change a land use designation in the Maricopa County Vision 2030 Comprehensive Plan from Rural Development Area (0-1 du/ac) to Utilities. CPA Approval is by resolution. Site Location: Generally located at the NWC of 499th Ave. and Camelback Rd. in t",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Harquahala Energy Generation & Industrial Complex",
+      "case": "Z250015",
+      "district": "5",
+      "applicant_owner": "Keith Nichter, Kimley-Horn / DL Landco, LLC; Ben Fatto, LP; Gluck, LP; GYP Harquahala Holdings, LLC; Klaus Jurgen Bolle Rainer, TR; David Marion, RT; Copia Land Holdings, LLC; Daniel Arredondo, RT; Stegner, FT; Schuetze FT; and CLB Partners, LLC Request: Zone change with overlay from IND-2 IUPD and Rural-43 to IND",
+      "request": "Zone change with overlay from IND-2 IUPD and Rural-43 to IND-2 IUPD Site Location: Generally located at the NWC of 499th Ave. and Camelback Rd. in the Harquahala Valley area Commission Recommendation: On 11/06/25, the Commission voted 8 -0 (motion by Commissioner Hernandez D5, seconded by Com",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Dandelion Energy Park",
+      "case": "CPA250004",
+      "district": "5",
+      "applicant_owner": "Chris Webb, Rose Law Group / Arizona State Trust Land (ASLD) Request: Major Comprehensive Plan Amendment (CPA) to change the land use designation from Rural Development Area (RDA) to Utilities. CPA approval is by Resolution. Site Location: Generally located SE of Riggs Rd. and Avondale Blvd. alignments in the Mob",
+      "request": "Major Comprehensive Plan Amendment (CPA) to change the land use designation from Rural Development Area (RDA) to Utilities. CPA approval is by Resolution. Site Location: Generally located SE of Riggs Rd. and Avondale Blvd. alignments in the Mobile / south Goodyear / south Avondale area Commissi",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Dandelion Energy Park",
+      "case": "Z250028",
+      "district": "5",
+      "applicant_owner": "Chris Webb, Rose Law Group / Arizona State Trust Land (ASLD) Request: Zone Change with Overlay from Rural-190 and Rural-43 to IND-2 IUPD Site Location: Generally located SE of Riggs Rd. and Avondale Blvd. alignments in the Mobile / south Goodyear / south Avondale area Commission Recommendation: On 11/06/25, the",
+      "request": "Zone Change with Overlay from Rural-190 and Rural-43 to IND-2 IUPD Site Location: Generally located SE of Riggs Rd. and Avondale Blvd. alignments in the Mobile / south Goodyear / south Avondale area Commission Recommendation: On 11/06/25, the Commission voted 8 -0 (motion by Commissioner Hern",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Mariposa Energy Park",
+      "case": "CPA250005",
+      "district": "5",
+      "applicant_owner": "",
+      "request": "Major Comprehensive Plan Amendment (CPA) to modify the land use designation listed in the Vision 2030 Comprehensive Plan from Rural Development Area to Utilities. CPA case approval is by Resolution. Site Location: Generally located at the SEC of the Patterson Rd. and Litchfield Rd. alignments i",
+      "commission_recommendation": {
+        "date": "11/6/25",
+        "vote": "7 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Harquahala Sun III-V",
+      "case": "CPA250006",
+      "district": "5",
+      "applicant_owner": "",
+      "request": "Major Comprehensive Plan Amendment (CPA) to modify the land use designation listed in the Vision 2030 Comprehensive Plan from Rural Development Area to Utilities. CPA case approval is by Resolution. Site Location: Generally located at the NWC of 499th Ave. and Baseline Rd. in the Harquahala Vall",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "McHenry / Buckeye Industrial Zoning",
+      "case": "Z250017",
+      "district": "5",
+      "applicant_owner": "Greg Loper/ ACE PSP LLC Request: Zone Change with Overlay from Rural-43 & IND-2 IUPD to IND-2 IUPD Site Location: Generally located 2,717’ west of the SWC of Yuma Rd. & Palo Verde Rd. in the Hopeville/Buckeye area Commission Recommendation: On 11/06/25, the Commission voted 8 -0 (motion by Commissioner Hernand",
+      "request": "Zone Change with Overlay from Rural-43 & IND-2 IUPD to IND-2 IUPD Site Location: Generally located 2,717’ west of the SWC of Yuma Rd. & Palo Verde Rd. in the Hopeville/Buckeye area Commission Recommendation: On 11/06/25, the Commission voted 8 -0 (motion by Commissioner Hernandez D5, seconde",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Roosevelt Logistics Center",
+      "case": "Z250022",
+      "district": "4",
+      "applicant_owner": "",
+      "request": "Zone Change from Rural-43 to IND-2 IUPD Site Location: Generally located about 1,260’ west of the SWC of Roosevelt St. and 339th Ave in the Tonopah area Commission Recommendation: On 11/06/25, the Commission voted 8 -0 (motion by Commissioner Hernandez D5, seconded by Commissioner Rochwalik D",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": true
+    },
+    {
+      "title": "Redhawk Power Plant",
+      "case": "SU250026",
+      "district": "4",
+      "applicant_owner": "",
+      "request": "Special Use Permit (SUP) Major Amendment in the Rural -190 zoning district Site Location: Generally located 1½ miles southwest of the SWC of Elliot Rd. and 355th Ave. in the Arlington Area Commission Recommendation: On 11/06/25, the Commission voted 8 -0 (motion by Commissioner Hernandez D5",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": false
+    },
+    {
+      "title": "Hassayampa Ranch",
+      "case": "CPA250008",
+      "district": "4",
+      "applicant_owner": "",
+      "request": "Major Comprehensive Plan Amendment (CPA) to modify the land use designation in the Tonopah/Arlington Area Plan from Hassayampa Ranch Development Master Plan (“DMP”) to Industrial. CPA case approval is by Resolution. Site Location: Generally located at the NEC of Camelback Rd. & Wickenburg Rd. a",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": false
+    },
+    {
+      "title": "Maricopa County Zoning Ordinance (MCZO)",
+      "case": "",
+      "district": "",
+      "applicant_owner": "",
+      "request": "Comprehensive update to the Maricopa County Zoning Ordinance (MCZO), incorporating public input, Task Force recommendations, and P&Z Commission review, representing a comprehensive update and modernization of the ordinance. This update improves clarity thr ough enhanced ordinance language, visua",
+      "commission_recommendation": {
+        "date": "11/06/25",
+        "vote": "8 -0"
+      },
+      "converts_to_industrial_or_utility": false
+    },
+    {
+      "title": "MCZO - Accessory Dwelling Units / Short Term Rentals",
+      "case": "",
+      "district": "",
+      "applicant_owner": "",
+      "request": "Amend the Maricopa County Zoning Ordinance (MCZO) - to establish new standards for Accessory Dwelling Units (ADUs) and Short -Term Rentals (STRs) consistent with recent mandates from the Arizona Legislature and as prescribed in the Arizona Revised Statutes (ARS) § 11-810.01 and § 11- 269.17. Co",
+      "commission_recommendation": {
+        "date": "10/23/25",
+        "vote": "9 -0"
+      },
+      "converts_to_industrial_or_utility": false
+    }
+  ]
+}
